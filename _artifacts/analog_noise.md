@@ -1,0 +1,29 @@
+---
+layout: post
+title: Analog Noise
+categories: audio analog
+tags: [Analog, Audio, Noise, Magnetic Tape, Cassette]
+---
+
+Noise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called [[Analog Distortion]]. Noise is defined as a wideband addition to a signal by any electronic or mechanical component.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)
+</ref> There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”
+
+The most common type of noise is “broadband noise,” which is a continuous distribution of energy spread over frequency. It sounds like hissing and has no detectable pitch.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)
+</ref> [[Hum]] and [[Electromagnetic Interference]] (EMI) are other types of noise that do have a detectable pitch.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 116)
+</ref>
+
+
+## Can it be fixed?
+
+
+During digitization, nothing should be done to correct or reduce noise, if that noise is recorded into the source. However, all efforts should be taken to eliminate hum and EMI noise if either is introduced during the transfer process. For tapes that were recorded with Noise Reduction, please see our [[Noise Reduction]] page. The good news is that noise is relatively easy to fix post-production. Most audio editing software has noise detection and removal tools. Several are listed below:
+
+1. [DeNoise](http://www.clickrepair.net/software_info/denoise.html)
+2. [Adobe Audition](https://www.youtube.com/watch?feature=player_embedded&v=gZjlS0tD-Wg)
+3. [IzotopeRX 2](http://www.izotope.com/products/audio/rx/download.asp)
+4. [Waves Restoration Suite](http://www.waves.com/Content.aspx?id=197)
+
+## Examples
+
+[Listen to crackle in a cassette transfer originating in the source in Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-noise-cassette-crackle)
+

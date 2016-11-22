@@ -1,0 +1,27 @@
+---
+layout: post
+title: Analog Distortion
+categories: audio analog
+namevar: [Overload Distortion, Harmonic Distortion, Transient Distortion, Nonlinear Distortion, Intermodulation Distortion]
+tags: [Analog, Audio, Operator Error, Levels Too Hot, Noise, Clipped Samples, Clipping]
+---
+
+In audio, distortion is heard as an unwanted signal change. This is somewhat of a catchall term for such artifacts as [[Wow and Flutter]] that are, by definition, a distortion of the original signal.<ref>White, G. D. (2005.). ''The audio dictionary'' (3rd ed.). Seattle : University of Washington Press. (p. 114 -115)
+</ref> Analog distortion is an artifact recorded into an analog carrier or introduced in an analog signal chain, while [[Digital Distortion]] occurs during digitization and post A/D conversion.
+
+In this artifact guide, analog distortion is the term used to describe a recording where the levels are too hot in the source recording. “Hot levels” means that the input signal level exceeds the recording device’s linear range, and is also known as “overload.” The volume is too high throughout the recording, and thus all distortion artifact noises are also loud. Unfortunately, most unique and archival recordings were done by non-professionals, who made simple mistakes, which are difficult to fix.
+
+## Can it be fixed?
+
+When the distortion is in the source recording, there is not much that can be done during digitization to correct it. Post-production, there are several tools available that are well suited to spectral repair and fixing overloads:
+
+1. iZotope RX suite<ref>http://www.izotope.com/products/audio/rx/</ref><br />
+2. DeNoiseLF <ref>http://www.clickrepair.net/software_info/denoise.html</ref><br />
+3. Adobe Audition <ref>https://www.youtube.com/watch?feature=player_embedded&v=gZjlS0tD-Wg</ref>
+
+Attempts to remove distortion noise may adversely affect the harmonics of a sound and thus change the quality of the voice or sound that was captured. Removing distortion is a balance between taking out undesirable frequencies while keeping component frequencies that make up the harmonic of a sound unaffected. It is careful to keep this in mind while cleaning up the recording for production masters or access copies.
+
+## Examples 
+
+[Listen to distortion in source in Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-distortion-distortion)
+
