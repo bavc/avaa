@@ -3,7 +3,7 @@ description:
 logo: # 120x120 px default
 teaser: # 400x250 px default
 locale:
-baseurl: /
+baseurl: /avaa-demo
 collections: 
   artifacts:
     output: true
