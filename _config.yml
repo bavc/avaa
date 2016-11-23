@@ -8,3 +8,35 @@ url: http://ablwr.github.io
 collections: 
   artifacts:
     output: true
+prose:
+  rooturl: '_artifacts'
+  siteurl: 'http://ablwr.github.io/avaa-demo/'
+  relativeLinks: 'http://ablwr.github.io/avaa-demo/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _artifacts:
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Video"
+              value: "video"
+            - name: "Analog"
+              value: "analog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
