@@ -5,7 +5,7 @@ categories: video analog
 tags: [Analog, Video, Tape Error]
 ---
 
-<img src="/images/Beardingsmall.jpg">
+<img src="{{ site.baseurl }}/images/Beardingsmall.jpg">
 <sub>Bearding as seen in an 1/2" open-reel AV recording. Source: Anthology Film Archives</sub>
 
 

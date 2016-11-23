@@ -5,11 +5,11 @@ categories: video analog digital
 tags: [Video, Analog, Digital]
 ---
 
-<img src="/images/WhiteBalanceError_Flat.jpg">
+<img src="{{ site.baseurl }}/images/WhiteBalanceError_Flat.jpg">
 
 <sub>The image above has a noticeable blue cast due to an incorrect white balance setting at the time of recording. The cast has been removed in the image below.</sub>
 
-<img src="/images/WhiteBalanceCorrected_Flat.jpg">
+<img src="{{ site.baseurl }}/images/WhiteBalanceCorrected_Flat.jpg">
 
 Color balance refers to the mix of primary color intensities carried in a given video signal. Video cameras are usually equipped with circuitry that allows a videographer to set a baseline value for processing “true white” in the video image. Using a white card, the camera operator tells the recording device what white in the image should look like. This allows for consistent color balance between different ambient lighting conditions, where color temperature can affect the entire image.
 

@@ -21,6 +21,6 @@ Severe tracking issues with a particular piece of media may require a custom tap
 Large tracking errors in a video file will be clearly evident as significant spikes in the Temporal Outliers (TOUT) graph. Example below.
 
 
-<img src="/images/Tracking error_qct2.png">
+<img src="{{ site.baseurl }}/images/Tracking error_qct2.png">
 
-<img src="/images/Trackingerror_qct.png">
+<img src="{{ site.baseurl }}/images/Trackingerror_qct.png">

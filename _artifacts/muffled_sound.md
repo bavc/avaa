@@ -7,8 +7,8 @@ tags: [Audio, Analog, Azimuth, Error, Frequency Loss, Playback Adjustment, Media
 ---
 
 
-<img src="/images/Shedding_Oxide-Cassette_Head.jpg">
-<img src="/images/Fc922zv0190_04_a-oxide_out-waveform.png‎">
+<img src="{{ site.baseurl }}/images/Shedding_Oxide-Cassette_Head.jpg">
+<img src="{{ site.baseurl }}/images/Fc922zv0190_04_a-oxide_out-waveform.png‎">
 <sub>Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).</sub>
 
 

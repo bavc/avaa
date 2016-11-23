@@ -5,8 +5,8 @@ categories: video analog
 tags: [Analog, Video, Cable, Production Error]
 ---
 
-<img src="/images/YCSeparation_1_Flat">
-<img src="/images/YCSeparation_2_Flat">
+<img src="{{ site.baseurl }}/images/YCSeparation_1_Flat">
+<img src="{{ site.baseurl }}/images/YCSeparation_2_Flat">
 
 A combination of inferior materials and poor shielding in S-Video cabling can produce the checkerboard pattern seen in these images. It is the result of poor multiplexing of the video components carried in an S-Video output signal.
 

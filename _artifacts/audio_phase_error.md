@@ -5,7 +5,7 @@ categories: audio analog
 tags: [Analog, Audio, Phase, Mono, Stereo]
 ---
 
-<img src="/images/Audio_phase_error.png">
+<img src="{{ site.baseurl }}/images/Audio_phase_error.png">
 <sub>This is an image of a phasescope with a correlation meter along the bottom. A horizontal waveform is an indication that there is a phase problem.</sub>
 
 Problems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.

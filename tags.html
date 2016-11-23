@@ -22,7 +22,7 @@ title: Tags
 {% endfor %}
 
 {% for tag in tags %}
-  <button><a href="/tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
+  <button><a href="tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
 {% endfor %}
 <br/><br/>
 <h1>List</h1>
@@ -34,7 +34,7 @@ title: Tags
    {% for artifact in site.artifacts %}
      {% if artifact.tags contains tag %}
      <li><h3>
-       <a href="{{ artifact.url }}">
+       <a href="{{ site.baseurl }}{{ artifact.url }}">
        {{ artifact.title }}
        </a></h3>
      </li>

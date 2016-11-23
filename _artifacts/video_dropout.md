@@ -6,7 +6,7 @@ tags: [Analog, Video, Dropout]
 ---
 
 
-<img src="/images/708px-DropoutDrawing.png">
+<img src="{{ site.baseurl }}/images/708px-DropoutDrawing.png">
 
 A video dropout is displayed as white and/or black lines of missing information in the picture.
 
@@ -20,8 +20,8 @@ If media is scratched so that oxide is missing, the material cannot be replaced 
 Dropout may also be recorded into the original content. This can be confirmed by "stepping through" the tape in a slow playback mode. The below sequence shows an example of recorded-in dropout. Environmental dirt or loose oxide can be removed by machine or hand-cleaning. If cleaning, it makes sense to rehouse and/or clean the cassette shell at the same time.
 
 ## Identification of Dropout through QCTools 
-<img src="/images/TOUTgraph.jpg">
+<img src="{{ site.baseurl }}/images/TOUTgraph.jpg">
 Analysis of Video Dropout using QCTools' TOUT graph
 
-<img src="/images/3M_DebrisPerspectiveon1InchTapeTruncated.jpg">
+<img src="{{ site.baseurl }}/images/3M_DebrisPerspectiveon1InchTapeTruncated.jpg">
 3M's Debris Perspective on 1" Tape, early 1970s

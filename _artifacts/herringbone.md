@@ -6,7 +6,7 @@ categories: video analog
 tags: [Analog, Video, Electrical, RF, Cable, Device Error]
 ---
 
-<img src="/images/800px-Visible_frame_line.jpg">
+<img src="{{ site.baseurl }}/images/800px-Visible_frame_line.jpg">
 <sub>Notice the light movement of diagonal lines across the image.</sub>
 
 This artifact is exhibited as fine-patterned, light diagonal lines scrolling in the monitor. It is caused by RF interference in cabling, which can include AM radio signals. This RFI is exacerbated by electrical ground loop.

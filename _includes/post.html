@@ -9,7 +9,7 @@
       {% endif %}
       
   {% for tag in page.tags %}
-    <button><a href="/tags.html#{{ tag | slugify }}">{{ tag }}</a></button>
+    <button><a href="{{ site.baseurl }}/tags.html#{{ tag | slugify }}">{{ tag }}</a></button>
   {% endfor %}
 
     </div>

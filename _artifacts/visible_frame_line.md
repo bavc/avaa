@@ -5,7 +5,7 @@ categories: film analog
 tags: [Film]
 ---
 
-<img src="/images/800px-Visible_frame_line.jpg">
+<img src="{{ site.baseurl }}/images/800px-Visible_frame_line.jpg">
 
 This error occurs when a film’s sprockets are not properly aligned during the transfer process.  This is often an issue as a result of shrinkage and/or sprocket damage.  The result is that the line between one frame and another is visible at the top or bottom of the screen, or, in extreme cases, the film appears to roll between frames.
 

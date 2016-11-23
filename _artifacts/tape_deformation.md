@@ -5,7 +5,7 @@ categories: video audio analog
 tags: [Analog, Video, Audio, Deformation, Edge curl, Curvature error, Step pack, Popped strand, Flange pack, Windowing, Spoking, Media Damage]
 ---
 
-<img src="/images/450px-Before_v3.jpg"><img src="/images/450px-After_v3.jpg">
+<img src="{{ site.baseurl }}/images/450px-Before_v3.jpg"><img src="{{ site.baseurl }}/images/450px-After_v3.jpg">
 
 
 Like all materials commonly used for recording information, tape is subject to deformation due to poor storage or handling.  If a tape is stored for a period of time when not wound smoothly or evenly<ref>Common tape pack conditions that may lead to tape deformation include: step pack (or stepped pack); popped strands; flange pack; windowed tape pack; and spoked tape pack.</ref>, the tape may become physically stressed. The risk of deformation is exacerbated by exposure to excessive temperature or relative humidity levels. “Every time a tape pack is heated or cooled, the tape pack tension will increase or decrease, respectively.” <ref>Van Bogart. (1995). ''Magnetic Tape Storage and Handling: A Guide for Libraries and Archives.'' Washington, DC: National Media Laboratory and Council on Library and Information Resources, p. 16.</ref>

@@ -15,5 +15,5 @@ In the example below, a TBC was introducing errors through overcorrection. The i
 
 This artifact may be correctable by readjustment or calibration of the TBC. If the TBC cannot process video output due to poor playback signal from the VTR, the media must be treated to improve playback or a different and more effective TBC must be used.
 
-<img src="/images/TBCerror_compare_02.jpg">
+<img src="{{ site.baseurl }}/images/TBCerror_compare_02.jpg">
 

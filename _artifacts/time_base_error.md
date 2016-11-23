@@ -5,7 +5,7 @@ categories: video analog
 tags: [Analog, Video, TBC, Time Base Corrector]
 ---
 
-<img src="/images/FlagwavingSkewErrorTearing.png">
+<img src="{{ site.baseurl }}/images/FlagwavingSkewErrorTearing.png">
 
 Three conditions caused by time base error - flagwaving, skew error, and tearing. Source: Global Village flyer, ca. 1980.
 

@@ -6,8 +6,8 @@ namevar: [Dolby, dbx, Compander]
 tags: [Analog,Audio,Cassette,Noise,Open Reel Tape]
 ---
 
-<img src="/images/Mandelbrot_dolbyB.png‎">
-<img src="/images/Mandelbrot_flat.png">
+<img src="{{ site.baseurl }}/images/Mandelbrot_dolbyB.png‎">
+<img src="{{ site.baseurl }}/images/Mandelbrot_flat.png">
 
 <sub>Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (top) and played back without Dolby B engaged (bottom)</sub>
 

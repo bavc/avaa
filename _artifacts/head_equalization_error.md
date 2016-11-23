@@ -5,7 +5,7 @@ categories: video analog
 tags: [Video, Analog, Chrominance, Hue, Bands, 2-inch Quad, Open Reel Tape, Device Error]
 ---
 
-<img src="/images/HeadEQ_FLAT_.jpg">
+<img src="{{ site.baseurl }}/images/HeadEQ_FLAT_.jpg">
 <sub>The equalization on one head was turned all the way down to create this image. Notice it is primarily an error in chrominance since the luminance (white) bar on the left shows no banding.</sub>
 
 A banding artifact results when one or more video heads has been incorrectly adjusted for 2" tape playback. All four heads in a Quad player must be properly equalized to the recording in order to prevent this kind of error.  If Ampex Auto Chroma is engaged, it will automatically adjust EQ for proper playback. There are manual controls for adjustment, as well.

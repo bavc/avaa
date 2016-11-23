@@ -5,7 +5,7 @@ categories: video analog
 tags: [Video, Analog, 2-inch Quad, TBC, Playback Adjustment, Open Reel Tape] 
 ---
 
-<img src="/images/VacuumGuideAdjustmentError_FLAT.jpg">
+<img src="{{ site.baseurl }}/images/VacuumGuideAdjustmentError_FLAT.jpg">
 
 This image (recorded in 1966) displays a vacuum guide error. The heads have been moved back from the tape, lessening the geometry. Ampex VTRs with AMTEC processing could remove guide error electronically, but effectiveness was limited (the error in the example above would be too severe for AMTEC processing to correct it).
 

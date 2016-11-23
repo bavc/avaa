@@ -7,13 +7,13 @@
       <meta name="viewport" content="width=device-width">
 
       <!-- syntax highlighting CSS -->
-      <link rel="stylesheet" href="/css/syntax.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
 
       <!-- Custom CSS -->
-      <link rel="stylesheet" href="/css/main.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
       <!-- Responsive CSS -->
-      <link rel="stylesheet" href="/css/responsive.css">
+      <link rel="stylesheet" href="{{ site.baseurl }}/css/responsive.css">
 
       <!-- Google Fonts -->
       <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
@@ -45,30 +45,30 @@
     <div class="site">
       <div class="sidebar" id="sidebar">
         <div class="header">
-          <h1 class="title"><a href="/"><img id="logo" src="/images/logo.jpg"></a></h1>
+          <h1 class="title"><a href="{{ site.baseurl }}"><img id="logo" src="{{ site.baseurl }}/images/logo.jpg"></a></h1>
           <span class="tagline">AVAA</span>
         </div>
         <div class="posts">
           <ul class="posts-list">
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/contributors_guide.html">Contributor's Guide</a></li>
-            <li><a href="/copyrights.html">Copyrights</a></li>
-            <li><a href="/categories.html">Categories</a></li>
-            <li><a href="/news.html">News</a></li>
-            <li><a href="/tags.html">Tags</a></li>
-            <li><a href="/faq.html">FAQ</a></li>
+            <li><a href="{{ site.baseurl }}/about.html">About</a></li>
+            <li><a href="{{ site.baseurl }}/contributors_guide.html">Contributor's Guide</a></li>
+            <li><a href="{{ site.baseurl }}/copyrights.html">Copyrights</a></li>
+            <li><a href="{{ site.baseurl }}/categories.html">Categories</a></li>
+            <li><a href="{{ site.baseurl }}/news.html">News</a></li>
+            <li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
+            <li><a href="{{ site.baseurl }}/faq.html">FAQ</a></li>
           </ul>
         </div>
         <div class="posts">
           <ul class="posts-list">
             {% for tag in tags %}
-              <button><a href="/tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
+              <button><a href="{{ site.baseurl }}/tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
             {% endfor %}
           </ul>
         </div>
         <div class="footer">
           <span id="footer-links">
-            <a href="/about.html" class="footer-link">About</a> <span class="separator">&bull;</span>
+            <a href="{{ site.baseurl }}/about.html" class="footer-link">About</a> <span class="separator">&bull;</span>
             <a href="https://github.com/bavc" class="footer-link">GitHub</a>
           </span>
         </div>
@@ -77,6 +77,6 @@
         {{ content }}
 
     </div>
-    <script src="/scripts/responsive.js" type="text/javascript"></script>
+    <script src="{{ site.baseurl }}/scripts/responsive.js" type="text/javascript"></script>
   </body>
 </html>

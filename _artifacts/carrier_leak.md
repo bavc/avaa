@@ -6,7 +6,7 @@ categories: video analog
 tags: [Analog, Video, Device Error]
 ---
 
-<img src="/images/CarrierLeak_Flat.jpg">
+<img src="{{ site.baseurl }}/images/CarrierLeak_Flat.jpg">
 <sub>Carrier leak displays as a textured herringbone pattern across the entire video image.</sub>
 
 Carrier leak refers to a problem in black and white video that originates from a video playback device. The term is sometimes seen in the context of machine maintenance and calibration due to the origin of the artifact.  Carrier leak can be recorded into a second-generation video copy, where it becomes part of the video signal. In recording black and white video, the FM process is used to modulate the video signal (~3 Mhz for black and white) for storage on video tape. During the process of playback, the [http://en.wikipedia.org/wiki/Frequency_modulation frequency modulated signal] is read by the pair of [http://en.wikipedia.org/wiki/Tape_head video heads], amplified and demodulated by electronics in the playback machine. If the processing isn’t accurate so that there is an imbalance in the amplification between the signal read from the two playback heads, a textured and banded pattern is superimposed over the video image. This distortion is the result of the modulated carrier leaking into the demodulated video signal that is displayed on the monitor during playback.

@@ -5,7 +5,7 @@ categories: video digital
 tags: 
 ---
 
-<img src="/images/DV_Bad_Overwrite_Flat.jpg">
+<img src="{{ site.baseurl }}/images/DV_Bad_Overwrite_Flat.jpg">
 <sub>This clip shows an area of the video image left over from a previous shoot.</sub>
 
 This artifact may be the result of a clogged record head when taping over a recycled piece of tape. Even a small piece of debris might reduce head-to-tape contact during recording, causing signal dropout (if using virgin stock) or an artifact like the one shown here. If there is a previous program recorded, it will remain on the section of tape that passed through the transport during the occurrence of the head clog.
