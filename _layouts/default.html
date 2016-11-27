@@ -45,10 +45,16 @@
     <div class="site">
       <div class="sidebar" id="sidebar">
         <div class="header">
-          <h1 class="title"><a href="{{ site.baseurl }}"><img id="logo" src="{{ site.baseurl }}/images/logo.jpg"></a></h1>
+          <h1 class="title"><a href="{{ site.baseurl }}/index.html"><img id="logo" src="{{ site.baseurl }}/images/logo.jpg"></a></h1>
           <span class="tagline">AVAA</span>
         </div>
         <div class="posts">
+          <div class="search">
+            <form action="{{ site.baseurl }}/search.html" method="get">
+              <input type="text" id="search_box" name="query">
+              <input type="submit" value="search">
+            </form>
+          </div>
           <ul class="posts-list">
             <li><a href="{{ site.baseurl }}/about.html">About</a></li>
             <li><a href="{{ site.baseurl }}/contributors_guide.html">Contributor's Guide</a></li>
