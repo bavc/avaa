@@ -5,12 +5,9 @@ categories: audio analog
 tags: [Analog, Audio, Noise, Magnetic Tape, Cassette]
 ---
 
-Noise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called [[Analog Distortion]]. Noise is defined as a wideband addition to a signal by any electronic or mechanical component.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)
-</ref> There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”
+Noise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called [[Analog Distortion]]. Noise is defined as a wideband addition to a signal by any electronic or mechanical component. (White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)) There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”
 
-The most common type of noise is “broadband noise,” which is a continuous distribution of energy spread over frequency. It sounds like hissing and has no detectable pitch.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)
-</ref> [[Hum]] and [[Electromagnetic Interference]] (EMI) are other types of noise that do have a detectable pitch.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 116)
-</ref>
+The most common type of noise is “broadband noise,” which is a continuous distribution of energy spread over frequency. It sounds like hissing and has no detectable pitch.(White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 156)) [Hum]({{ site.baseurl }}/artifacts/hum_and_buzz.html) and [Electromagnetic Interference]({{ site.baseurl }}/artifacts/electromagnetic_interference.html) are other types of noise that do have a detectable pitch.(White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 116))
 
 
 ## Can it be fixed?

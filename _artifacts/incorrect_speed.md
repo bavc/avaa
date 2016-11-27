@@ -6,13 +6,13 @@ tags: [Audio, Analog, Deck Failure, Operator Error, Pitch, Speed Fluctuation]
 ---
 
 
-Describes gradual speed changes during media playback, either in the source recording or the transfer machine, or an incorrect playback speed chosen by the transfer engineer. The pitch of the recording will be wrong in both cases (not to be confused with [[Wow and Flutter]]).
+Describes gradual speed changes during media playback, either in the source recording or the transfer machine, or an incorrect playback speed chosen by the transfer engineer. The pitch of the recording will be wrong in both cases (not to be confused with [Wow and Flutter]({{ site.baseurl }}/artifacts/wow_and_flutter.html)).
 
 ## Can it be fixed?
 
 Incorrect speed is a fairly easy problem to correct. However, If the incorrect speed is the result of a malfunctioning playback deck or turntable during digitization, have the equipment serviced.
 
-If the item was transferred at the wrong speed, re-transfer it at the correct speed. IASA-TC04 recommends transferring at the item's native speed rather than correcting in the digital domain.<ref>Bradley, K. (Ed.). (2009). ''Guidelines on the production and preservation of digital audio objects'' (IASA TC-04, 2nd ed.) (pp. 57-59). Auckland Park, South Africa: International Association of Sound and Audiovisual Archives (p. 57)</ref>
+If the item was transferred at the wrong speed, re-transfer it at the correct speed. IASA-TC04 recommends transferring at the item's native speed rather than correcting in the digital domain. (Bradley, K. (Ed.). (2009). ''Guidelines on the production and preservation of digital audio objects'' (IASA TC-04, 2nd ed.) (pp. 57-59). Auckland Park, South Africa: International Association of Sound and Audiovisual Archives (p. 57))
 
 ## Concerns with Open Reel Tape
 

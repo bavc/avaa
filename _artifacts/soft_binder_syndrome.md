@@ -6,7 +6,7 @@ namevar: [Hydrolysis, Sticky Shed Syndrome, Loss of Lubricant]
 tags: [Analog, Audio, Open Reel Tape, Media Failure, Frequency Loss, Baking]
 ---
 
-Soft Binder Syndrome (SBS) is a term suggested by Richard Hess to describe the type of media degradation that has previously been called Sticky Shed Syndrome (SSS) or Loss of Lubricant (LOL). The stick-slip action that causes squealing as the tape moves across the playback head, believed to be caused by a soft binder, is symptomatic of both SSS and LOL.<ref name="Hess">[http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf|Hess, R. (2008). Tape degradation factors and challenges in prediction tape life. ''ARSC Journal, 39''(2), 240-274.]</ref>
+Soft Binder Syndrome (SBS) is a term suggested by Richard Hess to describe the type of media degradation that has previously been called Sticky Shed Syndrome (SSS) or Loss of Lubricant (LOL). The stick-slip action that causes squealing as the tape moves across the playback head, believed to be caused by a soft binder, is symptomatic of both SSS and LOL. [|Hess, R. (2008). Tape degradation factors and challenges in prediction tape life. ''ARSC Journal, 39''(2), 240-274.](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf).
 
 ### Sticky Shed Syndrome
 
@@ -30,15 +30,15 @@ Removing moisture from the tape pack will get the tape to a playable state for d
 
 Cooking times and temperatures vary, and can depend on the severity of the hydrolysis. 55 degrees celsius (+/- a few degrees) with an incubation time of 8-10 hours is a good place to start.
 
-Tape baking is a process first proposed by Ampex engineers upon learning of SSS. Ampex patented this process<ref>http://www.richardhess.net/restoration_notes/USP5236790.pdf</ref>, but it has lapsed in the U.S.A. Ironically, the treatment violates the terms of warranty one enjoyed when first purchasing an Ampex tape.  In the decades since proposing this remedy, other methods for fixing a tape have been employed<ref>http://www.rezerex.com/thestickyshedsolution.html</ref>, but baking/dehydrating remains the industry standard method.
+Tape baking is a process first proposed by Ampex engineers upon learning of SSS. [Ampex patented this process](http://www.richardhess.net/restoration_notes/USP5236790.pdf), but it has lapsed in the U.S.A. Ironically, the treatment violates the terms of warranty one enjoyed when first purchasing an Ampex tape.  In the decades since proposing this remedy, [other methods for fixing a tape have been employed](http://www.rezerex.com/thestickyshedsolution.html), but baking/dehydrating remains the industry standard method.
 
 ### Squealing tapes that do not respond to baking
 
-Unfortunately there is no straightforward fix for a tape exhibiting loss of lubricant. The fix involves hardening the magnetic coating of the tape, and/or reducing friction between the tape and everything it touches during playback.<ref>http://arsc-aaa.invisionzone.com/forums/index.php?showtopic=481</ref> Current options include, but are not limited to:
+Unfortunately there is no straightforward fix for a tape exhibiting loss of lubricant. The fix involves hardening the magnetic coating of the tape, and/or [reducing friction between the tape and everything it touches during playback.](http://arsc-aaa.invisionzone.com/forums/index.php?showtopic=481) Current options include, but are not limited to:
 
-* Cold playback - lowering the ambient temperature to the tape's glass transition temperature, i.e. playing the tape back in a fridge <ref name="Hess"></ref>
-* Holding a q-tip continually moistened with D5 siloxane against the tape during playback <ref name="Hess"></ref>
-* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback <ref>http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell/</ref>
+* Cold playback - lowering the ambient temperature to the tape's glass transition temperature, i.e. playing the tape back in a fridge
+* Holding a q-tip continually moistened with D5 siloxane against the tape during playback
+* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback [](http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell/)
 
 These techniques employ slightly different mechanisms
 

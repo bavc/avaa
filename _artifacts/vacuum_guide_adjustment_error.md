@@ -18,4 +18,4 @@ A manual adjustment to the vacuum guide can be made to help approximate the posi
 
 ## References 
 
-http://archive.whoniversity.co.uk/tech/quad.htm
+[](http://archive.whoniversity.co.uk/tech/quad.htm)

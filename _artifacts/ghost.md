@@ -14,7 +14,7 @@ File:Analog_TransmissionGhost.mp4
 
 '''Echo''' A wave which has been reflected at one or more points in the transmission medium. Result from reflection of transmitted broadcast signals during off air recording (signal reflection from tall physical structures like skyscrapers or airplanes) and signal routing problems where unterminated video signals. Echoes may be leading or lagging the primary signal, and appear in the picture monitor as reflections or double images commonly known as ghosts.
 
-The term "ghost" or "ghosting" is also used to describe and effect called [[Image Lag]], an artifact of certain types of video tube cameras.
+The term "ghost" or "ghosting" is also used to describe and effect called [Image Lag]({{ site.baseurl }}/artifacts/image_lag.html), an artifact of certain types of video tube cameras.
 
 "Ghost" has been noted as being similar to '''Print through''' The condition where low frequency signals on one tape winding imprint themselves on the immediate adjacent tape windings. It is most noticeable on audio recordings where a ghost of a recording can be heard slightly before playback of the actual recording.
 
@@ -23,4 +23,4 @@ The term "ghost" or "ghosting" is also used to describe and effect called [[Imag
 If the artifact is recorded into the media, it cannot be fixed.
 
 ## References 
-BAVC Preservation Glossary [http://bavc.org/preservation/resources/preservation-glossary]
+[BAVC Preservation Glossary](http://bavc.org/preservation/resources/preservation-glossary)

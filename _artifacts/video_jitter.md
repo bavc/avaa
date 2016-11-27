@@ -10,4 +10,4 @@ Small and rapid variations in a waveform due to mechanical disturbances, changes
 ## Can it be fixed?
 
 ## References
-BAVC Preservation Glossary [http://bavc.org/preservation/resources/preservation-glossary]
+[BAVC Preservation Glossary](http://bavc.org/preservation/resources/preservation-glossary)

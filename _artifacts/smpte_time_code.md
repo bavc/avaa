@@ -6,7 +6,7 @@ tags: [Analog, Audio, Video, Film, Pulse, Synchronization, Open Reel Tape]
 ---
 
 
-Like [[Pilot Tone]], SMPTE time code recorded on magnetic audio tape allows for frame accurate film or video synchronization during the post-production editing process. Being a rectangular wave signal, it is heard as a pulse similar to that of a fax machine or dial-up modem.  It has been described as an "obtrusive noise and often a fairly high level signal."<ref>[http://www.philrees.co.uk/articles/timecode.htm Phil Rees' article on time code]</ref>
+Like [[Pilot Tone]], SMPTE time code recorded on magnetic audio tape allows for frame accurate film or video synchronization during the post-production editing process. Being a rectangular wave signal, it is heard as a pulse similar to that of a fax machine or dial-up modem.  It has been described as an "obtrusive noise and often a fairly high level signal." [Phil Rees' article on time code](http://www.philrees.co.uk/articles/timecode.htm ])
 
 ## Can it be fixed? 
 

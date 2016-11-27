@@ -20,8 +20,7 @@ tags:
 published: true
 ---
 
-In audio, distortion is heard as an unwanted signal change. This is somewhat of a catchall term for such artifacts as [[Wow and Flutter]] that are, by definition, a distortion of the original signal.<ref>White, G. D. (2005.). ''The audio dictionary'' (3rd ed.). Seattle : University of Washington Press. (p. 114 -115)
-</ref> Analog distortion is an artifact recorded into an analog carrier or introduced in an analog signal chain, while [[Digital Distortion]] occurs during digitization and post A/D conversion.
+In audio, distortion is heard as an unwanted signal change. This is somewhat of a catchall term for such artifacts as [[Wow and Flutter]] that are, by definition, a distortion of the original signal.(White, G. D. (2005.). ''The audio dictionary'' (3rd ed.). Seattle : University of Washington Press. (p. 114 -115)) Analog distortion is an artifact recorded into an analog carrier or introduced in an analog signal chain, while Digital Distortion occurs during digitization and post A/D conversion.
 
 In this artifact guide, analog distortion is the term used to describe a recording where the levels are too hot in the source recording. “Hot levels” means that the input signal level exceeds the recording device’s linear range, and is also known as “overload.” The volume is too high throughout the recording, and thus all distortion artifact noises are also loud. Unfortunately, most unique and archival recordings were done by non-professionals, who made simple mistakes, which are difficult to fix.
 

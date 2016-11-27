@@ -5,7 +5,7 @@ categories: video analog digital
 tags: [Analog, Digital, Audio, Video, Balanced Cables, Power Supply, Cable]
 ---
 
-Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike [[Analog Noise]] which has no detectable pitch.<ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 116)</ref>
+Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike [[Analog Noise]] which has no detectable pitch. (White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 116))
 
 * Power lines
 ** In the course of transmitting electricity from one point to another, power lines radiate electromagnetic waves at 60 Hz. Improperly shielded and unbalanced cables, particularly those in close proximity to power lines, can carry this frequency into a signal chain. In much of the world 50 Hz AC power mains are used and this can introduce interference at this frequency.
@@ -18,12 +18,12 @@ Hum is a type of noise that can creep into any audio/video system, and can origi
 
 If the hum or buzz is in your source recording, there is nothing that should be done at the point of digitization. Post production, selective use of equalization, especially notch filters set at the hum harmonics (120 Hz, 180Hz, etc.), is a good way of removing the offending hum from service copies.
 
-If the hum or buzz is in your digitization chain, you will have to isolate the source. Make sure your cables are balanced and well-shielded, and that your cable runs are short. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields <ref>White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 209)</ref>
+If the hum or buzz is in your digitization chain, you will have to isolate the source. Make sure your cables are balanced and well-shielded, and that your cable runs are short. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields (White, G. D. (1987.). ''The audio dictionary'' (1st ed.). Seattle : University of Washington Press. (p. 209))
 
 Post production, there are also several tools for removing hum and buzz:
 
-1. DeNoiseLF: <ref>http://www.clickrepair.net/noise/software_low_frequency.html</ref><br/>
-2. Izotope RX2: <ref>http://www.youtube.com/watch?v=mKCRUM9pYB8</ref>
+1. [DeNoiseLF](http://www.clickrepair.net/noise/software_low_frequency.html)
+2. [Izotope RX2](http://www.youtube.com/watch?v=mKCRUM9pYB8)
 
 # Examples  
 

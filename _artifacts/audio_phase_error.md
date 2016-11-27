@@ -6,6 +6,7 @@ tags: [Analog, Audio, Phase, Mono, Stereo]
 ---
 
 <img src="{{ site.baseurl }}/images/Audio_phase_error.png">
+
 <sub>This is an image of a phasescope with a correlation meter along the bottom. A horizontal waveform is an indication that there is a phase problem.</sub>
 
 Problems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.
@@ -16,8 +17,7 @@ Phase error as a term used to describe when certain frequencies are partially or
 The concept of phase in sound is most easily explained when comparing two sine waves. When their cycle match, they are said to be “in phase,” and produce the best quality sound. If one is inverted so that the peaks of one sine wave occur at the same time as the troughs of the second sine wave, they would cancel each other out, and no sound at all would be heard. If the cycles are slightly off, there is a partial cancellation, which silences certain frequencies.
 
 ## Causes
-Phase error can be the result of time delay due to poor microphone placement during recording, a poorly made cable, a misaligned repro tape head on playback, a poorly aligned stylus/cartridge, et al.  Heard over a pair of speakers relatively close together, phase cancellation is most apparent at low frequencies, resulting in a signal that sounds thin, with little to no bass.
-<ref>http://www.uaudio.com/blog/understanding-audio-phase/</ref>
+Phase error can be the result of time delay due to poor microphone placement during recording, a poorly made cable, a misaligned repro tape head on playback, a poorly aligned stylus/cartridge, et al.  Heard over a pair of speakers relatively close together, phase cancellation is most apparent at low frequencies, resulting in a signal that sounds thin, with little to no bass.[](http://www.uaudio.com/blog/understanding-audio-phase/)
 
 ## Identification
 A phasescope is a graphic representation of an audio signal, which is included in most audio editing software. You will see an example of one on the right side of this page. On a phasescope, a perfectly in-phase signal will be completely vertical and totally thin. A perfectly out-of-phase signal will be completely horizontal and totally thin. Most out-of-phase signals fall somewhere in between the two, resembling an American football.
@@ -29,7 +29,7 @@ It depends on how and when the problem was created. Conceptually, you could nudg
 
 It is best to consult a qualified engineer or technician if you believe that there is a phase problem.
 
-At least two companies offer plug-ins to correct phase-related issues as post-production <ref>[http://www.cedaraudio.de/products/cfw2/phase.html Cedar Phase Corrector plug-in]</ref><ref>http://cube-tec.com/vpis/restorationvpis/azimuth.html</ref>.
+At least two companies offer plug-ins to correct phase-related issues as post-production (ref: [Cedar Phase Corrector plug-in](http://www.cedaraudio.de/products/cfw2/phase.html) [http://cube-tec.com/vpis/restorationvpis/azimuth.html](http://cube-tec.com/vpis/restorationvpis/azimuth.html)).
 
 ##  Examples
 

@@ -7,7 +7,7 @@ tags: [Audio, Digital, System Failure, Dropout, Drop Out, Digital Clicks]
 
 <img src="{{ site.baseurl }}/images/Interstitial_Error.jpg‎">
 
-Coined by AudioVisual Preservation Solutions (AVPS), an interstitial error is a system "hiccup" that occurs during digitization as the data stream is being written to disk.<ref>[http://www.avpreserve.com/blog/digital-audio-interstitial-errors/ AVPS blog post on interstitial errors]</ref><ref>[[Media:Digital_Audio_Interstitial_Errors.pdf|Chris Lacinak's white paper on interstitial errors]]</ref> This error results in lost samples, and it is reflected in the waveform by an abrupt vertical drop. While the audibility of these errors varies, a particularly bad one is heard as a dropout.
+Coined by AudioVisual Preservation Solutions (AVPS), an interstitial error is a system "hiccup" that occurs during digitization as the data stream is being written to disk.[AVPS blog post on interstitial errors](http://www.avpreserve.com/blog/digital-audio-interstitial-errors/) | [[Media:Digital_Audio_Interstitial_Errors.pdf|Chris Lacinak's white paper on interstitial errors]] This error results in lost samples, and it is reflected in the waveform by an abrupt vertical drop. While the audibility of these errors varies, a particularly bad one is heard as a dropout.
 
 ## Can it be fixed?
 
