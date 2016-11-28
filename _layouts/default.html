@@ -55,26 +55,29 @@
               <input type="submit" value="search">
             </form>
           </div>
+        </div>
+        <div class="posts">
           <ul class="posts-list">
             <li><a href="{{ site.baseurl }}/about.html">About</a></li>
             <li><a href="{{ site.baseurl }}/contributors_guide.html">Contributor's Guide</a></li>
             <li><a href="{{ site.baseurl }}/copyrights.html">Copyrights</a></li>
             <li><a href="{{ site.baseurl }}/categories.html">Categories</a></li>
             <li><a href="{{ site.baseurl }}/news.html">News</a></li>
-            <li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
+            <!-- <li><a href="{{ site.baseurl }}/tags.html">Tags</a></li> -->
             <li><a href="{{ site.baseurl }}/faq.html">FAQ</a></li>
           </ul>
         </div>
         <div class="posts">
           <ul class="posts-list">
-            {% for tag in tags %}
-              <button><a href="{{ site.baseurl }}/tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
-            {% endfor %}
+            <h4>Browse by category</h4> 
+              {% for tag in tags %}
+                <li><a href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a></li>
+              {% endfor %}
           </ul>
         </div>
         <div class="footer">
           <span id="footer-links">
-            <a href="{{ site.baseurl }}/about.html" class="footer-link">About</a> <span class="separator">&bull;</span>
+            <a href="https://www.bavc.org/preserve-media" class="footer-link">BAVC</a> <span class="separator">&bull;</span>
             <a href="https://github.com/bavc" class="footer-link">GitHub</a>
           </span>
         </div>

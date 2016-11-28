@@ -2,7 +2,8 @@
 layout: post
 title: Analog Distortion
 categories:
-  - audio analog
+  - audio 
+  - analog
 namevar:
   - Overload Distortion
   - Harmonic Distortion
