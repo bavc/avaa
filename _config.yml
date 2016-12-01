@@ -10,8 +10,8 @@ collections:
     output: true
 prose:
   rooturl: '_artifacts'
-  siteurl: 'http://ablwr.github.io/avaa-demo/'
-  relativeLinks: 'http://ablwr.github.io/avaa-demo/links.jsonp'
+  siteurl: 'http://bavc.github.io/avaa/'
+  relativeLinks: 'http://bavc.github.io/avaa/links.jsonp'
   media: 'media'
   ignore:
     - index.md
