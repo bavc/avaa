@@ -23,7 +23,7 @@ No, quilting cannot be remedied.
 ## Example(s)
 
 <iframe src="https://archive.org/embed/AVAA.DVQuilting" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<p>
+
 In this clip, notice the quilting that appears in the blinds in the lower area of the image.
 
 ## Resources 
