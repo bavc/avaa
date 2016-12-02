@@ -15,6 +15,3 @@ This artifact is exhibited as fine-patterned, light diagonal lines scrolling in 
 
 If ground loop problems are recorded in the video or audio signal, they are only correctable through re-transfer of the content without the electrical anomalies in the system. Usually, this involves powering all devices in the video system using one source of electricity with all outlets serving power with minimal difference in ground potential.
 
-
-The AV Artifact Atlas is a community effort. Help enhance this page by sharing your thoughts on the [[Talk:Electrical Ground Loop Interference: Herringbone|Discussion Page]] at the top and by checking out the [[Contributing Content - A How To Guide|Contributor's Guide]].
-
