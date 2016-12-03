@@ -28,3 +28,6 @@ In this clip, notice the quilting that appears in the blinds in the lower area o
 
 ## Resources 
 
+Wilt, Adam. (1998). DV Pix - artifacts. <https://www.adamwilt.com/pix-artifacts.html>
+Pelletta, Enrico. (2000): 7-8. DV Technology for Video Computer Applications. <https://people.kth.se/~eskil/DV/DV_overwiev.pdf>.
+
