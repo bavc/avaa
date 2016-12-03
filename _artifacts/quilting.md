@@ -28,6 +28,6 @@ In this clip, notice the quilting that appears in the blinds in the lower area o
 
 ## Resources 
 
-[DV Pix - Image Artifacts](https://www.adamwilt.com)
+[DV Pix - Image Artifacts, 1998](https://www.adamwilt.com)
 [DV Technology for Video Computer Applications, 2008](https://people.kth.se/~eskil/DV/DV_overwiev.pdf)
 
