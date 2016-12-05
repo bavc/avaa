@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quilting
+title: DV Quilting
 categories:
   - video digital
 tags:
