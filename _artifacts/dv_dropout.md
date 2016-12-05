@@ -1,8 +1,15 @@
 ---
 layout: post
 title: DV Dropout
-categories: video digital
-tags: [Digital, Video, DV, Dropout, Cleaning]
+categories:
+  - video digital
+tags:
+  - Digital
+  - Video
+  - DV
+  - Dropout
+  - Cleaning
+published: true
 ---
 ## Description
 
@@ -14,7 +21,7 @@ Cleaning the media may help reduce dropout in the image.
 
 ## Example(s)
 
-<iframe src="https://archive.org/details/AVAA.DVDropout" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/details/AVAA.DVDropout.mp4" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Dropout artifacts are sprinkled throughout the right area of the image in this clip from a DV source.
 
