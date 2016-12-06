@@ -26,7 +26,7 @@ No, quilting cannot be remedied.
 
 In this clip, notice the quilting that appears in the blinds in the lower area of the image.
 
-<img src="/images/Quilting_Flat.jpg"> 
+![]({{site.baseurl}}/https://github.com/bavc/avaa/blob/master/images/Quilting_Flat.jpg)
 
 ## Resources 
 
