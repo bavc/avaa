@@ -26,10 +26,9 @@ No, quilting cannot be remedied.
 
 In this clip, notice the quilting that appears in the blinds in the lower area of the image.
 
-<img src="https://github.com/bavc/avaa/blob/master/images/Quilting_Flat.jpg"> 
+<img src="/images/Quilting_Flat.jpg"> 
 
 ## Resources 
 
 [DV Pix - Image Artifacts, 1998](https://www.adamwilt.com) <br>
 [DV Technology for Video Computer Applications, 2008](https://people.kth.se/~eskil/DV/DV_overwiev.pdf)
-
