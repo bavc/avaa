@@ -16,7 +16,7 @@ title: Contributors Guide
 - Preview results
 - File out the "Commit Changes" box at the bottom of the page and choose "create a new branch and start a pull request"
 
-Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
+Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website. This is also true for Prose.io.
 
 ### Using Prose.io
 
