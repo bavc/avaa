@@ -18,5 +18,6 @@ Several causes of time base error include sudden changes in tape tension, uneven
 
 A Time Base Corrector (TBC) will help counteract time base error by storing lines of video and retrieving them again at a rate matching a signal's "correct" horizontal sync. Time base error can also be corrected during playback by adjusting a video deck's tape tension using the skew control. Poorly maintained video decks that suffer from such things as variations in tape speed, head speed and uneven capstan rotation can contribute to time base error.
 
-## See also 
-Gfeller, Jarczyk, and Phillips. "Lengthwise Tape Expansion or Shrinkage" in ''Compendium of Image Errors in Analogue Video''. Edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012. p. 60, Videos 9 and 10.
+## See also
+
+Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, "Lengthwise Tape Expansion or Shrinkage" in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.60, videos 9 and 10.
