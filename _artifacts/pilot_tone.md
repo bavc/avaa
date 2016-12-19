@@ -16,7 +16,7 @@ tags:
 published: true
 ---
 
-Pilot tone, a precursor of SMPTE time code, is typically encountered when working with open reel audio used in film or video production. The tone is a 50 or 60 Hz signal sent from a motion picture camera and recorded on one track of the tape. Not to be confused with [hum]({{ site.baseurl }}/artifacts/hum_and_buzz.html), during production this tone was used for synchronizing tape playback to picture by matching the camera speed.[1] Crosstalk is reduced by recording the tone 180 degrees out of phase with respect to the program so that it will cancel out during playback.  
+Pilot tone, a precursor of SMPTE time code, is typically encountered when working with open reel audio used in film or video production. The tone is a 50 or 60 Hz signal sent from a motion picture camera and recorded on one track of the tape. Not to be confused with [hum]({{ site.baseurl }}/artifacts/hum_and_buzz.html), during production this tone was used for synchronizing tape playback to picture by matching the camera speed.<sup><a href="#fn1" id="ref1">1</a></sup> Crosstalk is reduced by recording the tone 180 degrees out of phase with respect to the program so that it will cancel out during playback.  
 
 Numerous sync tone systems have been developed over time. More detail on these can be found in [EBU-Tech 3086](http://tech.ebu.ch/docs/tech/tech3095.pdf).
 
@@ -40,4 +40,4 @@ Transferring any tape with sync tone requires an appropriate playback head (most
 
 ## References
 
-[1]: G. D. White, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 291.  
+<sup id="fn1">1. G. D. White, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 291.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
