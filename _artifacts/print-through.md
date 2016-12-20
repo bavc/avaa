@@ -21,6 +21,6 @@ There are two common fixes for print-through:
 * Rewind the tape, at least three times, prior to playback. (Bradley, K. (Ed.). (2009). ''Guidelines on the production and preservation of digital audio objects'' (IASA TC-04, 2nd ed.) (pp. 57-59). Auckland Park, South Africa: International Association of Sound and Audiovisual Archives (p. 61-62))
 * If you have a tape machine that can apply low level bias, engaging it can help mitigate print-through, "though it may also have an effect [on] the signal, especially if over-applied, and should only be used as a last resort and then every carefully"
 
-## Examples 
+## Examples
 
 [Listen to Print-through in Soundcloud](https://soundcloud.com/av_artifact_atlas/print-through)
