@@ -2,7 +2,7 @@
 layout: post
 title: Vacuum Guide Adjustment Error
 categories: video analog
-tags: [Video, Analog, 2-inch Quad, TBC, Playback Adjustment, Open Reel Tape] 
+tags: [Video, Analog, 2-inch Quad, TBC, Playback Adjustment, Open Reel Tape]
 ---
 
 <img src="{{ site.baseurl }}/images/VacuumGuideAdjustmentError_FLAT.jpg">
@@ -16,6 +16,6 @@ During playback of 2” Quadruplex tape, a pneumatic guide is used to adjust the
 
 A manual adjustment to the vacuum guide can be made to help approximate the position needed for proper playback . However, a digital TBC will be able to remove this error entirely. The analog AMTEC processor was also used to lessen this error, but it did not have as much correction range. Late model Quadruplex machines had an automatic guide servo that removed the error, as well.
 
-## References 
+## Resources
 
-[](http://archive.whoniversity.co.uk/tech/quad.htm)
+[Whoniversity page on 2" Quad Tape](https://web-beta.archive.org/web/20120331190523/http://archive.whoniversity.co.uk/tech/quad.htm)

@@ -14,4 +14,3 @@ Dropouts can often be reduced, but they can be difficult to eliminate during pla
 ## Examples
 
 [Listen to dropout heard in a 1/4" open reel tape in Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-dropout-in-a-1-4-tape)
-

@@ -5,7 +5,7 @@ categories: video analog
 tags: [Analog, Video, Y/C Delay Error]
 ---
 
-<img src="{{ site.baseurl }}/images/YCDelayError_Flat.jpg"> 
+<img src="{{ site.baseurl }}/images/YCDelayError_Flat.jpg">
 
 <sub>In the enlarged detail boxes above, you can see a white edge along the reporter's yellow jeans, as well as a green hue around the orange drop shadow in the lettering on the sign behind them. This is caused by misaligned Y and C components in the video signal. The error is corrected in the image below.</sub>
 
@@ -15,5 +15,4 @@ When video suffers from Y/C delay error, there will be a mismatch in the timing 
 
 ## Can it be fixed?
 
-Yes, some [VTR integrated or stand-alone](http://en.wikipedia.org/wiki/Time_base_correction time base correctors) have Y/C adjustment capability.
-
+Yes, some [VTR integrated or stand-alone](http://en.wikipedia.org/wiki/Time_base_correction) time base correctors have Y/C adjustment capability.
