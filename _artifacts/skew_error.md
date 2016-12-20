@@ -20,7 +20,5 @@ Some VTRs have skew controls that allow for minor adjustments in tape tension, m
 
 ## References
 
-<sup id="fn1">1. Charles Bensinger, [_The Video Guide_](http://videopreservation.conservation-us.org/vid_guide/) (2nd ed.), (Video-Info Publications
-Santa Barbara, California,
-1981), [124](http://videopreservation.conservation-us.org/vid_guide/10/10.html).>↩</a></sup>  
+<sup id="fn1">1. Charles Bensinger, [_The Video Guide_](http://videopreservation.conservation-us.org/vid_guide/) (2nd ed.), (Santa Barbara, California: Video-Info Publications, 1981), [124](http://videopreservation.conservation-us.org/vid_guide/10/10.html).>↩</a></sup>  
 <sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Skew Error” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.100, video 52.>↩</a></sup>
