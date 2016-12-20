@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: Hum and Buzz
 categories: video analog digital
 tags: [Analog, Digital, Audio, Video, Balanced Cables, Power Supply, Cable]
@@ -27,8 +27,6 @@ Post production, there are also several tools for removing hum and buzz:
 
 # Examples  
 
-  
+
 - [Listen to Power Supply Hum in Soundcloud](https://soundcloud.com/av_artifact_atlas/hum)
 - [Listen to Buzz in Soundcloud](https://soundcloud.com/av_artifact_atlas/buzz)
-
-

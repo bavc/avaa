@@ -12,11 +12,11 @@ Describes gradual speed changes during media playback, either in the source reco
 
 Incorrect speed is a fairly easy problem to correct. However, If the incorrect speed is the result of a malfunctioning playback deck or turntable during digitization, have the equipment serviced.
 
-If the item was transferred at the wrong speed, re-transfer it at the correct speed. IASA-TC04 recommends transferring at the item's native speed rather than correcting in the digital domain. (Bradley, K. (Ed.). (2009). ''Guidelines on the production and preservation of digital audio objects'' (IASA TC-04, 2nd ed.) (pp. 57-59). Auckland Park, South Africa: International Association of Sound and Audiovisual Archives (p. 57))
+If the item was transferred at the wrong speed, re-transfer it at the correct speed. IASA-TC04 recommends transferring at the item's native speed rather than correcting in the digital domain.<sup><a href="#fn1" id="ref1">1</a></sup>  
 
 ## Concerns with Open Reel Tape
 
-You may find that a tape was recorded at a speed that your playback equipment is incapable of playing (1 ⅞ ips or 15/16 ips). Hardware limitations may require that you transfer at the closest higher speed, and adjust it post-production using pitch change features in your audio editing software. Changing the pitch also changes the speed, but changing the speed does not affect the pitch. A full octave pitch change in either direction is the equivalent of doubling or halving the speed of the recording. Open reel machines have different replay equalization curves for each speed however, so one tradeoff in this approach is that the equalization will be incorrect.
+You may find that a tae was recorded at a speed that your playback equipment is incapable of playing (1 ⅞ ips or 15/16 ips). Hardware limitations may require that you transfer at the closest higher speed, and adjust it post-production using pitch change features in your audio editing software. Changing the pitch also changes the speed, but changing the speed does not affect the pitch. A full octave pitch change in either direction is the equivalent of doubling or halving the speed of the recording. Open reel machines have different replay equalization curves for each speed however, so one tradeoff in this approach is that the equalization will be incorrect.
 
 ## Concerns with Disc playback
 
@@ -40,8 +40,12 @@ Making multiple preservation master files is beneficial because the speed, pitch
 
 ## Examples
 
-[Listen to Wrong Speed in Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed)
+[Listen to Wrong Speed on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed)
 
-[Listen to the first part of an audio cassette recording, speed is correct in Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette-part)
+[Listen to the first part of an audio cassette recording, speed is correct on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette-part)
 
-[Listen to 30 minutes later into the same recording, the speed has changed in Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette)
+[Listen to 30 minutes later into the same recording, the speed has changed on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette)
+
+## References
+
+<sup id="fn1">1. Kevin Bradley (ed), [_Guidelines on the production and preservation of digital audio objects_](http://www.iasa-web.org/tc04/audio-preservation), IASA TC-04 (2nd ed., 2009), 57-59.>↩</a></sup>  
