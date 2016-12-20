@@ -38,7 +38,7 @@ Unfortunately there is no straightforward fix for a tape exhibiting loss of lubr
 
 * Cold playback - lowering the ambient temperature to the tape's glass transition temperature, i.e. playing the tape back in a fridge
 * Holding a q-tip (cotton bud) continually moistened with D5 siloxane against the tape during playback
-* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback [](http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell/)
+* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback.<sup><a href="#fn4" id="ref4">4</a></sup>
 
 These techniques employ slightly different mechanisms:
 
@@ -61,3 +61,4 @@ All tape suffers to some degree of stick-slip, but it is usually called “scrap
 <sup id="fn1">1. Richard Hess, [“Tape degradation factors and challenges in prediction tape life,”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf) _ARSC Journal_ 39.2 (2008), 270-274.>↩</a></sup>  
 <sup id="fn2">2. Kevin Bradley (ed), _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009), 57-59, or [here](http://www.iasa-web.org/tc04/magnetic-tapes-cleaning-and-carrier-restoration) on the web edition of the TC-04.>↩</a></sup>  
 <sup id="fn3">3. Richard Hess, [“Tape degradation factors and challenges in prediction tape life”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf), 270-274.>↩</a></sup>
+<sup id="fn4">4. Marie O'Connell, [Wet playing of reel tapes with Loss of Lubricant](http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell), RichardHess.com, 09 March 2006.>↩</a></sup>
