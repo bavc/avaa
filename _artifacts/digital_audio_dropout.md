@@ -14,7 +14,7 @@ Digital Audio Tape (DAT) is particularly susceptible to dropout. Digital audio d
 
 Digital dropouts can be very difficult to eliminate. If you encounter a digital recording with dropout, try cleaning the playback head and re-transferring, or try re-transferring on a different deck. If the deck the tape was originally recorded on is still available and in good working order, try using it instead. Bear in mind that the dropout may have been recorded into the source; in these cases, switching decks or cleaning the heads will not solve the problem.
 
-Should dropouts persist, production or access copies of files can be remediated using software tools that use digital signal processing (DSP) techniques to resynthesize gaps in audio content. [Izotope Spectral Repair](https://www.izotope.com/support/help/rx/pages/userguide_spectralrepair.htm)
+Should dropouts persist, production or access copies of files can be remediated using software tools (for example, [Izotope Spectral Repair](https://www.izotope.com/support/help/rx/pages/userguide_spectralrepair.htm)) that use digital signal processing (DSP) techniques to resynthesize gaps in audio content. 
 
 ## Examples
 

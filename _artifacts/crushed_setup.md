@@ -11,12 +11,12 @@ tags: [Analog, Video, Setup, Crush, Black Levels, Operator Error]
 
 <img src="{{ site.baseurl }}/images/SetupIsCrushedCorrected_Flat.jpg">
 
-The bottom end of the video signal is important because shadow detail is lost when pedestal and mid-range [http://en.wikipedia.org/wiki/Black_level black levels] are pushed down. Just as overly bright video can cause a loss of video information, analog video that falls below 7.5 [IRE](http://en.wikipedia.org/wiki/IRE_(unit)) and clips at 0 IRE during reformatting will result in dark video and loss of image. This issue is particularly frustrating when it is found in digitized video because it is not likely that post-digitization adjustment can bring back the lost detail. The video must be reformatted again to capture the entire range of values.
+The bottom end of the video signal is important because shadow detail is lost when pedestal and mid-range [black levels](http://en.wikipedia.org/wiki/Black_level black ) are pushed down. Just as overly bright video can cause a loss of video information, analog video that falls below 7.5 [IRE](http://en.wikipedia.org/wiki/IRE_(unit)) and clips at 0 IRE during reformatting will result in dark video and loss of image. This issue is particularly frustrating when it is found in digitized video because it is not likely that post-digitization adjustment can bring back the lost detail. The video must be reformatted again to capture the entire range of values.
 
 <img src="{{ site.baseurl }}/images/Crushed_Setup_Waveform_Flat.jpg">
-<sub>Black levels are severely clipped in this example, causing the objects in the foreground to look flat and lose contrast around the edges against the background'''</sub>
+<sub>Black levels are severely clipped in this example, causing the objects in the foreground to look flat and lose contrast around the edges against the background</sub>
 
-== Can it be fixed? ==
+## Can it be fixed?
 
 Yes, this is correctable through retransfer and adjustment of the VTR output using a  processing amplifier to adjust setup (black levels). Ideally the setup  will not average below 7.5 IRE, depending on the type of source footage and the calibration accuracy of the recording device used to make the source tape (i.e., raw camera footage, off-air recording, or broadcast air master).
 
