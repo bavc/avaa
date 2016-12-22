@@ -39,4 +39,4 @@ At least two companies offer plug-ins to correct phase-related issues as post-pr
 
 ## References
 
-<sup id="fn1">1. Daniel Keller, [Understanding Audio Phase](http://www.uaudio.com/blog/understanding-audio-phase/), Universal Audio (uaudio.com), 21 June 2011.>↩</a></sup>  
+<sup id="fn1">1. Daniel Keller, [Understanding Audio Phase](http://www.uaudio.com/blog/understanding-audio-phase/), Universal Audio (uaudio.com), 21 June 2011. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

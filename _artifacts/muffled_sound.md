@@ -11,7 +11,6 @@ tags: [Audio, Analog, Azimuth, Error, Frequency Loss, Playback Adjustment, Media
 <img src="{{ site.baseurl }}/images/Fc922zv0190_04_a-oxide_out-waveform.png‎">
 <sub>Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).</sub>
 
-
 A muffled recording during playback is generally symptomatic of high frequency loss because of media failure, an incorrect wind, or a lack of high frequency information in the source recording. Unless the source is poorly recorded or the source recorder was malfunctioning during the original capture, muffled sound artifacts are the result of improper setup and playback. For instance, if azimuth is not adjusted to the source material prior to digitization, high frequencies will be lost and the resulting file will sound dull.
 
 Even if the azimuth is correct, a tape that starts shedding oxide on the playback head will result in a similarly dull recording because the oxide buildup creates a greater distance from the tape to the playback head.
@@ -45,5 +44,5 @@ On a vectorscope, the Lissajous pattern should be nearly vertical for a mono sig
 
 ## References
 
-<sup id="fn1">1. Richard Hess, [Tape winding](http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/tape-winding), RichardHess.com, 19 March 2006.>↩</a></sup>  
-<sup id="fn2">2. Richard Hess, [Azimuth Hows and Whys](http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys), RichardHess.com, 27 September 2006.>↩</a></sup>  
+<sup id="fn1">1. Richard Hess, [Tape winding](http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/tape-winding), RichardHess.com, 19 March 2006. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. Richard Hess, [Azimuth Hows and Whys](http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys), RichardHess.com, 27 September 2006. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> 

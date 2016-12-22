@@ -34,4 +34,4 @@ In this clip, notice the quilting that appears in the blinds in the lower area o
 
 ## References
 
-<sup id="fn1">1. Adam Wilt, [DV Pix - Image Artifacts](https://www.adamwilt.com), 1998.>↩</a></sup>
+<sup id="fn1">1. Adam Wilt, [DV Pix - Image Artifacts](https://www.adamwilt.com), 1998. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

@@ -27,4 +27,4 @@ Raising Awareness and Developing New Methodologies for Detection_](http://www.av
 
 ## References
 
-<sup id="fn1">1. Joshua Ranger, [Digital Audio Interstitial Errors](http://www.avpreserve.com/blog/digital-audio-interstitial-errors/), AVPreserve, 2010.>↩</a></sup>
+<sup id="fn1">1. Joshua Ranger, [Digital Audio Interstitial Errors](http://www.avpreserve.com/blog/digital-audio-interstitial-errors/), AVPreserve, 2010. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

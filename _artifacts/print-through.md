@@ -29,5 +29,5 @@ There are two common fixes for print-through:
 
 ## References
 
-<sup id="fn1">1. Kevin Bradley (ed), “[Removal of Storage Related Signal Artefacts](http://www.iasa-web.org/tc04/removal-storage-related-signal-artefacts)” in _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009).>↩</a></sup>  
-<sup id="fn2">2. Bradley, “[Removal of Storage Related Signal Artefacts](http://www.iasa-web.org/tc04/removal-storage-related-signal-artefacts).”>↩</a></sup>  
+<sup id="fn1">1. Kevin Bradley (ed), “[Removal of Storage Related Signal Artefacts](http://www.iasa-web.org/tc04/removal-storage-related-signal-artefacts)” in _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>    
+<sup id="fn2">2. Bradley, “[Removal of Storage Related Signal Artefacts](http://www.iasa-web.org/tc04/removal-storage-related-signal-artefacts).” <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>   

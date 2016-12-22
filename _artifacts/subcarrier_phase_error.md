@@ -18,4 +18,4 @@ Yes, this is correctable through retransfer and adjustment of the VTR output usi
 
 ## References
 
-<sup id="fn1">1. [Tektronix NTSC Video Measurements: Vectorscope Techniques](http://www.tek.com/Measurement/App_Notes/NTSC_Video_Msmt/)>↩</a></sup>   
+<sup id="fn1">1. Tektronix NTSC Video Measurements: [Vectorscope Techniques](http://www.tek.com/Measurement/App_Notes/NTSC_Video_Msmt/). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

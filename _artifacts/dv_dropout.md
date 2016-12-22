@@ -24,5 +24,3 @@ Cleaning the media may help reduce dropout in the image.
 <iframe src="https://archive.org/embed/AVAA.DVDropout" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Dropout artifacts are sprinkled throughout the right area of the image in this clip from a DV source.
-
-## Resources

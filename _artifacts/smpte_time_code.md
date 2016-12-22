@@ -18,4 +18,4 @@ In the example on this page, the 1/4" open reel tape was transferred with a two-
 
 ## References
 
-<sup id="fn1">1. Phil Rees, _[Synchronisation and SMPTE timecode](http://www.philrees.co.uk/articles/timecode.htm)_, 1997, 2001.>↩</a></sup>  
+<sup id="fn1">1. Phil Rees, [_Synchronisation and SMPTE timecode_](http://www.philrees.co.uk/articles/timecode.htm), 1997, 2001. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

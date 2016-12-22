@@ -28,4 +28,4 @@ To correct artifacts resulting from incorrect tape speed during playback, use a 
 
 ## References
 
-<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Long Play” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.96, videos 48 & 49.>↩</a></sup>
+<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Long Play” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.96, videos 48 & 49. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

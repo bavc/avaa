@@ -25,7 +25,7 @@ When EMI is recorded in the source material, it can not be fixed. However, be su
 
 ## References
 
-<sup id="fn1">1. John Whalen, [Minimize GSM Buzz Noise in Mobile Phones](http://www.eetimes.com/design/microwave-rf-design/4019057/Minimize-GSM-buzz-noise-in-mobile-phones), EE Times, 20 July 2009.>↩</a></sup>  
-<sup id="fn2">2. Sascha Segan, [CDMA vs. GSM: Whats the Difference?](https://web-beta.archive.org/web/20161213065638/http://www.pcmag.com/article2/0,2817,2407896,00.asp), PC Mag, 09 February 2015.>↩</a></sup>  
-<sup id="fn3">3. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 320.>↩</a></sup>  
-<sup id="fn4">4. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 209.>↩</a></sup>
+<sup id="fn1">1. John Whalen, [Minimize GSM Buzz Noise in Mobile Phones](http://www.eetimes.com/design/microwave-rf-design/4019057/Minimize-GSM-buzz-noise-in-mobile-phones), EE Times, 20 July 2009. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
+<sup id="fn2">2. Sascha Segan, [CDMA vs. GSM: Whats the Difference?](https://web-beta.archive.org/web/20161213065638/http://www.pcmag.com/article2/0,2817,2407896,00.asp), PC Mag, 09 February 2015. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>  
+<sup id="fn3">3. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 320. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
+<sup id="fn4">4. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 209. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>  

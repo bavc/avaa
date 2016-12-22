@@ -17,6 +17,6 @@ Adjust the color lock control on a PAL playback device until the color is render
 
 ## References
 
-<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Loss of colour lock” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.56, videos 5 & 6.>↩</a></sup>  
-<sup id="fn2">2. Gfeller et al, “Loss of colour lock.”>↩</a></sup>  
-<sup id="fn3">3. Gfeller et al, “Loss of colour lock.”>↩</a></sup>
+<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Loss of colour lock” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.56, videos 5 & 6. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. Gfeller et al, “Loss of colour lock.” <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>   
+<sup id="fn3">3. Gfeller et al, “Loss of colour lock.” <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup> 
