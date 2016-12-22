@@ -34,7 +34,7 @@ Post production, there are also several tools for removing hum and buzz:
 
 ## References
 
-<sup id="fn1">1. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 116.>↩</a></sup>  
-<sup id="fn2">2. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 189.>↩</a></sup>  
-<sup id="fn3">3. [RANE Pro Audio Reference](http://www.rane.com/digi-dic.html).↩</a></sup>  
-<sup id="fn4">4. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 209.>↩</a></sup>
+<sup id="fn1">1. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 116. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 189. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>    
+<sup id="fn3">3. [RANE Pro Audio Reference](http://www.rane.com/digi-dic.html). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
+<sup id="fn4">4. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 209. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>  

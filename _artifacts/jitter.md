@@ -19,4 +19,4 @@ Along with topics such as gain structure and phase control, jitter control is at
 
 ## References
 
-<sup id="fn1">1. Ken C. Pohlmann, “[Measurement and Evaluation of Analog-to-Digital Converters Used in the Long-Term Preservation of Audio Recordings](https://www.clir.org/pubs/resources/ad-converters-pohlmann.pdf)”, _Issues in Digital Audio Preservation Planning and Management_ (Washington, D.C.: Library of Congress and Council on Library and Information Resources, 2006).>↩</a></sup>
+<sup id="fn1">1. Ken C. Pohlmann, “[Measurement and Evaluation of Analog-to-Digital Converters Used in the Long-Term Preservation of Audio Recordings](https://www.clir.org/pubs/resources/ad-converters-pohlmann.pdf)”, _Issues in Digital Audio Preservation Planning and Management_ (Washington, D.C.: Library of Congress and Council on Library and Information Resources, 2006). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

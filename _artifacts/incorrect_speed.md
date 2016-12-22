@@ -48,4 +48,4 @@ Making multiple preservation master files is beneficial because the speed, pitch
 
 ## References
 
-<sup id="fn1">1. Kevin Bradley (ed), [_Guidelines on the production and preservation of digital audio objects_](http://www.iasa-web.org/tc04/audio-preservation), IASA TC-04 (2nd ed., 2009), 57-59.>↩</a></sup>  
+<sup id="fn1">1. Kevin Bradley (ed), [_Guidelines on the production and preservation of digital audio objects_](http://www.iasa-web.org/tc04/audio-preservation), IASA TC-04 (2nd ed., 2009), 57-59. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>    

@@ -13,5 +13,5 @@ Playing a test tape will help to determine if the artifact has been recorded in 
 
 ## References
 
-<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Venetian-Blind Effect (PAL)” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), 84.>↩</a></sup>  
-<sup id="fn2">2. Gfeller, Jarczyk, and Phillips, “Venetian-Blind Effect (PAL)”, 84.>↩</a></sup>
+<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Venetian-Blind Effect (PAL)” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), 84. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. Gfeller, Jarczyk, and Phillips, “Venetian-Blind Effect (PAL)”, 84. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> 

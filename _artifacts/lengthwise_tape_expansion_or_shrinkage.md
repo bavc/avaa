@@ -16,7 +16,7 @@ Again, this error is similar to [skew error]({{ site.baseurl }}/artifacts/skew_e
 
 ## References
 
-<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Lengthwise Tape Expansion or Shrinkage” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.60, videos 9 && 10.>↩</a></sup>  
-<sup id="fn2">2. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.”>↩</a></sup>  
-<sup id="fn3">3. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.”>↩</a></sup>  
-<sup id="fn4">4. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.”>↩</a></sup>  
+<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Lengthwise Tape Expansion or Shrinkage” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.60, videos 9 && 10. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
+<sup id="fn2">2. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>   
+<sup id="fn3">3. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>   
+<sup id="fn4">4. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>    

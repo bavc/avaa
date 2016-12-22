@@ -19,4 +19,4 @@ Adam Wilt, _[The DV, DVCAM & DVCPRO Formats](http://www.adamwilt.com/DV-FAQ-tech
 
 ## References
 
-<sup id="fn1">1. Adam Wilt, _[DV Pix - Sampling Methods](http://www.adamwilt.com/pix-sampling.html)_, 1998.>↩</a></sup>  
+<sup id="fn1">1. Adam Wilt, _[DV Pix - Sampling Methods](http://www.adamwilt.com/pix-sampling.html)_, 1998. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> 

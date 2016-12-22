@@ -24,5 +24,5 @@ Always use S-Video or component video signal formats to transfer original conten
 
 ## References
 
-<sup id="fn1">1. Wikipedia, [Moiré pattern](http://en.wikipedia.org/wiki/Moir%C3%A9_pattern).>↩</a></sup>  
-<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Moire effect” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.98, videos 50 and 51.>↩</a></sup>
+<sup id="fn1">1. Wikipedia, [Moiré pattern](http://en.wikipedia.org/wiki/Moir%C3%A9_pattern). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Moire effect” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.98, videos 50 and 51. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> 

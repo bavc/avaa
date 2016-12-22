@@ -19,4 +19,4 @@ If not present in the recording but ringing is detected on playback, then the sy
 
 ## See also
 
-[Wikipedia entry on ringing in electronics and signals](http://en.wikipedia.org/wiki/Ringing_(signal))
+* [Wikipedia entry on ringing in electronics and signals](http://en.wikipedia.org/wiki/Ringing_(signal))

@@ -31,13 +31,13 @@ Numerous sync tone systems have been developed over time. More detail on these c
 * The Fairchild system
 
 ## Can it be fixed?
- 
+
 Transferring any tape with sync tone requires an appropriate playback head (most likely a head with center-track timecode). See [this](http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/synchronization/) Richard Hess blog post on synchronization. If the tape is played back on a two-track head, for instance, the tone will not cancel out.
 
-## Examples 
+## Examples
 
 [Listen to Pilot Tone on Soundcloud](https://soundcloud.com/av_artifact_atlas/pilot-tone)
 
 ## References
 
-<sup id="fn1">1. G. D. White, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 291.<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn1">1. G. D. White, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 291. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

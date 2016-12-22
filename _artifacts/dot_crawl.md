@@ -13,4 +13,3 @@ A composite video artifact, dot crawl occurs as a result of the multiplexing of 
 ## Can it be fixed?
 
 Yes, dot crawl can be remedied by using an S-Video or component video output on the playback VTR, if available. If not, many TBCs have integrated comb filters which may help reduce dot crawl if engaged, though some purists may debate this approach.
-

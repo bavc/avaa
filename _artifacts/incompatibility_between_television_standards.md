@@ -21,5 +21,5 @@ If a program is recorded in PAL standard, a PAL standard (or multi-standard) pla
 
 ## References
 
-<sup id="fn1">1. Wikipedia, [Broadcast television systems](http://en.wikipedia.org/wiki/Broadcast_television_systems)>↩</a></sup>   
-<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Incompatibility Between Television Standards” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.72, videos 19-24.>↩</a></sup>
+<sup id="fn1">1. Wikipedia, [Broadcast television systems](http://en.wikipedia.org/wiki/Broadcast_television_systems). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>      
+<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Incompatibility Between Television Standards” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.72, videos 19-24. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>  

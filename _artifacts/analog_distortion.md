@@ -41,4 +41,4 @@ Attempts to remove distortion noise may adversely affect the harmonics of a soun
 
 ## References
 
-<sup id="fn1">1. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 114-115.>↩</a></sup>
+<sup id="fn1">1. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 114-115. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

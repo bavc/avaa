@@ -23,4 +23,4 @@ If the carrier leak is recorded into the image, there is no way to remedy the ar
 
 ## References
 
-<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Carrier Leak” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.104, video 54.>↩</a></sup>  
+<sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Carrier Leak” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.104, video 54. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

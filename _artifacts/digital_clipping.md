@@ -23,6 +23,6 @@ Overs from a digital source can be repaired on production master files using a p
 
 ## References
 
-<sup id="fn1">1. [Rane Pro Audio Reference](http://www.rane.com/digi-dic.html).>↩</a></sup>  
-<sup id="fn2">2. (White, G. D. (2005.). ''The audio dictionary'' (3rd ed.). Seattle : University of Washington Press. (p. 275)) >↩</a></sup>  
-<sup id="fn3">3. [Izotope Declipper: getting started](http://www.izotope.com/support/help/rx1/pages/declipper_getting_started.htm)>↩</a></sup>
+<sup id="fn1">1. [Rane Pro Audio Reference](http://www.rane.com/digi-dic.html). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
+<sup id="fn2">2. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 275. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>  
+<sup id="fn3">3. [Izotope Declipper: getting started](http://www.izotope.com/support/help/rx1/pages/declipper_getting_started.htm). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
