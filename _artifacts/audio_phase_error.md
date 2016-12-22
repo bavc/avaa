@@ -17,7 +17,7 @@ Phase error as a term used to describe when certain frequencies are partially or
 The concept of phase in sound is most easily explained when comparing two sine waves. When their cycle match, they are said to be “in phase,” and produce the best quality sound. If one is inverted so that the peaks of one sine wave occur at the same time as the troughs of the second sine wave, they would cancel each other out, and no sound at all would be heard. If the cycles are slightly off, there is a partial cancellation, which silences certain frequencies.
 
 ## Causes
-Phase error can be the result of time delay due to poor microphone placement during recording, a poorly made cable, a misaligned repro tape head on playback, a poorly aligned stylus/cartridge, et al.  Heard over a pair of speakers relatively close together, phase cancellation is most apparent at low frequencies, resulting in a signal that sounds thin, with little to no bass.[](http://www.uaudio.com/blog/understanding-audio-phase/)
+Phase error can be the result of time delay due to poor microphone placement during recording, a poorly made cable, a misaligned repro tape head on playback, a poorly aligned stylus/cartridge, etc.  Heard over a pair of speakers relatively close together, phase cancellation is most apparent at low frequencies, resulting in a signal that sounds thin, with little to no bass.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 ## Identification
 A phasescope is a graphic representation of an audio signal, which is included in most audio editing software. You will see an example of one on the right side of this page. On a phasescope, a perfectly in-phase signal will be completely vertical and totally thin. A perfectly out-of-phase signal will be completely horizontal and totally thin. Most out-of-phase signals fall somewhere in between the two, resembling an American football.
@@ -29,12 +29,14 @@ It depends on how and when the problem was created. Conceptually, you could nudg
 
 It is best to consult a qualified engineer or technician if you believe that there is a phase problem.
 
-At least two companies offer plug-ins to correct phase-related issues as post-production (ref: [Cedar Phase Corrector plug-in](http://www.cedaraudio.de/products/cfw2/phase.html) [http://cube-tec.com/vpis/restorationvpis/azimuth.html](http://cube-tec.com/vpis/restorationvpis/azimuth.html)).
+At least two companies offer plug-ins to correct phase-related issues as post-production: [Cedar Audio's Phase Corrector plug-in](http://www.cedaraudio.de/products/cfw2/phase.html) [Cube-Tec's azimuth plugin](http://cube-tec.com/vpis/restorationvpis/azimuth.html)).
 
 ##  Examples
 
-[Listen to a stereo file that's out of phase in Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file)
+[Listen to a stereo file that's out of phase on Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file)
 
-[Listen to the same stereo file summed to mono in Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file-summed) Note the drop in level.
+[Listen to the same stereo file summed to mono on Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file-summed) - note the drop in level.
 
+## References
 
+<sup id="fn1">1. Daniel Keller, [Understanding Audio Phase](http://www.uaudio.com/blog/understanding-audio-phase/), Universal Audio (uaudio.com), 21 June 2011.>↩</a></sup>  

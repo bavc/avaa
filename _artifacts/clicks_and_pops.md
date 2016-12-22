@@ -10,14 +10,19 @@ Clicks and pops commonly manifest on disc-based media as a result of damage to t
 
 ## Can it be fixed?
 
-Cleaning, preferably with a vacuum based machine like a Keith Monks, is the most effective way of reducing clicks and pops on discs. Placing a soft wet brush with distilled water in front of the stylus is also effective, although wet playback "has the effect of increasing surface noise in all subsequent 'dry' plays" (Bradley, K. (Ed.). (2009). Guidelines on the production and preservation of digital audio objects (IASA TC-04, 2nd ed.) (pp. 57-59). Auckland Park, South Africa: International Association of Sound and Audiovisual Archives (p. 46))
+Cleaning, preferably with a vacuum based machine like a Keith Monks, is the most effective way of reducing clicks and pops on discs. Placing a soft wet brush with distilled water in front of the stylus is also effective, although wet playback “has the effect of increasing surface noise in all subsequent 'dry' plays”.<sup><a href="#fn1" id="ref1">1</a></sup>
 
-Plastic leader tape may accumulate an electrostatic charge which can discharge during playback, which may produce a pop sound. Replacing leader tape with archival plastic leader tape before transfer can help eliminate the possibility of pops surfacing in the transfer. (“Capturing Analog Sound for Digital Preservation: Report of Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes.” Library of Congress and National Recording Preservation Board. Washington D.C., March 2006.)
+Plastic leader tape may accumulate an electrostatic charge which can discharge during playback, which may produce a pop sound. Replacing leader tape with archival plastic leader tape before transfer can help eliminate the possibility of pops surfacing in the transfer.<sup><a href="#fn2" id="ref2">2</a></sup>
 
 There are numerous software and hardware tools that can help clean up clicks and pops. Most audio editing software, including Audacity and WaveLab, have click and pop detection capabilities. [Cedar](http://www.cedaraudio.com/), [Waves](http://www.waves.com/), and [iZotope](http://www.izotope.com/) also offer tools to help clean up clicks and pops.
 
 ## Examples
 
-[Listen to clicks, pops, and surface noise in an LP transfer in Soundcloud](https://soundcloud.com/av_artifact_atlas/clicks-pops-and-surface-noise)
+[Listen to clicks, pops, and surface noise in an LP transfer on Soundcloud](https://soundcloud.com/av_artifact_atlas/clicks-pops-and-surface-noise)
 
-[Listen to static-related clicks in a cassette transfer in Soundcloud.](https://soundcloud.com/av_artifact_atlas/clicks-and-pops-magnetic-tape) They are particularly noticeable when the content stops.
+[Listen to static-related clicks in a cassette transfer on Soundcloud](https://soundcloud.com/av_artifact_atlas/clicks-and-pops-magnetic-tape) - they are particularly noticeable when the content stops.
+
+## References
+
+<sup id="fn1">1. Kevin Bradley (ed), _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009), 57-59.>↩</a></sup>  
+<sup id="fn2">2. CLIR and Library of Congress, [_Capturing Analog Sound for Digital Preservation: Report of Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes_](https://www.clir.org/pubs/reports/pub137), (Washington, D.C.: Library of Congress and National Recording Preservation Board, 2006), 7, 19. >↩</a></sup>  
