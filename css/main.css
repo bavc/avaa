@@ -248,10 +248,10 @@ a:hover {
 }
 
 button {
-  background: white;
-  border-radius: 12px;
-  font-size: 12px;
-  padding: 6px 14px 6px 14px;
+  border: 1px solid #000000;
+  background-color: #fff;
+  font-size: 14px;
+  padding: 8px 14px 8px 14px;
   text-decoration: none;
 }
 
@@ -285,4 +285,20 @@ button {
   margin-top: 1.25em;
   font-size: 0.95em;
   color: #777;
+}
+
+
+/*** Etc
+***/
+
+#also {
+  padding: 18px 0 18px 0;
+}
+
+#also ul {
+  list-style:none;
+}
+
+#also li {
+  padding-left:33px;
 }
