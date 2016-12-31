@@ -31,6 +31,7 @@ In this clip, notice the quilting that appears in the blinds in the lower area o
 ## See also
 
 * [DV Technology for Video Computer Applications](https://people.kth.se/~eskil/DV/DV_overwiev.pdf), 2008
+* [The DV Show: What Are the DV Artifacts I Keep Hearing About](http://www.thedvshow.com/faq-pro/index.php?action=article&cat_id=017&id=202), 2006
 
 ## References
 
