@@ -22,7 +22,7 @@ At this time, Wavelab's Error Detection Analysis tool is the best method of find
 
 ## See also
 
-Chris Lacinak, [_Digital Audio Interstitial Errors:
+* Chris Lacinak, [_Digital Audio Interstitial Errors:
 Raising Awareness and Developing New Methodologies for Detection_](http://www.avpreserve.com/wp-content/uploads/2010/01/Digital_Audio_Interstitial_Errors.pdf), AVPreserve White Paper, 06 January 2010.
 
 ## References

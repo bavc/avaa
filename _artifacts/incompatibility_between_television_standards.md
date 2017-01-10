@@ -6,10 +6,10 @@ tags: [Analog, Video, Operator Error, Long Play, Extended Play]
 ---
 
 
-“All but one analog television system began as black-and-white systems. Each country, faced with local political, technical, and economic issues, adopted a color television system which was grafted onto an existing monochrome system, using gaps in the video spectrum to allow color transmission information to fit in the existing channels allotted.”<sup><a href="#fn1" id="ref1">1</a></sup>   
+<blockquote>All but one analog television system began as black-and-white systems. Each country, faced with local political, technical, and economic issues, adopted a color television system which was grafted onto an existing monochrome system, using gaps in the video spectrum to allow color transmission information to fit in the existing channels allotted.<sup><a href="#fn1" id="ref1">1</a></sup></blockquote>   
 
 Different countries use different technical systems for recording and playing back video signals. A list of TV standard by geographical location can be found here:
-[TV standards by country](http://countrycode.org/tv-standards).
+[TV standards by country](http://web.archive.org/web/20150310145945/http://countrycode.org/tv-standards).
 
 Each video standard requires a different playback system (VTR, monitor and any attached video processing equipment). Some manufacturers of video equipment make multi-standard video equipment, where a television standard can be manually or automatically selected. If an attempt is made to play a tape recorded in one standard with equipment meant for playback of another standard, different types of video signal distortion can occur.
 

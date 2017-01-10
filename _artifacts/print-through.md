@@ -25,7 +25,7 @@ There are two common fixes for print-through:
 
 * Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 310.  
 * [Print-through](https://web-beta.archive.org/web/20130324143942/http://www.rane.com/par-p.html#print_through)  at Rane.com's Pro Audio Reference  
-* [Minimising Print-through (PDF)](http://www.audiosignal.co.uk/Resources/Print-through_A4.pdf‎) by Michael Gerzon
+* [Minimising Print-through (PDF)](http://www.audiosignal.co.uk/Resources/Print-through_USL.pdf‎) by Michael Gerzon
 
 ## References
 

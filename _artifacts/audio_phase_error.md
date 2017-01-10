@@ -29,7 +29,7 @@ It depends on how and when the problem was created. Conceptually, you could nudg
 
 It is best to consult a qualified engineer or technician if you believe that there is a phase problem.
 
-At least two companies offer plug-ins to correct phase-related issues as post-production: [Cedar Audio's Phase Corrector plug-in](http://www.cedaraudio.de/products/cfw2/phase.html) [Cube-Tec's azimuth plugin](http://cube-tec.com/vpis/restorationvpis/azimuth.html)).
+At least two companies offer plug-ins to correct phase-related issues as post-production: [Cedar Audio's Phase Corrector plug-in](https://www.cedar-audio.com/products/cambridge/camphase.shtml) and [Cube-Tec's azimuth plugin](https://www.cube-tec.com/en-uk/products/workflow/dobbin/software-architecture/fpus/restoration)).
 
 ##  Examples
 

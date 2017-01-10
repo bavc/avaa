@@ -16,7 +16,7 @@ Hum is a type of noise that can creep into any audio/video system, and can origi
 #### Television interference (TVI)
 * Heard as a buzzing sound, rather than a smooth hum, television interference happens when cables are moved around.
 
-# Can it be fixed?
+# Can it be fixed?  
 
 If the hum or buzz is in your source recording, there is nothing that should be done at the point of digitization. Post production, selective use of equalization, especially notch filters set at the hum harmonics (120 Hz, 180Hz, etc.), is a good way of removing the offending hum from service copies.
 
@@ -29,12 +29,12 @@ Post production, there are also several tools for removing hum and buzz:
 
 # Examples  
 
-* [Listen to Power Supply Hum on Soundcloud](https://soundcloud.com/av_artifact_atlas/hum)
-* [Listen to Buzz on Soundcloud](https://soundcloud.com/av_artifact_atlas/buzz)
+[Listen to Power Supply Hum on Soundcloud](https://soundcloud.com/av_artifact_atlas/hum)  
+[Listen to Buzz on Soundcloud](https://soundcloud.com/av_artifact_atlas/buzz)
 
 ## References
 
 <sup id="fn1">1. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 116. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
 <sup id="fn2">2. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 189. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>    
-<sup id="fn3">3. [RANE Pro Audio Reference](http://www.rane.com/digi-dic.html). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
+<sup id="fn3">3. [RANE Pro Audio Reference](http://web.archive.org/web/20160617022233/http://www.rane.com/digi-dic.html). <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
 <sup id="fn4">4. Glenn D. White, _The audio dictionary_ (1st ed.), (Seattle: University of Washington Press, 1987), 209. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>  

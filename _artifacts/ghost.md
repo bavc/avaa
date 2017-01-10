@@ -23,4 +23,4 @@ The term "ghost" or "ghosting" is also used to describe and effect called [Image
 If the artifact is recorded into the media, it cannot be fixed.
 
 ## References
-[BAVC Preservation Glossary](http://bavc.org/preservation/resources/preservation-glossary)
+[BAVC Preservation Glossary](http://web.archive.org/web/20150405040739/https://www.bavc.org/preservation/resources/preservation-glossary)

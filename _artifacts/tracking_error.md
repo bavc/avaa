@@ -17,10 +17,10 @@ Yes, a tracking error can be corrected by careful tracking adjustment.
 Severe tracking issues with a particular piece of media may require a custom tape path alignment.
 
 
-## Quality Control Tools 
+## Quality Control Tools
 Large tracking errors in a video file will be clearly evident as significant spikes in the Temporal Outliers (TOUT) graph. Example below.
 
 
-<img src="{{ site.baseurl }}/images/Tracking error_qct2.png">
+<img src="{{ site.baseurl }}/images/Tracking_error_qct2.png">
 
 <img src="{{ site.baseurl }}/images/Trackingerror_qct.png">

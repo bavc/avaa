@@ -16,9 +16,9 @@ Tape is susceptible to expansion and shrinkage, see [Lengthwise tape expansion o
 
 ## Can it be fixed?
 
-Some VTRs have skew controls that allow for minor adjustments in tape tension, most notably, several models of U-matic machines and some 1/2" open reel models. Otherwise, skew error may be minimized through the use of a good [TBC](http://en.wikipedia.org/wiki/Time_base_correction time base corrector). It may also require an alignment adjustment or back tension adjustment in the player equipment, but be careful: this kind of tinkering should be done by a trained technician and not performed on equipment used for recording.
+Some VTRs have skew controls that allow for minor adjustments in tape tension, most notably, several models of U-matic machines and some 1/2" open reel models. Otherwise, skew error may be minimized through the use of a good [TBC](http://en.wikipedia.org/wiki/Time_base_correction). It may also require an alignment adjustment or back tension adjustment in the player equipment, but be careful: this kind of tinkering should be done by a trained technician and not performed on equipment used for recording.
 
 ## References
 
 <sup id="fn1">1. Charles Bensinger, [_The Video Guide_](http://videopreservation.conservation-us.org/vid_guide/) (2nd ed.), (Santa Barbara, California: Video-Info Publications, 1981), [124](http://videopreservation.conservation-us.org/vid_guide/10/10.html). <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>    
-<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Skew Error” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.100, video 52. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> 
+<sup id="fn2">2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Skew Error” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.100, video 52. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
