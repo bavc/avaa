@@ -6,11 +6,14 @@
     <div id="info-container">
       <h1 id="title">{{ page.title }}</h1>
       {% if page.namevar %}
-      <div>
-      AKA: {% for var in page.namevar %}{{ var }}, {% endfor %}
+      <div id="also">
+      <strong>Also known as:</strong>
+      <ul>
+        {% for var in page.namevar %} <li>{{ var }}</li> {% endfor %}
+      </ul>
       </div>
       {% endif %}
-      
+
   {% for tag in page.tags %}
     <button><a href="{{ site.baseurl }}/tags.html#{{ tag | slugify }}">{{ tag }}</a></button>
   {% endfor %}
