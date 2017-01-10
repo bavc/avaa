@@ -31,7 +31,7 @@ Special thanks go out to Don Williams, who first sparked the idea to use the ter
 With generous funding from the National Endowment for the Humanities, the Bay Area Video Coalition led a project to improve the AVAA as a resource and teaching tool.
 
 Project goals included:
-* Correlating terms in the AVAA with other resources, including the [Compendium of Image Errors in Analogue Video](http://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html) and the [Bay Area Video Coalition's Preservation Glossary](http://www.bavc.org/preservation/resources/preservation-glossary).
+* Correlating terms in the AVAA with other resources, including the [Compendium of Image Errors in Analogue Video](http://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html) and the [Bay Area Video Coalition's Preservation Glossary](http://web.archive.org/web/20150405040739/https://www.bavc.org/preservation/resources/preservation-glossary).
 * Expanding the utility of the AVAA for a range of users with varying levels of expertise
 * Incorporating more stills and media clips to illustrate artifacts
 * Developing a Resource Library that includes information about analog video, digitization, and preservation.

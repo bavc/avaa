@@ -27,13 +27,13 @@ How do you tell if a tape has been encoded with a NR system? A discussion on Dol
 
 _EXAMPLES OF DOLBY A, SR, AND OTHER SYSTEMS ARE NEEDED_
 
-[Listen to Dolby B encoded cassette played back with Dolby B engaged in Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dolby-b)
+[Listen to Dolby B encoded cassette played back with Dolby B engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dolby-b)
 
-[Listen to Dolby B encoded cassette played back without Dolby B engagedin Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-flat) Notice the pronounced high end.
+[Listen to Dolby B encoded cassette played back without Dolby B engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-flat) - Notice the pronounced high end.
 
-[Listen to dbx Type II open reel tape played back without dbx engaged in Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii) Notice the pronounced high end.
+[Listen to dbx Type II open reel tape played back without dbx engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii) - Notice the pronounced high end.
 
-[Listen to the same dbx Type II open reel tape played back with dbx engaged in Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii-1)
+[Listen to the same dbx Type II open reel tape played back with dbx engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii-1)
 
 ## References
 

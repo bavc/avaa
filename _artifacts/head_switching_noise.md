@@ -12,7 +12,7 @@ Head switching noise is commonly seen at the bottom of video display during VHS 
 
 ## Can it be fixed?
 
-Yes, but only under certain circumstances. It must not have been recorded as part of the signal on the tape. The VHS must be played back on a VCR with its switching point set below the normal standard. There are only 3 models known to allow this option through menu settings; all are very large "Professional" series S-VHS decks that are unable to play back tapes recorded in EP or LP modes. These are: JVC BR -S522, -S525, -S822  
+Yes, but only under certain circumstances. It must not have been recorded as part of the signal on the tape. The VHS must be played back on a VCR with its switching point set below the normal standard. There are only 3 models known to allow this option through menu settings; all are very large "Professional" series S-VHS decks that are unable to play back tapes recorded in EP or LP modes. These are: JVC BR -S522, -S525, -S822.  
 
 JVC's marketing explains the feature like so: "For improved playback and special-effects picture performance, a switching noise masking system is also provided. Especially effective with digitally processed special-effects pictures, this sets the switching point 1.5H lower than normal, completely eliminating on-screen switching noise." Panasonic also advertises a small family of Professional models with a "switching noise masking" feature, however in this case it is only a simple black border that covers the bottom of the image, as mentioned above.
 
@@ -23,10 +23,10 @@ Playback from a normal VHS VCR into a card that captures from line 23, showing n
 
 <img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_SLV-779HF_Sharp1_XCard.jpg‎">
 
-
 Playback from a JVC BR-S525U into a card that captures from line 23, showing black at the bottom of the image.
+
 <img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_XCard1_PB4.5H.jpg‎">
 
+Playback from a JVC BR-S525U into a card that captures from line 22, showing no switching noise. (The bending is because this card has no TBC.)
 
-Playback from a JVC BR-S525U into a card that captures from line 22, showing no switching noise. (The bending is because this card has no TBC.)<br/>
 <img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_VC500.jpg‎">

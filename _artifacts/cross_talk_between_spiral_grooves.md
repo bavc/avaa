@@ -21,7 +21,7 @@ The most audible grooved disc pre-echo (a section of silence before a band begin
 
 ## References
 
-<sup id="fn1">1. International Electrotechnical Committee, [IEC 806-14-64](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-64), 1998. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
-<sup id="fn2">2. International Electrotechnical Committee, [IEC 806-14-65](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-65), 1998. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
-<sup id="fn3">3. L. Boden, _Basic Disc Mastering_ (2nd ed.), (Cincinnati: Larry Boden, 2013), 41. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>
-<sup id="fn4">4. International Electrotechnical Committee, [IEC 806-14-66](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-66), 1998. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup> 
+<sup id="fn1">1. International Electrotechnical Committee, [IEC 806-14-64](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-64), 1998. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
+<sup id="fn2">2. International Electrotechnical Committee, [IEC 806-14-65](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-65), 1998. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>   
+<sup id="fn3">3. L. Boden, _Basic Disc Mastering_ (2nd ed.), (Cincinnati: Larry Boden, 2013), 41. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>   
+<sup id="fn4">4. International Electrotechnical Committee, [IEC 806-14-66](http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=806-14-66), 1998. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup>

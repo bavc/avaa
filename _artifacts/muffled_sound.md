@@ -27,15 +27,15 @@ If the original recording is muffled because of poor mic placement, room acousti
 
 When doing azimuth adjustment, an audio vectorscope is an indispensable tool. Hess provides a good "how to" guide on his blog:
 
-<blockquote>Adjusting azimuth is very similar to manually focusing a camera lens. You rock through the point of best azimuth and see how far out it is on either side and try to manually find the centre between two equally bad side points. You tune for MAXIMUM high end. Don’t worry about making a tape screachy or annoying — all you’re doing is capturing what’s on the tape. There is no point of azimuth adjustment that will make the tape brighter than the original recording. Anything but the proper azimuth will produce a tape that is duller than the original recording. The point of proper azimuth is very narrow. Often, the best performance will be within +/- 5 degrees adjustment of the azimuth setting screw. Make sure you’re listening to the highs as you do this. If the cymbals stop, go back to where the cymbals are. If you don’t have cymbals, listen for whatever high end you have. If you don’t have good speakers, use headphones. Remember to listen to stereo programs in mono.<sup><a href="#fn2" id="ref2">2</a></sup></blockquote>
+<blockquote>Adjusting azimuth is very similar to manually focusing a camera lens. You rock through the point of best azimuth and see how far out it is on either side and try to manually find the centre between two equally bad side points. You tune for MAXIMUM high end. Don’t worry about making a tape screachy or annoying — all you’re doing is capturing what’s on the tape. There is no point of azimuth adjustment that will make the tape brighter than the original recording. Anything but the proper azimuth will produce a tape that is duller than the original recording. The point of proper azimuth is very narrow. Often, the best performance will be within +/- 5 degrees adjustment of the azimuth setting screw. Make sure you’re listening to the highs as you do this. If the cymbals stop, go back to where the cymbals are. If you don’t have cymbals, listen for whatever high end you have. If you don’t have good speakers, use headphones. Remember to listen to stereo programs in mono.<sup><a href="#fn2" id="ref2">2</a></sup></blockquote>  
 
 On a vectorscope, the Lissajous pattern should be nearly vertical for a mono signal. When doing adjustment, observe the scope and watch how the waveform widens and narrows with each turn of the screw/knob, but above all use your ears to listen to changes in the high end.
 
 ## Examples
 
-[Listen to Muffled Sound–Azimuth Adjustment in Soundcloud](https://soundcloud.com/av_artifact_atlas/muffled-sound-azimuth)
+[Listen to Muffled Sound–Azimuth Adjustment on Soundcloud](https://soundcloud.com/av_artifact_atlas/muffled-sound-azimuth)
 
-[Listen to Muffled Sound–Oxide Out  in Soundcloud](https://soundcloud.com/av_artifact_atlas/muffled-sound-oxide-out)
+[Listen to Muffled Sound–Oxide Out on Soundcloud](https://soundcloud.com/av_artifact_atlas/muffled-sound-oxide-out)
 
 ## See also
 
@@ -45,4 +45,4 @@ On a vectorscope, the Lissajous pattern should be nearly vertical for a mono sig
 ## References
 
 <sup id="fn1">1. Richard Hess, [Tape winding](http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/tape-winding), RichardHess.com, 19 March 2006. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
-<sup id="fn2">2. Richard Hess, [Azimuth Hows and Whys](http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys), RichardHess.com, 27 September 2006. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup> 
+<sup id="fn2">2. Richard Hess, [Azimuth Hows and Whys](http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys), RichardHess.com, 27 September 2006. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
