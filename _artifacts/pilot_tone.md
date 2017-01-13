@@ -2,7 +2,10 @@
 layout: post
 title: Pilot Tone
 categories:
-  - audio video film analog
+  - audio
+  - video 
+  - film 
+  - analog
 namevar:
   - Double System Sound
 tags:
