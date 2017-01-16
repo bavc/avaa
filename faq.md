@@ -17,4 +17,4 @@ We need examples! Have some to share? [Let us know](mailto:avaa-contact@lists.st
 
 ## What is the AVAA's Copyright Statement?
 
-Read all about AVAA and copyright [here](({{ site.baseurl }}/copyrights.html).
+Read all about AVAA and copyright [here]({{ site.baseurl }}/copyrights.html).
