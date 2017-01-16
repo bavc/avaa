@@ -53,15 +53,14 @@
             <li><a href="{{ site.baseurl }}/copyrights.html">Copyrights</a></li>
             <li><a href="{{ site.baseurl }}/tags.html">Tags</a></li>
             <li><a href="{{ site.baseurl }}/news.html">News</a></li>
-            <!-- <li><a href="{{ site.baseurl }}/tags.html">Tags</a></li> -->
             <li><a href="{{ site.baseurl }}/faq.html">FAQ</a></li>
           </ul>
         </div>
         <div class="posts">
           <ul class="posts-list">
             <h4>Browse by category</h4>
-              {% for tag in tags %}
-                <li><a href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a></li>
+              {% for category in categories %}
+                <li><a href="{{ site.baseurl }}/categories.html#{{ category | slugify }}"> {{ category }} </a></li>
               {% endfor %}
           </ul>
         </div>
@@ -72,9 +71,7 @@
           </span>
         </div>
       </div>
-
         {{ content }}
-
     </div>
     <script src="{{ site.baseurl }}/scripts/responsive.js" type="text/javascript"></script>
   </body>
