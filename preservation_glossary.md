@@ -32,14 +32,11 @@ title: Preservation Glossary
 
 **<a id="bind" name="bind"></a>Binder** The [polymer](#poly) used to bind [magnetic particles](#magn) together and adhere them to the tape substrate. [See image.](#layers)
 
-[](#layers)**<a id="bit" name="bit"></a>Bit** Shorthand for binary digit, which has two optional values "0" or "1." Eight bits means 8 binary digits. There are 256 possible combinations for 8 binary digits and therefore color depth of 8 bits represents 256 (2x2x2x2x2x2x2x2) possible colors. Because each pixel of a video picture contains 3 samples Y', R-Y', B-Y', the possible colors of an 8-bit system would be 16.7 million (256 x 256 x 256). Nowadays archives will be receiving digital material into their collections or will be generating it as part of their preservation program. It is therefore necessary that we understand [digital](#digi) and [analog](#anal)
-technology.
+[](#layers)**<a id="bit" name="bit"></a>Bit** Shorthand for binary digit, which has two optional values "0" or "1." Eight bits means 8 binary digits. There are 256 possible combinations for 8 binary digits and therefore color depth of 8 bits represents 256 (2x2x2x2x2x2x2x2) possible colors. Because each pixel of a video picture contains 3 samples Y', R-Y', B-Y', the possible colors of an 8-bit system would be 16.7 million (256 x 256 x 256). Nowadays archives will be receiving digital material into their collections or will be generating it as part of their preservation program. It is therefore necessary that we understand [digital](#digi) and [analog](#anal) technology.
 
 **Bit rate** The amount of data transported in a given amount of time, usually defined in Mega (Million) bits per second (Mbps). Bit rate is one way to define the amount of compression used on a video signal.
 
 **<a id="bite" name="bite"></a>Bit error rate (BER)** The percentage of [bits](#bit) that have errors in playback. One possible indicator for the [deterioration](#dete)[Playback](#play) is never perfect and there are many possible causes of error such as noise, dirt and dust, and [drop out](#drop). In the binary world of digital data a bit is either correct or incorrect. Since it only has two states, the challenge is to correctly identify whether a bit is correct or not. To enable this the data is therefore coded by adding redundant bits. All systems build in redundancy and error correction mechanisms. Information about bit error rates can refer to the bit error rate prior to error correction or the residual errors after error correction.
-
-of digital videotape is an increase in the bit error rate prior to error correction.
 
 **Black, or Color Black, Blackburst** A composite color video [signal](#sign) comprised of [composite](#compos) sync, reference burst and a black video signal which is usually at a level of 7.5 IRE (0.05V) above the [blanking level](#blank). Also refers to fade-to-black between scenes.
 
@@ -125,7 +122,7 @@ The worldwide body for conservation is the International Institute of Conservati
 
 <a id="digi" name="digi"></a>**Digital** [bits](#bit) [generation](#gene).(ones and zeros). Unlike analog, there is no information loss with each copy**.**
 
-**Drop-frame time code**: [SMPTE](#smpt) time code format that continuously counts 30 frames per second but drops 2 frames from the count every minute except for every tenth minute (drops 108 frames every hour) to maintain synchronization of information in the same or which are improperly recorded may cause tracking errors or picture jumps. Electronic system that functions by converting the time code with clock time. This is necessary because the actual frame rate of [NTSC](#ntsc) video is 29.94 frames per second rather than 30 frames.
+**Drop-frame time code**: [SMPTE](#smpt) time code format that continuously counts 30 frames per second but drops 2 frames from the count every minute except for every tenth minute (drops 108 frames every hour) to maintain synchronization of information. 
 
 **<a id="drop" name="drop"></a>Dropout** Momentary [signal](#sing) loss of video or audio during [playback](#play) on a tape machine, and caused by momentary loss of tape contact with the playback head, tape [head](#head) clog, flaws in the tape or other features that cause an increase in the head-to-tape spacing. Dropout can also be cause by missing magnetic material. Video dropout generally appears as a white spot or streak on the video monitor. When several video dropouts occur per frame, the TV monitor will appear snowy. The frequent appearance of dropout on playback is an indication that the tape or recorder is contaminated with debris and /or that tape [binder](#bind) is [deteriorating](#dete).
 
@@ -245,8 +242,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **Magnetic media** Tape and discs that store information on a magnetized surface such as videotape, audiotape or computer floppy discs. [See image.](#layers)
 
-**<a id="magn" name="magn">Magnetic Particles</a>** Elements incorporated in the [binder](#bind) to form the magnetic layer - or top coat -on magnetic tape. The [signal](#sign) is recording on these particles. [See image.
-](#layers)
+**<a id="magn" name="magn">Magnetic Particles</a>** Elements incorporated in the [binder](#bind) to form the magnetic layer - or top coat -on magnetic tape. The [signal](#sign) is recording on these particles. [See image](#layers)
 
 **Magnetic remanence** The ability of the <span style="text-decoration: underline;">[pigment](#pigm)</span> to retain a magnetic field.
 
