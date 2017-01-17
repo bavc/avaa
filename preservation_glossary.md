@@ -57,8 +57,7 @@ of digital videotape is an increase in the bit error rate prior to error correct
 
 **Byte** A multi-digit binary number is called a word. A word of 8 binary digits or [bits](#bit) is called a byte. The amount of data that can be moved over time is expressed as MBps (Megabytes per second) or KBps (Kilobytes per second). A kilobyte of memory contains 1024 bytes, one megabyte contains 1024 kilobytes and a gigabyte contains 1024 megabytes. These concepts are essential to understanding issues relating to the storage and format choices of digital materials as well as the terminology surrounding the measurement of [errors](#erro).
 
-[TOP
-](#index)
+[TOP](#index)
 
 ### **<a id="c" name="c"></a>C**
 
@@ -106,30 +105,27 @@ The worldwide body for conservation is the International Institute of Conservati
 
 **Cross-color** A picture defect that appears as spurious rainbow patterns on highly textured objects, such as a striped shirt or a tweed jacket, attributed to the make-up of the [NTSC](#ntsc) signal, whcih mixes high [luminance](#lumi) and [chrominance](#chrom)[composite](#compos) baseband spectrum.
 
-Crosslinking A chemical reaction of [polymers](#poly). Crosslinking will lead to [embrittlement](#embr) when the [binder](#bind) is no longer flexible and the chemical makeup of the binder has changed and tightened. A reaction happens when chemicals within the binder crosslink. Mechanical action of the tape is difficult due to the tightened tape structure.
+**Crosslinking** A chemical reaction of [polymers](#poly). Crosslinking will lead to [embrittlement](#embr) when the [binder](#bind) is no longer flexible and the chemical makeup of the binder has changed and tightened. A reaction happens when chemicals within the binder crosslink. Mechanical action of the tape is difficult due to the tightened tape structure.
 
 **<a id="cross" name="cross"></a>Crosstalk** An undesired [signal](#sign) interfering with the desired signal, and usually caused by unintentional capacitive (AC) coupling. Can result in several types of picture distortion, [mistracking](#mist), and/or [noisy](#nois) picture. Also refers to signal interference from one part of videotape to another.
 
 **Curvature error** A change in track shape that results in a bowed or S-shaped track. This becomes a problem if the playback [head](#head) is not able to follow the track closely enough to capture the information.
 
-[TOP
-](#index)
+[TOP](#index)
 
 ### <a id="data" name="data"></a>**D**
 
 **Data** Information transmitted as binary code. In the case of [component video](#compon) each pixel is a vector quantity and includes information for all color components Y', R-Y' and B-Y.' High quality standard definition for a moving color picture requires a data rate of 200 million [bits](#bit) per second.
 
-Data Compression A techique that provides for the transmission or storage, without noticeable information loss, of fewer data [bits](#bit) than were originally used when the data was created.
+**Data Compression** A techique that provides for the transmission or storage, without noticeable information loss, of fewer data [bits](#bit) than were originally used when the data was created.
 
-Decoder A device used to recover the [component](#compon) signals from a [composite](#compos) (encoded) source. Decoders are used in displays and in various processing hardware where component signals are required from a composite source, such as composite chromakeying of color correction equipment, etc.
+**Decoder** A device used to recover the [component](#compon) signals from a [composite](#compos) (encoded) source. Decoders are used in displays and in various processing hardware where component signals are required from a composite source, such as composite chromakeying of color correction equipment, etc.
 
 <a id="dete" name="dete"></a>**Deterioration** The degradation of videotape, most typically with the [binder](#bind), which is responsible for holding the magnetic particles on the tape and facilitating tape transport. If the binder loses integrity - through softening, embrittlement, loss of cohesiveness, or loss of [lubrication](#lubr) - the tape may become unplayable. [Sticky tape](#stickt) and [sticky shed](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#stick) are commonly used terms to describe the phenomenon associated with deterioration of the magnetic tape binder. [See image.](#layers)
 
 <a id="digi" name="digi"></a>**Digital** [bits](#bit) [generation](#gene).(ones and zeros). Unlike analog, there is no information loss with each copy**.**
 
-Drop-frame time code [SMPTE](#smpt) time code format that continuously counts 30 frames per second but drops 2 frames from the count every minute except for every tenth minute (drops 108 frames every hour) to maintain synchronization of information in the same
-
-or which are improperly recorded may cause tracking errors or picture jumps. Electronic system that functions by converting the time code with clock time. This is necessary because the actual frame rate of [NTSC](#ntsc) video is 29.94 frames per second rather than 30 frames.
+**Drop-frame time code**: [SMPTE](#smpt) time code format that continuously counts 30 frames per second but drops 2 frames from the count every minute except for every tenth minute (drops 108 frames every hour) to maintain synchronization of information in the same or which are improperly recorded may cause tracking errors or picture jumps. Electronic system that functions by converting the time code with clock time. This is necessary because the actual frame rate of [NTSC](#ntsc) video is 29.94 frames per second rather than 30 frames.
 
 **<a id="drop" name="drop"></a>Dropout** Momentary [signal](#sing) loss of video or audio during [playback](#play) on a tape machine, and caused by momentary loss of tape contact with the playback head, tape [head](#head) clog, flaws in the tape or other features that cause an increase in the head-to-tape spacing. Dropout can also be cause by missing magnetic material. Video dropout generally appears as a white spot or streak on the video monitor. When several video dropouts occur per frame, the TV monitor will appear snowy. The frequent appearance of dropout on playback is an indication that the tape or recorder is contaminated with debris and /or that tape [binder](#bind) is [deteriorating](#dete).
 
@@ -143,7 +139,7 @@ DVD-R discs were introduced in 1997 with the capacity of 3.95 GB and a track pit
 
 There are two types of DVD-R discs; "General" and "Authoring". This has caused some compatibility issues as the lasers in the players for these discs need to be angled differently. Professional DVD players will have both lasers, however if you are using a domestic model it is important to check which discs your player is compatible with. This is also true for all other types of disc as there is unfortunately a lack of compatibility between playback equipment at this time. DVD is a rapidly developing technology and there is a continued push to increase the amount of data that can be stored on a disc.[](#index)
 
-TOP
+[TOP](#index)
 
 ### **<a id="e" name="e"></a>E**
 
@@ -249,7 +245,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **Magnetic media** Tape and discs that store information on a magnetized surface such as videotape, audiotape or computer floppy discs. [See image.](#layers)
 
-**<a id="magn" name="magn">Magnetic Particles</a>**Elements incorporated in the [binder](#bind) to form the magnetic layer - or top coat -on magnetic tape. The [signal](#sign) is recording on these particles. [See image.
+**<a id="magn" name="magn">Magnetic Particles</a>** Elements incorporated in the [binder](#bind) to form the magnetic layer - or top coat -on magnetic tape. The [signal](#sign) is recording on these particles. [See image.
 ](#layers)
 
 **Magnetic remanence** The ability of the <span style="text-decoration: underline;">[pigment](#pigm)</span> to retain a magnetic field.
@@ -271,9 +267,7 @@ frequencies.
 
 **Noise** Any unwanted [signal](#sign) present in the total signal.
 
-**Nondrop Frame Time Code** ([NTSC](#ntsc)) [SMPTE](#smpt) time code format that continiously counts a full 30 [frames](#frame) per second. Because NTSC video does not operate at exactly 30 frames per second, nondrop frame time code will count 108 more frames in one hour than actually occur in the NTSC video in one hour. The result is incorrect
-
-synchronization of time code with clock time. Drop frame time code solves this problem by skipping or dropping 2 frame numbers per minute, except at the tens of the minute count.
+**Nondrop Frame Time Code** ([NTSC](#ntsc)) [SMPTE](#smpt) time code format that continiously counts a full 30 [frames](#frame) per second. Because NTSC video does not operate at exactly 30 frames per second, nondrop frame time code will count 108 more frames in one hour than actually occur in the NTSC video in one hour. The result is incorrect synchronization of time code with clock time. Drop frame time code solves this problem by skipping or dropping 2 frame numbers per minute, except at the tens of the minute count.
 
 **Noninterlaced** The process of scanning whereby every line in the picture is scanned during the vertical sweep. See [interlaced](#inte).
 
@@ -294,9 +288,7 @@ Off-Line Editing** Editing that is done using inexpensive, nonbroadcastquality e
 
 **Pack slip** A lateral slip of select tape windings causing high or low spots (when viewed with tape reel laying flat on one side) in an otherwise smooth tape pack. Pack slip can cause subsequent <span style="text-decoration: underline;">[edge damage](#edged)</span> when the tape is played, as it will unwind unevenly and may make contact with the tape reel flange.
 
-<a id="pal" name="pal"></a>**PAL** (Phase Alternate Line): The [European standard](#pal) for color television transmission, calling for 625 lines of information, scanned at a rate of 25 frames per second. Used mainly in Europe, China, Malaysia, Australia, New
-
-Zealand, the Middle East and parts of Africa. One of three international standards, including [NTSC](#ntsc) and [SECAM.](#seca)
+<a id="pal" name="pal"></a>**PAL** (Phase Alternate Line): The [European standard](#pal) for color television transmission, calling for 625 lines of information, scanned at a rate of 25 frames per second. Used mainly in Europe, China, Malaysia, Australia, New Zealand, the Middle East and parts of Africa. One of three international standards, including [NTSC](#ntsc) and [SECAM.](#seca)
 
 **<a id="pigm" name="pigm"></a>Pigment** An old technology carryover term for the [magnetic particles](#magn) contained in tape <span style="text-decoration: underline;">[binder](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#bind)</span>. [See image.](#layers)
 
@@ -411,7 +403,7 @@ Transferring, **migration, re-mastering**
 
 **Trapezoidal error** A change in the angle of a recorded <span style="text-decoration: underline;">[helical scan](#heli)</span> track. Can result in <span style="text-decoration: underline;">[mistracking](#mist)</span>.[](#index)
 
-TOP
+[TOP](#index)
 
 ### **<a id="vect" name="vect"></a>V**
 
@@ -423,13 +415,13 @@ Videotape[See image.](#layers)
 
 **Video preservation** An archival system that ensures the survival in perpetuity of the program content according to the highest technical standards reasonably available. There are three major facets of video preservation: (1) safeguarding the recording under secure and favorable storage conditions, (2) providing for its proper restoration and periodic transfer to modern formats before the original or next generation copy is no longer technologically supportable, and (3) continuing protective maintenance of at least a master and a copy, physically separated in storage, preferably in different geographic locations. (From the National Film Preservation Board's [Television/Video Preservation Study: Volume 1: Report 1997](/web/20150928032745/http://lcweb.loc.gov/film/tvstudy.html).)
 
-Video signal to noise ratio An indication of the amount of <span style="text-decoration: underline;">[noise](#nois)</span> in a black and white picture.
+**Video signal to noise ratio** An indication of the amount of <span style="text-decoration: underline;">[noise](#nois)</span> in a black and white picture.
 
-Viewing copy A videotape dubbed from a [master](#mast) and made for repeated viewing. See [exhibition format](#exhi)**.**
+**Viewing copy** A videotape dubbed from a [master](#mast) and made for repeated viewing. See [exhibition format](#exhi)**.**
 
-Vinegar syndrome Characteristic of the decomposition of acetate-based magnetic tape where acetic acid is a substantial by product that gives the tape a vinegar-like odor. After the onset of the vinegar syndrome, acetate tape [backings](#backi)[hydrolysis](#hydr) of the acetate is catalyzed further by the presence of acetate acid byproduct.[](#index)
+**Vinegar syndrome** Characteristic of the decomposition of acetate-based magnetic tape where acetic acid is a substantial by product that gives the tape a vinegar-like odor. After the onset of the vinegar syndrome, acetate tape [backings](#backi)[hydrolysis](#hydr) of the acetate is catalyzed further by the presence of acetate acid byproduct.[](#index)
 
-TOP
+[TOP](#index)
 
 **<a id="wave" name="wave"></a>**
 
@@ -437,7 +429,7 @@ TOP
 
 **Waveform** Oscilloscope that reads luminance and other parts of the [composite](#compos)[sync](#sync), [blanking](#blank), video, etc. that may need adjustment for accurate display. See [vectorscope](#vect).degrade at an accelerated rate - the Abbreviation for videotape recorder. video signal, such as
 
-White balance An electronic process used in video cameras to retain true colors.
+**White balance** An electronic process used in video cameras to retain true colors.
 
 **<a id="windd" name="windd"></a>Window dub** [time code](#time).
 
@@ -445,4 +437,6 @@ White balance An electronic process used in video cameras to retain true colors.
 
 **<a id="wrin" name="wrin"></a>Wrinkle** A physical deformity of the videotape; any or wrinkle in the videotape may produce <span style="text-decoration: underline;">[dropout](#drop)</span> or loss of picture information upon playback. See [creasing](#crea). Copies of videotape with "burnt in" time code display. Hours, minutes, seconds and frames appear on the recorded image. Window dubs are used in off-line editing. See<a id="layers" name="layers"></a>
 
-Glossary contributions by Rebecca Bachman*; Pip Laurenson, Sculpture Conservator, Tate UK; Heather Weaver, Online Editor, BAVC; Dr. John Van Bogart; and Snader & Associates Inc.. *Originally published in _Playback: A Preservation Primer for Video_, Copyright 1998, Bay Area Video Coalition.
+Glossary contributions by Rebecca Bachman; Pip Laurenson, Sculpture Conservator, Tate UK; Heather Weaver, Online Editor, BAVC; Dr. John Van Bogart; and Snader & Associates Inc.  
+
+Originally published in _Playback: A Preservation Primer for Video_, Copyright 1998, Bay Area Video Coalition.
