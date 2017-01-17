@@ -122,7 +122,7 @@ The worldwide body for conservation is the International Institute of Conservati
 
 <a id="digi" name="digi"></a>**Digital** [bits](#bit) [generation](#gene).(ones and zeros). Unlike analog, there is no information loss with each copy**.**
 
-**Drop-frame time code**: [SMPTE](#smpt) time code format that continuously counts 30 frames per second but drops 2 frames from the count every minute except for every tenth minute (drops 108 frames every hour) to maintain synchronization of information. 
+**Drop-frame time code** [SMPTE](#smpt) time code format that continuously counts 30 frames per second, but drops 2 frames from the count every minute, except in every tenth minute (drops a total of 108 frames every hour) to maintain synchronization to clock time. 
 
 **<a id="drop" name="drop"></a>Dropout** Momentary [signal](#sing) loss of video or audio during [playback](#play) on a tape machine, and caused by momentary loss of tape contact with the playback head, tape [head](#head) clog, flaws in the tape or other features that cause an increase in the head-to-tape spacing. Dropout can also be cause by missing magnetic material. Video dropout generally appears as a white spot or streak on the video monitor. When several video dropouts occur per frame, the TV monitor will appear snowy. The frequent appearance of dropout on playback is an indication that the tape or recorder is contaminated with debris and /or that tape [binder](#bind) is [deteriorating](#dete).
 
