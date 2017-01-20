@@ -46,7 +46,7 @@ title: AV Preservation Glossary
 
 **Blooming** The defocusing of regions of a picture where brightness is excessive. Also refers to adjusting the white levels, on video monitors, to the point of leaving gray and becoming white.
 
-**BNC** A connector used with coaxial cable, common in radio-frequency electronic systems. 
+**BNC** A connector used with coaxial cable, common in radio-frequency electronic systems. For more information about cables and connectors, check out [The Cable Bible](https://github.com/amiaopensource/cable-bible)
 
 **Breakup** Disturbance in the picture or sound [signal](#sign) caused by loss of [sync](#sync) or by videotape damage.
 
