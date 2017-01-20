@@ -16,5 +16,7 @@ Determine first if the tape format and playback deck are compatible. [S-VHS](htt
 If the bearding is recorded into the image, there is no way to remedy the artifact.
 
 ## Examples(s)
-<img src="{{ site.baseurl }}/images/Beardingsmall.jpg">
+<img src="{{ site.baseurl }}/images/Beardingsmall.jpg"><br>
 <sub>Bearding as seen in an 1/2" open-reel AV recording. Source: Anthology Film Archives</sub>
+
+<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
