@@ -52,7 +52,7 @@
  **/
 @media (max-width:640px) {
   #logo {
-    max-width: 75px;
+    max-width: 128px;
   }
 
   #cover-photo-container {
