@@ -25,7 +25,7 @@ Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the begi
 - Edit page and preview results
 - Click the Save button (last button on right navigational bar) and submit your change request
 
-## Adding Video
+### Adding Video
 
 In AVAA, videos are embedded. We recommend first uploading video examples that are less than 1 minute in length to the [Internet Archive](https://archive.org/). Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
 
