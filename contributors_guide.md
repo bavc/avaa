@@ -7,7 +7,6 @@ title: Contributors Guide
 
 ## Ways to update a page:
 
-
 ### Using Github
 
 - Click on link at the bottom of an artifact page
@@ -27,7 +26,9 @@ Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the begi
 
 ### Adding Video
 
-In AVAA, videos are embedded. We recommend first uploading video examples that are less than 1 minute in length to the [Internet Archive](https://archive.org/). Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
+Videos are embedded. If you have a video of a great artifact, we recommend first uploading it to the [Internet Archive](https://archive.org/). The shorter the video the better (consider a GIF instead). 
+
+Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
 
 The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description. 
 
