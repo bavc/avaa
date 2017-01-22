@@ -31,8 +31,8 @@ In AVAA, videos are embedded. We recommend first uploading video examples that a
 
 The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description. 
 
-```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```
+<small>```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```</small>
 
 ### Using Github Issues
 
