@@ -21,7 +21,7 @@ Read all about AVAA and copyright [here]({{ site.baseurl }}/copyrights.html).
 
 ## I'm new to GitHub. Where can I learn more about how to use it? 
 
-There are many resources on the web for learning git and GitHub. [Hello World](https://guides.github.com/activities/hello-world/)is a well-known guide for the beginner. 
+There are many resources on the web for learning git and GitHub. [Hello World](https://guides.github.com/activities/hello-world/) is a well-known guide for the beginner. 
 
 If you'd like to learn how to update AVAA from the command line on your local machine, we recommend this [user-friendly manual](http://rogerdudler.github.io/git-guide/)from Roger Dudler. 
 
