@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Hum and Buzz</title>
+      <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="/avaa/css/syntax.css">
+      <link rel="stylesheet" href="/avaa/css/main.css">
+      <link rel="stylesheet" href="/avaa/css/responsive.css">
+      <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
+
+
+
+
+
+
+
+  </head>
+  <body>
+    <div class="site">
+      <div class="sidebar" id="sidebar">
+        <div class="header">
+          <h1 class="title"><a href="/avaa/index.html"><img id="logo" src="/avaa/images/logo.png"></a></h1>
+          <span class="tagline"></span>
+        </div>
+        <div class="posts">
+          <div class="search">
+            <form action="/avaa/search.html" method="get">
+              <input type="text" id="search_box" name="query">
+              <input type="submit" value="search">
+            </form>
+          </div>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <li><a href="/avaa/index.html">AVAA Home</a></li>
+            <li><a href="/avaa/about.html">About AVAA</a></li>
+            <li><a href="/avaa/tags.html">Browse Artifacts</a></li>
+            <li><a href="/avaa/contributors_guide.html">Contributor's Guide</a></li>
+            <li><a href="/avaa/preservation_glossary.html">AV Preservation Glossary</a>
+            <li><a href="/avaa/news_resources.html">News/Resources</a></li>
+            <li><a href="/avaa/faq.html">FAQ</a></li>
+            <li><a href="/avaa/copyrights.html">Copyrights</a></li>
+          </ul>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <h4>Browse by category</h4>
+              
+          </ul>
+        </div>
+        <div class="footer">
+          <span id="footer-links">
+            <a href="https://www.bavc.org/preserve-media" class="footer-link">BAVC</a> <span class="separator">&bull;</span>
+            <a href="https://github.com/bavc" class="footer-link">GitHub</a>
+          </span>
+        </div>
+      </div>
+        <div class="content" id="home">
+  <div id="sidebar-button">
+    <img alt="sidebar button" src="/avaa/images/sidebar-button.png">
+  </div>
+  <div id="post-info">
+    <div id="info-container">
+      <h1 id="title">Hum and Buzz</h1>
+      
+
+  
+    <button><a href="/avaa/tags.html#analog">Analog</a></button>
+  
+    <button><a href="/avaa/tags.html#digital">Digital</a></button>
+  
+    <button><a href="/avaa/tags.html#audio">Audio</a></button>
+  
+    <button><a href="/avaa/tags.html#video">Video</a></button>
+  
+    <button><a href="/avaa/tags.html#balanced-cables">Balanced Cables</a></button>
+  
+    <button><a href="/avaa/tags.html#power-supply">Power Supply</a></button>
+  
+    <button><a href="/avaa/tags.html#cable">Cable</a></button>
+  
+
+    </div>
+  </div>
+<br/>
+  <div class="post">
+    <p>Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike <a href="/avaa/artifacts/analog_noise.html">Analog Noise</a> which has no detectable pitch.<sup><a href="#fn1" id="ref1">1</a></sup></p>
+
+<h4 id="power-lines">Power lines</h4>
+<ul>
+  <li>In the course of transmitting electricity from one point to another, power lines radiate electromagnetic waves at 60 Hz. Improperly shielded and unbalanced cables, particularly those in close proximity to power lines, can carry this frequency into a signal chain. In much of the world 50 Hz AC power mains are used and this can introduce interference at this frequency.</li>
+</ul>
+
+<h4 id="power-supplies">Power supplies</h4>
+<ul>
+  <li>A power supply also radiates a 60 Hz magnetic field, which becomes an induction problem when the supply is located near a transducer, such as a tape head or phono cartridge. The supply uses a filtering process to change a 60 Hz line into direct current for the device its powering. When the supply is faulty, any ripple in this conversion process is heard as a harmonic of 60 Hz (120 Hz, 180 Hz, etc.), so it will be at least an octave higher than hum from power lines.<sup><a href="#fn2" id="ref2">2</a></sup> For those in Europe, and the rest of the world using 50 Hz power supplies, the harmonics will be heard at 100 Hz, 150 Hz, etc.<sup><a href="#fn3" id="ref3">3</a></sup></li>
+</ul>
+
+<h4 id="television-interference-tvi">Television interference (TVI)</h4>
+<ul>
+  <li>Heard as a buzzing sound, rather than a smooth hum, television interference happens when cables are moved around.</li>
+</ul>
+
+<h1 id="can-it-be-fixed">Can it be fixed?</h1>
+
+<p>If the hum or buzz is in your source recording, there is nothing that should be done at the point of digitization. Post production, selective use of equalization, especially notch filters set at the hum harmonics (120 Hz, 180Hz, etc.), is a good way of removing the offending hum from service copies.</p>
+
+<p>If the hum or buzz is in your digitization chain, you will have to isolate the source. Make sure your cables are balanced and well-shielded, and that your cable runs are short. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields.<sup><a href="#fn4" id="ref4">4</a></sup></p>
+
+<p>Post production, there are also several tools for removing hum and buzz:</p>
+
+<ol>
+  <li><a href="http://www.clickrepair.net/noise/software_low_frequency.html">DeNoiseLF</a></li>
+  <li><a href="http://www.youtube.com/watch?v=mKCRUM9pYB8">Izotope RX2</a></li>
+</ol>
+
+<h1 id="examples">Examples</h1>
+
+<p><a href="https://soundcloud.com/av_artifact_atlas/hum">Listen to Power Supply Hum on Soundcloud</a><br />
+<a href="https://soundcloud.com/av_artifact_atlas/buzz">Listen to Buzz on Soundcloud</a></p>
+
+<h2 id="references">References</h2>
+
+<p><sup id="fn1">1. Glenn D. White, <em>The audio dictionary</em> (1st ed.), (Seattle: University of Washington Press, 1987), 116. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> <br />
+<sup id="fn2">2. Glenn D. White and Gary J. Louie, <em>The audio dictionary</em> (3rd ed.), (Seattle: University of Washington Press, 2005), 189. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>  <br />
+<sup id="fn3">3. <a href="http://web.archive.org/web/20160617022233/http://www.rane.com/digi-dic.html">RANE Pro Audio Reference</a>. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup><br />
+<sup id="fn4">4. Glenn D. White, <em>The audio dictionary</em> (1st ed.), (Seattle: University of Washington Press, 1987), 209. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup></p>
+
+  </div>
+  <div class="colophon">
+    <p>
+      <span id="social">Edit this page <a href="http://prose.io/#bavc/avaa/edit/master/_artifacts/hum_and_buzz.md">in Prose</a>! || Edit this page <a href="https://github.com/bavc/avaa/blob/master/_artifacts/hum_and_buzz.md">in Github</a>! || File an <a href="https://github.com/bavc/avaa/issues">Issue on Github</a>!</span>
+    </p>
+  </div>
+</div>
+
+
+    </div>
+    <script src="/avaa/scripts/responsive.js" type="text/javascript"></script>
+  </body>
+</html>

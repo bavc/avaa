@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title></title>
+      <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="/avaa/css/syntax.css">
+      <link rel="stylesheet" href="/avaa/css/main.css">
+      <link rel="stylesheet" href="/avaa/css/responsive.css">
+      <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
+
+
+
+
+
+
+
+  </head>
+  <body>
+    <div class="site">
+      <div class="sidebar" id="sidebar">
+        <div class="header">
+          <h1 class="title"><a href="/avaa/index.html"><img id="logo" src="/avaa/images/logo.png"></a></h1>
+          <span class="tagline"></span>
+        </div>
+        <div class="posts">
+          <div class="search">
+            <form action="/avaa/search.html" method="get">
+              <input type="text" id="search_box" name="query">
+              <input type="submit" value="search">
+            </form>
+          </div>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <li><a href="/avaa/index.html">AVAA Home</a></li>
+            <li><a href="/avaa/about.html">About AVAA</a></li>
+            <li><a href="/avaa/tags.html">Browse Artifacts</a></li>
+            <li><a href="/avaa/contributors_guide.html">Contributor's Guide</a></li>
+            <li><a href="/avaa/preservation_glossary.html">AV Preservation Glossary</a>
+            <li><a href="/avaa/news_resources.html">News/Resources</a></li>
+            <li><a href="/avaa/faq.html">FAQ</a></li>
+            <li><a href="/avaa/copyrights.html">Copyrights</a></li>
+          </ul>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <h4>Browse by category</h4>
+              
+          </ul>
+        </div>
+        <div class="footer">
+          <span id="footer-links">
+            <a href="https://www.bavc.org/preserve-media" class="footer-link">BAVC</a> <span class="separator">&bull;</span>
+            <a href="https://github.com/bavc" class="footer-link">GitHub</a>
+          </span>
+        </div>
+      </div>
+        <div class="content" id="home">
+  <div id="sidebar-button">
+    <img alt="sidebar button" src="/avaa/images/sidebar-button.png">
+  </div>
+  <div id="post-info">
+    <div id="info-container">
+      <h1 id="title"></h1>
+    </div>
+  </div>
+<br/>
+  <div class="post">
+    <h1>Search</h1>
+
+<form action="/avaa/search.html" method="get">
+  <input type="text" id="search-box" name="query">
+  <input type="submit" value="search">
+</form>
+
+<ul id="search-results"></ul>
+
+<script>
+  window.store = {
+    
+      "artifacts-ac-beat-html": {
+        "title": "Electrical Ground Loop Interference AC Beat",
+        "category": "videoanalog",
+        "content": "DefinitionA ground loop is caused by the existence of more than one path to ground. If a signal is passed from one electronic component to another via an unbalanced connection, the difference in the ground potential causes an errant current to flow through the cables. This current flow can create a distortion in the video or audio signal. One type of ground loop interference, AC Beat, is exhibited as a bar of milky luminance that rolls from the bottom to the top of the screen. Ground loop is audible as a 60 Hz hum in the audio signal.Can it be fixed?If ground loop problems are recorded in the video or audio signal, they are only correctable through re-transfer of the content without the electrical anomalies in the system. Usually, this involves powering all devices in the video system using one source of electricity with all outlets serving power with minimal difference in ground potential.Example(s)Watch for the horizontal band rolling up caused by the ground loop.See alsoReferences",
+        "url": "/avaa/artifacts/ac_beat.html"
+      }
+      ,
+    
+      "artifacts-analog-audio-dropout-html": {
+        "title": "Analog Audio Dropout",
+        "category": "audioanalogdigital",
+        "content": "DescriptionAudio dropout is a brief reduction or loss of signal that occurs during playback, and it can be found in both analog and digital audio tape sources. Read about digital dropout here. Dropout is the result of a defect in the carrier or playback mechanism. Analog audio dropout is caused by anything that diminishes the uniformity of the magnetic media, such as dust, tape damage, or a defect in the tape stock.Can it be fixed?Dropouts can often be reduced, but they can be difficult to eliminate during playback. If you get a recording with dropout, your best bet is to clean the playback heads and re-digitize. Should dropouts persist, production or access copies of files can be remediated using software tools (for example, Izotope Spectral Repair), that use digital signal processing (DSP) techniques to resynthesize gaps in audio content.Example(s)Listen to dropout heard in a 1/4” open reel tape on SoundcloudSee alsoReferences",
+        "url": "/avaa/artifacts/analog_audio_dropout.html"
+      }
+      ,
+    
+      "artifacts-analog-distortion-html": {
+        "title": "Analog Distortion",
+        "category": "audioanalog",
+        "content": "DescriptionIn audio, distortion is heard as an unwanted signal change. This is somewhat of a catchall term for such artifacts as Wow and Flutter that are, by definition, a distortion of the original signal.1 Analog distortion is an artifact recorded into an analog carrier or introduced in an analog signal chain, while Digital Distortion occurs during digitization and post A/D conversion.In this artifact guide, analog distortion is the term used to describe a recording where the levels are too hot in the source recording. “Hot levels” means that the input signal level exceeds the recording device’s linear range, and is also known as “overload.” The volume is too high throughout the recording, and thus all distortion artifact noises are also loud. Unfortunately, most unique and archival recordings were done by non-professionals, who made simple mistakes, which are difficult to fix.Can it be fixed?When the distortion is in the source recording, there is not much that can be done during digitization to correct it. Post-production, there are several tools available that are well suited to spectral repair and fixing overloads:  iZotope RX suite  DeNoiseLF  Adobe AuditionAttempts to remove distortion noise may adversely affect the harmonics of a sound and thus change the quality of the voice or sound that was captured. Removing distortion is a balance between taking out undesirable frequencies while keeping component frequencies that make up the harmonic of a sound unaffected. It is careful to keep this in mind while cleaning up the recording for production masters or access copies.Example(s)Listen to distortion in source on SoundcloudSee alsoReferences1. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 114-115. ↩",
+        "url": "/avaa/artifacts/analog_distortion.html"
+      }
+      ,
+    
+      "artifacts-analog-noise-html": {
+        "title": "Analog Noise",
+        "category": "audioanalog",
+        "content": "DescriptionNoise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called Analog Distortion. Noise is defined as a wideband addition to a signal by any electronic or mechanical component.1 There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”The most common type of noise is “broadband noise,” which is a continuous distribution of energy spread over frequency. It sounds like hissing and has no detectable pitch.2 Hum and Electromagnetic Interference are other types of noise that do have a detectable pitch.3Can it be fixed?During digitization, nothing should be done to correct or reduce noise, if that noise is recorded into the source. However, all efforts should be taken to eliminate hum and EMI noise if either is introduced during the transfer process. For tapes that were recorded with Noise Reduction, please see our Noise Reduction page. The good news is that noise is relatively easy to fix post-production. Most audio editing software has noise detection and removal tools. Several are listed below:  DeNoise  Adobe Audition  IzotopeRX 2  Waves Restoration SuiteExample(s)Listen to crackle in a cassette transfer originating in the source on SoundcloudSee alsoReferences1. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 156. ↩2. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 156. ↩3. Glenn D. White, The audio dictionary (1st ed.), (Seattle: University of Washington Press, 1987), 116. ↩",
+        "url": "/avaa/artifacts/analog_noise.html"
+      }
+      ,
+    
+      "artifacts-audio-dropout-html": {
+        "title": "Audio Dropout",
+        "category": "audioanalogdigital",
+        "content": "DescriptionAudio dropout is a brief reduction or loss of signal that occurs during playback, and it can be found in both analog and digital audio tape sources. Read about digital dropout here. Dropout is the result of a defect in the carrier or playback mechanism. Analog audio dropout is caused by anything that diminishes the uniformity of the magnetic media, such as dust, tape damage, or a defect in the tape stock.Can it be fixed?Dropouts can often be reduced, but they can be difficult to eliminate during playback. If you get a recording with dropout, your best bet is to clean the playback heads and re-digitize. Should dropouts persist, production or access copies of files can be remediated using software tools (for example, Izotope Spectral Repair) that use digital signal processing (DSP) techniques to resynthesize gaps in audio content.Example(s)See AlsoReferences",
+        "url": "/avaa/artifacts/audio_dropout.html"
+      }
+      ,
+    
+      "artifacts-audio-overwrite-html": {
+        "title": "Audio Overwrite",
+        "category": "audioanalogdigital",
+        "content": "DescriptionOverwrite refers to the interruption of one program recording with another, or the partial erasure of an old program when a new program is recorded. In instances of the former, it is unlike an edit in that it is not performed for creative effect, it is generally disruptive to the program in progress, and it is usually but not exclusively accidental. Overwrite can happen when tape stock is intentionally or unintentionally reused. Depending on how the overwrite is performed, it can be obvious or hidden. Overwriting footage using insert editing functions on professional VTRs or non-linear editors in a studio environment can produce an invisible overwrite, where as an overwrite that is simply crash-recorded without any kind of preparation may produce a temporary loss of sync in the image, and/or other distortions. Cassettes have record safety tabs that help reduce accidental overwrite in production environments. In preservation facilities, the “record inhibit” function, if available, should always be engaged on playback decks to avoid accidents.Can it be fixed?No, once a video or audio program is overwritten, it is effectively erased and cannot be restored.ExamplesListen to Audio Overwrite in SoundcloudSee AlsoReferences",
+        "url": "/avaa/artifacts/audio_overwrite.html"
+      }
+      ,
+    
+      "artifacts-audio-phase-error-html": {
+        "title": "Audio Phase Error",
+        "category": "audioanalog",
+        "content": "This is an image of a phasescope with a correlation meter along the bottom. A horizontal waveform is an indication that there is a phase problem.DescriptionProblems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.Phase error as a term used to describe when certain frequencies are partially or wholly cancelled out of a recording. Phase is an issue when more than one channel is used to record a single source. Often these errors do not become evident until the recording is switched to mono. All of these things make phase error hard to identify.BackgroundThe concept of phase in sound is most easily explained when comparing two sine waves. When their cycle match, they are said to be “in phase,” and produce the best quality sound. If one is inverted so that the peaks of one sine wave occur at the same time as the troughs of the second sine wave, they would cancel each other out, and no sound at all would be heard. If the cycles are slightly off, there is a partial cancellation, which silences certain frequencies.CausesPhase error can be the result of time delay due to poor microphone placement during recording, a poorly made cable, a misaligned repro tape head on playback, a poorly aligned stylus/cartridge, etc.  Heard over a pair of speakers relatively close together, phase cancellation is most apparent at low frequencies, resulting in a signal that sounds thin, with little to no bass.1IdentificationA phasescope is a graphic representation of an audio signal, which is included in most audio editing software. You will see an example of one on the right side of this page. On a phasescope, a perfectly in-phase signal will be completely vertical and totally thin. A perfectly out-of-phase signal will be completely horizontal and totally thin. Most out-of-phase signals fall somewhere in between the two, resembling an American football.As shown in the image to the right, a correlation meter is present at the bottom of most phasescopes. On a correlation meter, an out-of-phase signal will oscillate between -1 and 0. An in phase signal, on the other hand, will be between 0 and +1, where 0 means perfectly stereo and +1 means perfectly mono.Can it be fixed?It depends on how and when the problem was created. Conceptually, you could nudge one of the signals over until they match, but as this can be very tedious, near impossible to get right, and may not restore the recording to its proper sound quality (as in the case of digital processing of an analog-tape-to-digital transfer done with an incorrect azimuth setting).It is best to consult a qualified engineer or technician if you believe that there is a phase problem.At least two companies offer plug-ins to correct phase-related issues as post-production: Cedar Audio’s Phase Corrector plug-in and Cube-Tec’s azimuth plugin).Example(s)Listen to a stereo file that’s out of phase on SoundcloudListen to the same stereo file summed to mono on Soundcloud - note the drop in level.See asloReferences1. Daniel Keller, Understanding Audio Phase, Universal Audio (uaudio.com), 21 June 2011. ↩",
+        "url": "/avaa/artifacts/audio_phase_error.html"
+      }
+      ,
+    
+      "artifacts-bad-splice-html": {
+        "title": "Bad Splice",
+        "category": "audioanalog",
+        "content": "Magnetic tape can be cut and pasted back together with “splicing tape,” a thin piece of adhesive tape, specifically designed for splicing. When a splice is done carefully, it can be inaudible. However, even a good splice done using proper tape can break down over time. When the glue in the adhesive tape breaks down, the splice can fall off during playback or cause adjacent layers of tape to stick, often causing a brief Wow and Flutter artifact.Can it be fixed?Bad splices can often be identified during the preview stage of a transfer, prior to digitization. Any problematic splices should be removed, the area around the splice should be cleaned (techniques vary, but a KimWipe with a little bit of deionized water (DI) is a safe first step), and a new splice should be made. A splicing block sized to your tape width and similarly sized splicing tape will be necessary. Unfortunately, these supplies are becoming harder to acquire.ExamplesListen to Bad Splice on Soundcloud - Notice the rapid drop in signal and affected vocal where the bad splice occurs.See also  Richard Hess, Magnetic Tape Splicing, RichardHess.com, 07 January 2008.",
+        "url": "/avaa/artifacts/bad_splice.html"
+      }
+      ,
+    
+      "artifacts-bearding-html": {
+        "title": "Bearding",
+        "category": "video analog",
+        "content": "The term “bearding” describes horizontal black lines or “spikes” that appear to the right of a video image’s brightest areas.DefinitionA common artifact between families of formats such as 1/2” open-reel EIAJ or VHS, “bearding” can be traced to an overloading condition in VTRs that occur as a result of a frequency mismatch between the source signal’s recorded bandwidth, and that of the resulting playback. As a picture’s peak brightness levels are “clipped” by the recording and playback frequency mismatch, the resulting illegal black spikes may cause disruptions in the signal’s horizontal sync, generating further time-based issues and conditions throughout playback.Can it be fixed?Determine first if the tape format and playback deck are compatible. S-VHS decks are backwards compatible- they can play VHS and S-VHS, however VHS decks cannot play S-VHS tapes.If the bearding is recorded into the image, there is no way to remedy the artifact.Examples(s)Bearding as seen in 1/2 open-reel AV recording. Source: Nancy Karp +DancersBearding as seen in an 1/2” open-reel AV recording. Source: Anthology Film Archives",
+        "url": "/avaa/artifacts/bearding.html"
+      }
+      ,
+    
+      "artifacts-block-noise-html": {
+        "title": "Block Noise",
+        "category": "digitalvideo",
+        "content": "In footage with very fast motion, block noise can occur when the difference between two fields creates deficiencies in encoding. If there is too much difference between two adjacent fields during recording, they are compressed independently and some detail in the image is lost due to the reallocation of available bits.Can it be fixed?No, block noise cannot be remedied.",
+        "url": "/avaa/artifacts/block_noise.html"
+      }
+      ,
+    
+      "artifacts-carrier-leak-html": {
+        "title": "Carrier Leak",
+        "category": "videoanalog",
+        "content": "Carrier leak displays as a textured herringbone pattern across the entire video image.Carrier leak refers to a problem in black and white video that originates from a video playback device. The term is sometimes seen in the context of machine maintenance and calibration due to the origin of the artifact.  Carrier leak can be recorded into a second-generation video copy, where it becomes part of the video signal. In recording black and white video, the FM process is used to modulate the video signal (~3 Mhz for black and white) for storage on video tape. During the process of playback, the frequency modulated signal is read by the pair of video heads, amplified and demodulated by electronics in the playback machine. If the processing isn’t accurate so that there is an imbalance in the amplification between the signal read from the two playback heads, a textured and banded pattern is superimposed over the video image. This distortion is the result of the modulated carrier leaking into the demodulated video signal that is displayed on the monitor during playback.Gfeller et al. explain:There are two reasons why this disturbing interference is found in older video formats in particular.  (1) The relatively simple video devices were often maintained by the users themselves, i.e., by non-technicians, consequently they were not always properly adjusted.  (2) In the very oldest formats, modulation often took place in frequency ranges that lie within the baseband bandwidth of the video signal.1Can it be fixed?If the carrier leak is recorded into the image, there is no way to remedy the artifact. If the carrier leak is occurring due to equipment malfunction, the VTR may need to be serviced.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Carrier Leak” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.104, video 54. ↩",
+        "url": "/avaa/artifacts/carrier_leak.html"
+      }
+      ,
+    
+      "artifacts-chrominance-noise-html": {
+        "title": "Chrominance Noise",
+        "category": "videoanalog",
+        "content": "Chrominance noise can be identified as traces and specks of color in an otherwise clear picture. It is most visible in dark, saturated areas of the video image. It can be due to limitations of CCD sensitivity in video cameras (i.e., low-lighting conditions during camera recording), over-boosting of chrominance in the video signal, or the use of poor video processors. Multi-generation composite dubs may suffer from high levels of chrominance noise.Can it be fixed?Like Luminance Noise, if the video output has been properly adjusted for playback, there is not an acceptable fix for this problem in preservation workflows.",
+        "url": "/avaa/artifacts/chrominance_noise.html"
+      }
+      ,
+    
+      "artifacts-clicks-and-pops-html": {
+        "title": "Click and Pops",
+        "category": "audioanalog",
+        "content": "Clicks and pops commonly manifest on disc-based media as a result of damage to the disc or contaminants contacting the stylus during playback. However, they can also show up in magnetic tape recordings that encountered static electricity buildup during tape duplication. They can originate from the source media (analog clicks) or be introduced by the digitization hardware chain (digital clicks). For digital clicks and pops, please see our page on Interstitial Error.Can it be fixed?Cleaning, preferably with a vacuum based machine like a Keith Monks, is the most effective way of reducing clicks and pops on discs. Placing a soft wet brush with distilled water in front of the stylus is also effective, although wet playback “has the effect of increasing surface noise in all subsequent ‘dry’ plays”.1Plastic leader tape may accumulate an electrostatic charge which can discharge during playback, which may produce a pop sound. Replacing leader tape with archival plastic leader tape before transfer can help eliminate the possibility of pops surfacing in the transfer.2There are numerous software and hardware tools that can help clean up clicks and pops. Most audio editing software, including Audacity and WaveLab, have click and pop detection capabilities. Cedar, Waves, and iZotope also offer tools to help clean up clicks and pops.ExamplesListen to clicks, pops, and surface noise in an LP transfer on SoundcloudListen to static-related clicks in a cassette transfer on Soundcloud - they are particularly noticeable when the content stops.References1. Kevin Bradley (ed), Guidelines on the production and preservation of digital audio objects, IASA TC-04 (2nd ed., 2009), 57-59. ↩2. CLIR and Library of Congress, Capturing Analog Sound for Digital Preservation: Report of Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes, (Washington, D.C.: Library of Congress and National Recording Preservation Board, 2006), 7, 19. ↩",
+        "url": "/avaa/artifacts/clicks_and_pops.html"
+      }
+      ,
+    
+      "artifacts-crash-record-html": {
+        "title": "Crash Record",
+        "category": "videoanalog",
+        "content": "The Compendium of Image Errors in Analogue Video describes this as “Color Smearing After an Editing Cut.”1This artifact describes the abrupt start to a recorded program that was created on a previously recorded segment of tape without the use of flying erase heads or advanced insert edit technology. Between two shots in sequence, a band of semi-opaque color moves at a constant rate from top-to-bottom in the video image. After it rolls out of the image, the artifact does not reappear. There may be a small bit of accompanying audio from the first image heard just before or after the second image is displayed.This is a common artifact in recordings made using consumer grade video recorders because the erase heads on these machines are fixed in a stationary position in the tape path, just before the video drum scanner. As the tape moves past the erase head and comes into contact with the video record heads, an image is recorded. However, there is a small bit of tape that lies between the stationary erase head and the video record head, and if there is content already recorded on a tape and an edit is made without significant pre-roll to account for the dead space in the record path, old video will be left at the edit point. This leftover video displays as color smearing.Gfeller et al. offer further explanation: “The image error moves down the screen because the head gap on the erase head is oriented vertically; as the tape comes into contact with the erase head, adjacent helical tracks (fields) are erased at a slightly different height on each track, causing the transition from the affected to the unaffected picture areas to move down the screen field by field.”2VTRs used for professional and non-linear editing employ heads that can be perfectly timed or synchronized to an incoming video signal, so that the edit point is field accurate and clean.Can it be fixed?No, this artifact is part of the video signal and there is no way to eliminate or correct it.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Color Smearing After An Editing Cut” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.64, video 12. ↩2. Gfeller et al., “Color Smearing After An Editing Cut.” ↩",
+        "url": "/avaa/artifacts/crash_record.html"
+      }
+      ,
+    
+      "artifacts-cross-talk-between-spiral-grooves-html": {
+        "title": "Cross-talk Between Spiral Grooves",
+        "category": "audioanalog",
+        "content": "Cross-talk between spiral grooves1 is a condition when a groove on a disc is modulated by its neighboring groove. Pre-echo2 is a condition when a groove on a disc is modulated by its subsequently played groove3 and post-echo4 is when it is modulated by it’s preceding groove.This manifests as faint program material one revolution before or after intended. The slower the disc playback speed the more length of echo will be noticed; this means the cross-talk on a 16 2/3 rpm disc will be longest and cross-talk will be shortest on 78 rpm discs. This artifact is usually low in level compared to program material since it is a byproduct of heavy modulation of the neighboring groove. With expert disc cutting this artifact should be absent or of very minimal in level. This condition generally is most apparent during silences before a band begins.Can it be fixed?This is fundamentally a carrier artifact and should be handled accordingly when capturing the original object.The most audible grooved disc pre-echo (a section of silence before a band begins) can be corrected in post production. Often the pre-echo is markedly more on the shared groove wall with the cut creating the pre-echo. The opposite wall could be copied over or silence added from another portion of the disc. Care should be taken that if it is a stereo recording the stereo image’s character is not compromised by copying the other channel (normally left channel).ExamplesListen to Grooved Disc Pre-echo on SoundcloudReferences1. International Electrotechnical Committee, IEC 806-14-64, 1998. ↩ 2. International Electrotechnical Committee, IEC 806-14-65, 1998. ↩ 3. L. Boden, Basic Disc Mastering (2nd ed.), (Cincinnati: Larry Boden, 2013), 41. ↩ 4. International Electrotechnical Committee, IEC 806-14-66, 1998. ↩",
+        "url": "/avaa/artifacts/cross_talk_between_spiral_grooves.html"
+      }
+      ,
+    
+      "artifacts-crushed-setup-html": {
+        "title": "Crushed Setup",
+        "category": "videoanalog",
+        "content": "The image shows how shadow detail is revealed with a properly adjusted setup.The bottom end of the video signal is important because shadow detail is lost when pedestal and mid-range black levels are pushed down. Just as overly bright video can cause a loss of video information, analog video that falls below 7.5 IRE and clips at 0 IRE during reformatting will result in dark video and loss of image. This issue is particularly frustrating when it is found in digitized video because it is not likely that post-digitization adjustment can bring back the lost detail. The video must be reformatted again to capture the entire range of values.Black levels are severely clipped in this example, causing the objects in the foreground to look flat and lose contrast around the edges against the backgroundCan it be fixed?Yes, this is correctable through retransfer and adjustment of the VTR output using a  processing amplifier to adjust setup (black levels). Ideally the setup  will not average below 7.5 IRE, depending on the type of source footage and the calibration accuracy of the recording device used to make the source tape (i.e., raw camera footage, off-air recording, or broadcast air master).This waveform shows properly adjusted black levels, revealing detail in the trees and hills of the video image",
+        "url": "/avaa/artifacts/crushed_setup.html"
+      }
+      ,
+    
+      "artifacts-digital-audio-dropout-html": {
+        "title": "Digital Audio Dropout",
+        "category": "analogaudiodigital",
+        "content": "Audio dropout is a brief reduction or loss of signal that occurs during playback, and it can be found in both analog and digital audio tape sources. Read about analog audio dropout here: Audio Dropout. Dropout is the result of a defect in the carrier or playback mechanism.Digital Audio Tape (DAT) is particularly susceptible to dropout. Digital audio dropout is caused by a non-uniform magnetic surface, or a malfunctioning tape deck. However, because the magnetically recorded information is in binary code, it results in a momentary loss of data and can produce a loud transient click or worse, muted audio, if the error correction scheme in the playback equipment cannot correct the error.Can it be fixed?Digital dropouts can be very difficult to eliminate. If you encounter a digital recording with dropout, try cleaning the playback head and re-transferring, or try re-transferring on a different deck. If the deck the tape was originally recorded on is still available and in good working order, try using it instead. Bear in mind that the dropout may have been recorded into the source; in these cases, switching decks or cleaning the heads will not solve the problem.Should dropouts persist, production or access copies of files can be remediated using software tools (for example, Izotope Spectral Repair) that use digital signal processing (DSP) techniques to resynthesize gaps in audio content.ExamplesListen to Digital Dropout in a DAT on Soundcloud",
+        "url": "/avaa/artifacts/digital_audio_dropout.html"
+      }
+      ,
+    
+      "artifacts-digital-clipping-html": {
+        "title": "Digital Clipping",
+        "category": "analogaudiodigital",
+        "content": "Example of an analog transfer that was recorded at an improper levelWhen a digital signal exceeds 0 dBFS, which is the highest voltage level that an A/D converter can convert, samples are lost.1 Unlike analog distortion, where hot levels can produce a saturation effect, digital clipping is very unforgiving. Severe overs can produce what sounds like noise. However, any over in a digital system constitutes distortion, whether or not it is audible.2 Even subtle overs can be seen by zooming in to an audio waveform and viewing the peaks. If the peaks appear chopped off or truncated at the top of the wave, clipping has occurred.Can it be fixed?If digital clipping is heard or seen in the preservation master files, the source must be re-digitized. An individual over or two due to a transient sound, like a cough or a fist hitting the table, may be deemed acceptable if the transfer was otherwise at a reasonable level.Overs from a digital source can be repaired on production master files using a plug-in, such as Izotope’s Declipper.3 Preservation master files generated from an analog source will show digital overs if levels were not properly adjusted prior to digitization. These sources should be re-digitized at a lower level. Any digitized recording that shows consistent overs, meaning a signal constantly hitting 0 dB (digital zero), is by definition too hot.ExamplesListen to Digital Clipping on SoundcloudReferences1. Rane Pro Audio Reference. ↩2. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 275. ↩3. Izotope Declipper: getting started. ↩",
+        "url": "/avaa/artifacts/digital_clipping.html"
+      }
+      ,
+    
+      "artifacts-dihedral-maladjustment-html": {
+        "title": "Dihedral Maladjustment",
+        "category": "videoanalog",
+        "content": "Dihedral Maladjustment refers to a condition resulting from a miscalibration of the playback heads. It is similar to skew in that it is a timing error resulting in a “bending” of the video image, however, skew is displayed as a uniform bending in one direction (left or right), and dihedral maladjustment displays as a fanning or V-shaped distortion, generally at the top of the image. Proper calibration of video heads requires that they are positioned 180 degrees apart, resulting in a full helical scan of the tape from rotation to rotation. The head switch controls which head is active with each scan of the tape. If the heads are slightly out of 180 degree phase, recorded video fields will be read too early or too late, resulting in a distortion of the image. The v-shaped skewing occurs because of the toggled field mispositioning, with lines read too late positioned to the right, and lines read too early positioned to the left.1Can it be fixed?Dihedral maladjustment can be recorded into a video image, or it can occur as a result of poorly calibrated record machine. It may be possible to eliminate the dihedral artifact with a TBC, or in cases where it is severe, the playback heads on a machine can be calibrated to mistime correctly for the recorded program.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Dihedral Maladjustement” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.93, video 45. ↩",
+        "url": "/avaa/artifacts/dihedral_maladjustment.html"
+      }
+      ,
+    
+      "artifacts-dot-crawl-html": {
+        "title": "Dot Crawl",
+        "category": "videoanalog",
+        "content": "A composite video artifact, dot crawl occurs as a result of the multiplexing of luminance and chrominance information carried in the signal. Baseband NTSC signals carry these components as different frequencies, but when they are displayed together, the chroma information can be misinterpreted as luma. The result is the appearance of a moving line of beady dots. It is most apparent on horizontal borders between objects with high levels of saturation. Using a comb filter to process the video can reduce the distraction caused by dot crawl when migrating composite video sources, and the artifact may be eliminated through the use of s-video or component connections. However, if it is present in an original source transfer, it might be compounded in subsequent generations of composite video transfers.Can it be fixed?Yes, dot crawl can be remedied by using an S-Video or component video output on the playback VTR, if available. If not, many TBCs have integrated comb filters which may help reduce dot crawl if engaged, though some purists may debate this approach.",
+        "url": "/avaa/artifacts/dot_crawl.html"
+      }
+      ,
+    
+      "artifacts-dv-dropout-html": {
+        "title": "DV Dropout",
+        "category": "video digital",
+        "content": "DescriptionAs with analog dropout, DV dropout in source signals results from a loss of information recorded or read from the tape by the VTR playback heads. It might be due to tape wrinkling, creasing or other tape damage, manufacturing defects, environmental dirt, or transport shock during recording. Dropout appears as pixels of missing data in the image, which may be substituted with video information from nearby frames during playback. Severe and consistent dropout may indicate clogged heads in a playback machine or significant damage/deterioration to the source media.Can it be fixed?Cleaning the media may help reduce dropout in the image.Example(s)Dropout artifacts are sprinkled throughout the right area of the image in this clip from a DV source.",
+        "url": "/avaa/artifacts/dv_dropout.html"
+      }
+      ,
+    
+      "artifacts-dv-quilting-html": {
+        "title": "DV Quilting",
+        "category": "video digital",
+        "content": "DescriptionIn DV footage with strong horizontal and diagonal imagery, an artifact similar to stair steps can appear due to “discontinuities between adjacent DCT blocks.”1 This artifact is inherent to DCT compressors, which include JPEG and MPEG codecs. DCT compressors process images in 8 x 8 blocks, which do not reproduce smoothly transformed diagonal lines. Enhancing the aperture control on a high-resolution monitor can intensify this artifact, especially in footage with slow camera movement. Video recordings with objects arranged on an approximately 20 degree diagonal plane seem to be particularly affected by this phenomenon.Can it be fixed?No, quilting cannot be remedied.Example(s)In this clip, notice the quilting that appears in the blinds in the lower area of the image.See also  DV Technology for Video Computer Applications, 2008  The DV Show: What Are the DV Artifacts I Keep Hearing About, 2006References1. Adam Wilt, DV Pix - Image Artifacts, 1998. ↩",
+        "url": "/avaa/artifacts/dv_quilting.html"
+      }
+      ,
+    
+      "artifacts-dv-record-head-clog-html": {
+        "title": "DV Record Head Clog",
+        "category": "videodigital",
+        "content": "This clip shows an area of the video image left over from a previous shoot.This artifact may be the result of a clogged record head when taping over a recycled piece of tape. Even a small piece of debris might reduce head-to-tape contact during recording, causing signal dropout (if using virgin stock) or an artifact like the one shown here. If there is a previous program recorded, it will remain on the section of tape that passed through the transport during the occurrence of the head clog.Can it be fixed?There is no remedy for this artifact, as it is recorded into the tape media. The only way to avoid this problem is to keep the camera record heads clean and always use new tape.",
+        "url": "/avaa/artifacts/dv_record_head_clog.html"
+      }
+      ,
+    
+      "artifacts-electromagnetic-interference-html": {
+        "title": "Electromagnetic Interference",
+        "category": "audioanalog",
+        "content": "EMI is any type of interference caused by errant and unwanted electromagnetic waves that are received and amplified by an audio system. They can be picked up and recorded into an audio signal and heard upon playback of the contaminated recording. Commonly cited sources of EMI include power lines, engine ignition systems, light dimmers, as well as cell phones. Cell phone specific EMI is commonly termed “GSM Buzz”. GSM (Global System for Mobile) is emitted from cell phones with a pulse rate of 217 Hz, well within audible range.1 “GSM Buzz” however is primarily associated with 1G and 2G cellular phone systems. With the advent of 3G and 4G cellular phone systems this problem is significantly reduced or eliminated as the method of communication between the phone and tower is different.2Radio frequency interference (RFI) is a type of high frequency electromagnetic interference introduced by an intentional or unintentional source, such as a wireless phone, AM/FM/TV broadcast transmitters, radar systems, a microwave oven, fluorescent lights, and any number of other high frequency RF devices. An improperly shielded audio cable can act as an antenna and pick up unwanted frequencies. While the frequency spectrum of RFI interference is above the range of human hearing, “most audio circuits are nonlinear at these high frequencies, and this causes the interfering signals to be rectified, or detected.”3 What is heard then is not the ultrasonic frequencies, but the problems they produce. The examples on this page reflect some of the symptoms of RFI, ranging from the demodulation of a radio signal to more subtle types of distortion.Can it be fixed?When EMI is recorded in the source material, it can not be fixed. However, be sure that the interference is in the original, and not in your system. Proper shielding and grounding should eliminate any interference to the signal that might be picked up by your system. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields.4 Make sure all of the plugs are plugged tightly into sockets or inputs. Keep playback and recording equipment away from any devices that might introduce EMI and make sure that your cell phone is turned off during transfers.ExamplesListen to RF noise, heard as a crackling sound, discovered in a Betacam SP tape on SoundcloudListen to radio interference discovered in a Betacam SP tape on SoundcloudListen to an example of GSM buzz, likely emitted from a cellular device and recorded into an audio track on an 8mm video tape on SoundcloudReferences1. John Whalen, Minimize GSM Buzz Noise in Mobile Phones, EE Times, 20 July 2009. ↩2. Sascha Segan, CDMA vs. GSM: Whats the Difference?, PC Mag, 09 February 2015. ↩3. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 320. ↩4. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 209. ↩",
+        "url": "/avaa/artifacts/electromagnetic_interference.html"
+      }
+      ,
+    
+      "artifacts-fluorescent-strobing-html": {
+        "title": "Fluorescent Strobing",
+        "category": "videoanalog",
+        "content": "In countries which use 50 Hz electrical systems, shooting scenes lit by fluorescent bulbs in the NTSC-M video format will produce a strobing artifact upon playback of the footage. Fluorescent light output is not constant. It flickers (in some regions) at a frequency that clashes with the 59.94 field rate of NTSC-M. The strobing effect is a very visible overall luminance pulse in the footage. This artifact is most commonly seen in raw camera footage recorded in Japan, Chile and areas of Latin America and the Carribean. Fluorescent flicker is not an issue with footage recorded in the US, for example, where electricity runs at 60 Hz.Can it be fixed?No, this artifact cannot be remedied, as it is recorded into the video signal.",
+        "url": "/avaa/artifacts/fluorescent_strobing.html"
+      }
+      ,
+    
+      "artifacts-ghost-html": {
+        "title": "Ghost",
+        "category": "videoanalog",
+        "content": "File:Analog_TransmissionGhost.mp4Notice the transparent and ghostly repeated right edge of the image in this video.Ghost is a shadowy or weak image in the received picture, offset either to the right or to the left of the primary image. It is the result of transmission conditions where secondary signals are created and received earlier or later than the primary signal caused by a reflected RF signal.Echo is a wave which has been reflected at one or more points in the transmission medium. Result from reflection of transmitted broadcast signals during off air recording (signal reflection from tall physical structures like skyscrapers or airplanes) and signal routing problems where unterminated video signals. Echoes may be leading or lagging the primary signal, and appear in the picture monitor as reflections or double images commonly known as ghosts.The term “ghost” or “ghosting” is also used to describe and effect called Image Lag, an artifact of certain types of video tube cameras.“Ghost” has been noted as being similar to Print-through. The condition where low frequency signals on one tape winding imprint themselves on the immediate adjacent tape windings. It is most noticeable on audio recordings where a ghost of a recording can be heard slightly before playback of the actual recording.Can it be fixed?If the artifact is recorded into the media, it cannot be fixed.ReferencesBAVC Preservation Glossary",
+        "url": "/avaa/artifacts/ghost.html"
+      }
+      ,
+    
+      "artifacts-head-clog-banding-html": {
+        "title": "Head Clog Banding",
+        "category": "videodigital",
+        "content": "File:DV_Headclog1.mp4The problem is difficult to see in the clip above, and much more obvious in the clip below.File:DV_Headclog2.mp4MiniDV and DVCAM record ten bands of video per frame using two video heads (five per head). If dirt or debris clogs one of the heads, the signal cannot by read from tape in its entirety. Typically, a head clog will appear as wide alternating lines of frozen video or an alternating pattern of color indicating a loss of read/write capability at the video head. Two head clogs cause loss of picture altogether or a freeze-frame of the last decodable frame. If a head is damaged, this type of banding may occur with all record and playback functions of the failing VTR.Can it be fixed?Cleaning the media may help reduce this artifact. Exercising the tape may also help if the media hasn’t been used for a prolonged period of time.",
+        "url": "/avaa/artifacts/head_clog_banding.html"
+      }
+      ,
+    
+      "artifacts-head-equalization-error-html": {
+        "title": "Head Equalization Error",
+        "category": "videoanalog",
+        "content": "The equalization on one head was turned all the way down to create this image. Notice it is primarily an error in chrominance since the luminance (white) bar on the left shows no banding.A banding artifact results when one or more video heads has been incorrectly adjusted for 2” tape playback. All four heads in a Quad player must be properly equalized to the recording in order to prevent this kind of error.  If Ampex Auto Chroma is engaged, it will automatically adjust EQ for proper playback. There are manual controls for adjustment, as well.Establishing perfect head equalization has always been tricky. In the early days of Quad use, it was not uncommon to ship from one station to another the heads used in the recording with the tape itself so that the original heads could be employed in playback, eliminating the need to recreate the set up on a different machine.Can it be fixed?If this banding error is detected on a Quad player, it may be able to be fixed by making proper head adjustments, usually through the use of an electronic delay control. If the banding is seen in a second generation recording captured from the original Quad recording, then the artifact cannot be eliminated through playback adjustment.",
+        "url": "/avaa/artifacts/head_equalization_error.html"
+      }
+      ,
+    
+      "artifacts-head-switching-noise-html": {
+        "title": "Head Switching Noise",
+        "category": "videoanalog",
+        "content": "File:HeadSwitch_NYU.mp4Notice the noisy lines at the bottom of the video in this short clip.Head switching noise is commonly seen at the bottom of video display during VHS playback. Although it occurs in other formats, it is often masked depending on the processing features and calibration of the playback VTR. During playback of videotape, video heads are turned on as they pass over the media and then turned off to prevent the display of noise that would be output when they are not in contact with the tape. Head switching noise is a result of that switching interval, and it occurs prior to the start of vertical sync. This artifact is not viewable in overscan on a broadcast monitor, but it is viewable in underscan and in full-raster digitized video and un-cropped digital derivatives. Some VTRs feature “SWP masking”, which effectively masks the lines created during head switching with video black.Can it be fixed?Yes, but only under certain circumstances. It must not have been recorded as part of the signal on the tape. The VHS must be played back on a VCR with its switching point set below the normal standard. There are only 3 models known to allow this option through menu settings; all are very large “Professional” series S-VHS decks that are unable to play back tapes recorded in EP or LP modes. These are: JVC BR -S522, -S525, -S822.JVC’s marketing explains the feature like so: “For improved playback and special-effects picture performance, a switching noise masking system is also provided. Especially effective with digitally processed special-effects pictures, this sets the switching point 1.5H lower than normal, completely eliminating on-screen switching noise.” Panasonic also advertises a small family of Professional models with a “switching noise masking” feature, however in this case it is only a simple black border that covers the bottom of the image, as mentioned above.Even with one of these VCRs, 480i capture devices following SMPTE RP 202’s standard for video alignment will display garbage at the very bottom of the image. To obtain a 720x480 image with no switching noise, a device that captures starting from line 22 is required. Alternatively, one that captures 720x486 can be used, allowing offending image rows to simply be cropped off.Playback from a normal VHS VCR into a card that captures from line 23, showing normal switching noise.Playback from a JVC BR-S525U into a card that captures from line 23, showing black at the bottom of the image.Playback from a JVC BR-S525U into a card that captures from line 22, showing no switching noise. (The bending is because this card has no TBC.)",
+        "url": "/avaa/artifacts/head_switching_noise.html"
+      }
+      ,
+    
+      "artifacts-herringbone-html": {
+        "title": "Electrical Ground Loop Interference Herringbone",
+        "category": "videoanalog",
+        "content": "Notice the light movement of diagonal lines across the image.This artifact is exhibited as fine-patterned, light diagonal lines scrolling in the monitor. It is caused by RF interference in cabling, which can include AM radio signals. This RFI is exacerbated by electrical ground loop.Can it be fixed?If ground loop problems are recorded in the video or audio signal, they are only correctable through re-transfer of the content without the electrical anomalies in the system. Usually, this involves powering all devices in the video system using one source of electricity with all outlets serving power with minimal difference in ground potential.",
+        "url": "/avaa/artifacts/herringbone.html"
+      }
+      ,
+    
+      "artifacts-high-video-level-html": {
+        "title": "High Video Level",
+        "category": "videoanalog",
+        "content": "When a video signal is recorded, peak white levels can be usually be adjusted in a camera, a playback VTR or a number of intervening processing amplifiers. In some cases, natural tips of the video level can be overdriven by miscalibration and become clipped at the top of the video signal. Particularly bright scenes might have natural peaks above 100 IRE in raw camera footage, but clipped video signals above that range may mean detail in the video image is being lost during digitization. Video levels that are too high can also introduce noise into the image that is not in the original source.This waveform shows severe clippingCan it be fixed?Yes, this is correctable through retransfer and adjustment of the VTR output using a  processing amplifier to adjust video levels. Ideally the video will have natural peaks between 100 and 110 IRE, depending on the type of source footage (i.e., raw camera footage, off-air recording, or color-corrected broadcast air master).This waveform shows a corrected level",
+        "url": "/avaa/artifacts/high_video_level.html"
+      }
+      ,
+    
+      "artifacts-hum-and-buzz-html": {
+        "title": "Hum and Buzz",
+        "category": "videoanalogdigital",
+        "content": "Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike Analog Noise which has no detectable pitch.1Power lines  In the course of transmitting electricity from one point to another, power lines radiate electromagnetic waves at 60 Hz. Improperly shielded and unbalanced cables, particularly those in close proximity to power lines, can carry this frequency into a signal chain. In much of the world 50 Hz AC power mains are used and this can introduce interference at this frequency.Power supplies  A power supply also radiates a 60 Hz magnetic field, which becomes an induction problem when the supply is located near a transducer, such as a tape head or phono cartridge. The supply uses a filtering process to change a 60 Hz line into direct current for the device its powering. When the supply is faulty, any ripple in this conversion process is heard as a harmonic of 60 Hz (120 Hz, 180 Hz, etc.), so it will be at least an octave higher than hum from power lines.2 For those in Europe, and the rest of the world using 50 Hz power supplies, the harmonics will be heard at 100 Hz, 150 Hz, etc.3Television interference (TVI)  Heard as a buzzing sound, rather than a smooth hum, television interference happens when cables are moved around.Can it be fixed?If the hum or buzz is in your source recording, there is nothing that should be done at the point of digitization. Post production, selective use of equalization, especially notch filters set at the hum harmonics (120 Hz, 180Hz, etc.), is a good way of removing the offending hum from service copies.If the hum or buzz is in your digitization chain, you will have to isolate the source. Make sure your cables are balanced and well-shielded, and that your cable runs are short. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields.4Post production, there are also several tools for removing hum and buzz:  DeNoiseLF  Izotope RX2ExamplesListen to Power Supply Hum on SoundcloudListen to Buzz on SoundcloudReferences1. Glenn D. White, The audio dictionary (1st ed.), (Seattle: University of Washington Press, 1987), 116. ↩ 2. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 189. ↩  3. RANE Pro Audio Reference. ↩4. Glenn D. White, The audio dictionary (1st ed.), (Seattle: University of Washington Press, 1987), 209. ↩",
+        "url": "/avaa/artifacts/hum_and_buzz.html"
+      }
+      ,
+    
+      "artifacts-image-lag-html": {
+        "title": "Image Lag",
+        "category": "videoanalog",
+        "content": "File:Unidentifiedcolorerror.mp4Burn-in is apparent behind the dancers in this short clip. The camera may have been pointed at the empty stage for an extended period of time prior to the arrival of the dancers, resulting in the ‘x-ray’ type artifact seen here. File:Avaa_ghost_test_03.mp4Comet Tails are visible when the camera shifts, and a white aura appears around the head of the singer as he moves. (Walter Steding Concerts 1980s, XFR STN Project; Internet Archive, 2013).Image lag occurs in video recorded or displayed using certain types of pick-up devices and cameras, including the Vidicon picture tube, among others. This type of camera tube captures light radiating from a scene through a lens and projects it onto a photoconductive target, creating a charge-density pattern which is scanned using low-velocity electrons. The resulting image can be amplified and recorded to tape or output to a video monitor. The electrical charge remains present on the target until it is re-scanned or the charge dissipates.The time delay in establishing a new signal current in the camera to follow the rapid changes in the target illumination is called 'image lag' or simply 'lag'. In the photoconductive camera tubes this occurs in two forms: (i) photoconductive lag determined by the properties of the target materials, and (ii) capacitive lag or beam lag attributed to the storage effect of the pixel capacitance and the beam resistance. The image lag causes smear or comet tails following fast-moving objects in the scene, and the prolonged exposure of a bright stationary object results in a slow decaying after image of x-ray type appearance. This long-term but faint after-image is called burn-in or picture sticking.1In instances where comet tails or luma trails are visible, the visual artifact is sometimes referred to as “ghost” or “ghosting.” Ghost also refers to an artifact of video transmission when there is a difference in primary and secondary radio frequency signals.Can it be fixed?Image lag is not a fixable artifact, but rather a result of the inherent limits of vintage picture tube technology.References1. A. M. Drake, “4.5 Vidicon” in Television and Video Engineering (McGraw Hill Education, 2013), 61. ↩",
+        "url": "/avaa/artifacts/image_lag.html"
+      }
+      ,
+    
+      "artifacts-incompatibility-between-television-standards-html": {
+        "title": "Incompatibility Between Television Standards",
+        "category": "videoanalog",
+        "content": "All but one analog television system began as black-and-white systems. Each country, faced with local political, technical, and economic issues, adopted a color television system which was grafted onto an existing monochrome system, using gaps in the video spectrum to allow color transmission information to fit in the existing channels allotted.1Different countries use different technical systems for recording and playing back video signals. A list of TV standard by geographical location can be found here:TV standards by country.Each video standard requires a different playback system (VTR, monitor and any attached video processing equipment). Some manufacturers of video equipment make multi-standard video equipment, where a television standard can be manually or automatically selected. If an attempt is made to play a tape recorded in one standard with equipment meant for playback of another standard, different types of video signal distortion can occur.Attempting to play an NTSC recording in PAL player will result in the tape playing too slowly, and the image will be distorted beyond recognition with the audio pitched too low. If attempting playback of a PAL recording in an NTSC machine, the tape will play too fast and the audio will be pitched too high.2Can it be fixed?If a program is recorded in PAL standard, a PAL standard (or multi-standard) playback machine and monitor are required to display the image properly. The same is required for programs recorded with NTSC or SECAM signals. All equipment in a given signal chain must have an identical standard, so any TBC or other signal processing equipment must match standards with the playback VTR, video monitor and sync or signal generator, if present. Some monitors automatically detect the appropriate standard, so no adjustment is required.References1. Wikipedia, Broadcast television systems. ↩    2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Incompatibility Between Television Standards” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.72, videos 19-24. ↩",
+        "url": "/avaa/artifacts/incompatibility_between_television_standards.html"
+      }
+      ,
+    
+      "artifacts-incorrect-speed-html": {
+        "title": "Incorrect Speed",
+        "category": "videoanalog",
+        "content": "Describes gradual speed changes during media playback, either in the source recording or the transfer machine, or an incorrect playback speed chosen by the transfer engineer. The pitch of the recording will be wrong in both cases (not to be confused with Wow and Flutter).Can it be fixed?Incorrect speed is a fairly easy problem to correct. However, If the incorrect speed is the result of a malfunctioning playback deck or turntable during digitization, have the equipment serviced.If the item was transferred at the wrong speed, re-transfer it at the correct speed. IASA-TC04 recommends transferring at the item’s native speed rather than correcting in the digital domain.1Concerns with Open Reel TapeYou may find that a tae was recorded at a speed that your playback equipment is incapable of playing (1 ⅞ ips or 15/16 ips). Hardware limitations may require that you transfer at the closest higher speed, and adjust it post-production using pitch change features in your audio editing software. Changing the pitch also changes the speed, but changing the speed does not affect the pitch. A full octave pitch change in either direction is the equivalent of doubling or halving the speed of the recording. Open reel machines have different replay equalization curves for each speed however, so one tradeoff in this approach is that the equalization will be incorrect.Concerns with Disc playbackThere are many concerns when evaluating correct playback speed of discs. The first one is the difficulty of identifying the pitch the musicians (if a musical sound recording) were performing at. While this is beyond the scope of this entry it is important to be aware musical pitch was not standardized (mostly) until the mid twentieth century and even to this day many ensembles still perform tuned either higher or lower than A=440 Hz.Playback speed was not standardized until late in the 78 rpm era presenting many challenges. While acoustic era transfers can be freely digitally re-speeded without concern for equalization, electric era recordings if transferred with EQ when re-speeded post transfer will have incorrect turnover and roll off.If an electric era disc is outside the adjustable range of a turntable it could be digitized flat, re-speeded, then run through a DAC to a disc pre-amplifier with appropriate setting and digitally captured. This of course introduces many steps into the signal chain and suggests a more flexible turntable may be be a better solution.It has been observed during the acoustic era that disc recording speed was often unstable with the pitch of the recording changing dramatically from the beginning of the side to end during constant angular speed playback.What do I do if the tape was recorded at two or more different speeds?1) Preview the tape and determine the correct speed at the start of the tape.2) If the speed changes, mark the time that this occurs, but do not stop the transfer.3) After the transfer, go back to the section where the speed changed, and capture only that section at its native speed.Making multiple preservation master files is beneficial because the speed, pitch, and EQ will be native at those speeds. A seamless access copy can be created by joining together these separately captured parts.ExamplesListen to Wrong Speed on SoundcloudListen to the first part of an audio cassette recording, speed is correct on SoundcloudListen to 30 minutes later into the same recording, the speed has changed on SoundcloudReferences1. Kevin Bradley (ed), Guidelines on the production and preservation of digital audio objects, IASA TC-04 (2nd ed., 2009), 57-59. ↩",
+        "url": "/avaa/artifacts/incorrect_speed.html"
+      }
+      ,
+    
+      "artifacts-interstitial-error-html": {
+        "title": "Interstitial Error",
+        "category": "videodigital",
+        "content": "Coined by AudioVisual Preservation Solutions (AVPS), an interstitial error is a system “hiccup” that occurs during digitization as the data stream is being written to disk.1 This error results in lost samples, and it is reflected in the waveform by an abrupt vertical drop. While the audibility of these errors varies, a particularly bad one is heard as a dropout.Can it be fixed?At this time, Wavelab’s Error Detection Analysis tool is the best method of finding these types of errors, although it frequently returns false positives. There is ongoing research by AVPS to develop an alternative detection method.  According to the AVPS paper, these errors can crop up in any type of system  Assuming the problem can be isolated and eliminated, any reformatted items with audible interstitial errors should be re-digitized if possible.ExamplesListen to Interstitial Error on SoundcloudSee also  Chris Lacinak, Digital Audio Interstitial Errors:Raising Awareness and Developing New Methodologies for Detection, AVPreserve White Paper, 06 January 2010.References1. Joshua Ranger, Digital Audio Interstitial Errors, AVPreserve, 2010. ↩",
+        "url": "/avaa/artifacts/interstitial_error.html"
+      }
+      ,
+    
+      "artifacts-jitter-html": {
+        "title": "Jitter",
+        "category": "videoaudio",
+        "content": "Jitter is the loss of a sample or block of samples in a digital audio bitstream. This artifact occurs during the process of capture and may be attributed to a variety of problems such as: sync loss within an integrated system, audio word clock error, audio interface buffer error, or otherwise malfunctioning A-to-D hardware. Digital clock jitter is inherent in all digital devices and can raise distortion levels and cause sonic degradation.1 It can be heard in the digitized file as clicks in audio with a relatively steep rise in amplitude.Can it be fixed?No. If this artifact is identified in preservation master files, the source must be re-digitized. Check your system’s settings, or, in the case of proper settings, contact the OEM of the digitizer or A/D converter, as well as the systems integrator to resolve this issue. In some cases, a full power down and restart of the workstation may fix this problem.Along with topics such as gain structure and phase control, jitter control is at the heart of professional recording.ExamplesListen to Jitter on SoundcloudReferences1. Ken C. Pohlmann, “Measurement and Evaluation of Analog-to-Digital Converters Used in the Long-Term Preservation of Audio Recordings”, Issues in Digital Audio Preservation Planning and Management (Washington, D.C.: Library of Congress and Council on Library and Information Resources, 2006). ↩",
+        "url": "/avaa/artifacts/jitter.html"
+      }
+      ,
+    
+      "artifacts-lengthwise-tape-expansion-or-shrinkage-html": {
+        "title": "Lengthwise Tape Expansion or Shrinkage",
+        "category": "videoanalog",
+        "content": "Comparable to skew error, lengthwise distortion is often very pronounced. “The track angles on a severely stretched tape will be too shallow, on a severely shrunk tape they will be too steep: in both cases they will no longer correspond to the scanning angle of the playback heads… causing the playback heads to lose contact with segments of the helical tracks.”1Unlike skew error, the error is not due to playback equipment. Also, audio on a tape with helical scan will likely be affected. “If FM or PCM audio is recorded on the helical track, even mild tape expansion or shrinkage may render it distorted or totally inaudible.”2“Factors that can cause tape to expand include excessively high temperatures, the specific composition of the tape substrate, and excessive mechanical tension as a result of e.g. excessive tape pack tension, playback on defective equipment, or Sticky Shed Syndrome.”3  Running a tape through a cleaning machine under certain conditions can also stretch tape and introduce skew error. “Factors that can cause tape to shrink includes—again—excessively high temperatures, because the tape substrate is pre-stretched during production and if heated up again, may contract. Excessive climate fluctuations may also cause tape to shrink.”4Can it be fixed?Again, this error is similar to skew error. Some VTRs have skew controls that allow for minor adjustments in tape tension, most notably, several models of U-matic machines and some 1/2” open reel models. If possible, use this together with tracking control to adjust tape tension and head alignment. Otherwise, skew error may be minimized through the use of a good TBC. It may also require an alignment adjustment or back tension adjustment in the player equipment, but be careful: this kind of tinkering should be done by a trained technician and not performed on equipment used for recording.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Lengthwise Tape Expansion or Shrinkage” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.60, videos 9 &amp;&amp; 10. ↩2. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” ↩ 3. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” ↩ 4. Gfeller et al., “Lengthwise Tape Expansion or Shrinkage.” ↩",
+        "url": "/avaa/artifacts/lengthwise_tape_expansion_or_shrinkage.html"
+      }
+      ,
+    
+      "artifacts-long-play-html": {
+        "title": "Long Play",
+        "category": "videoanalog",
+        "content": "Long Play (LP) mode, available for a variety of video formats (see list below), makes it possible to extend the potential recording time of a tape by lowering the tape speed and changing the angle and proximity of the recorded tracks. For proper playback, a recording made in LP mode must be played back in LP mode.If ... played back in Standard Play (SP) mode, the image is still recognisable, but—depending on the format—may be played back between 1.5x and 2x too fast, displaying irregular, horizontal, bands of noise similar to those that appear when fast-forwarding. Audio on the longitudinal track will sound too high-pitched, and will be played back so fast that the speech sounds incomprehensible. If FM or PCM audio is recorded on the helical tracks, it will drop out completely.1LP mode was effectively replaced with EP (“extended play”) or SLP (“super long play”). Often referred to together as “EP/SLP”, this mode involves tape speed 3x slower than standard play speeds.In cases where the tape speed is slowed to economize on media usage, less information is recorded for a given image, resulting in noticeably reduced picture quality. Generally speaking, when tape speed is reduced, any other condition afflicting the tape, such as stiction or stretching, is further exacerbated.Analog video tape formats that support LP mode are:  VCR  Video 2000  Betamax  VHS  S-VHS  Video8  Hi8Can it be fixed?To correct artifacts resulting from incorrect tape speed during playback, use a playback device that supports the appropriate mode: LP, EP, or SLP.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Long Play” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.96, videos 48 &amp; 49. ↩",
+        "url": "/avaa/artifacts/long_play.html"
+      }
+      ,
+    
+      "artifacts-loss-of-color-lock-html": {
+        "title": "Loss of Color Lock",
+        "category": "videoanalog",
+        "content": "Color lock is a process for reconstructing the color signal of primarily PAL-encoded U-matic tapes (Low and High Band) on playback. If the signal frequency is off, “the colour subcarrier will shift phase for the duration of one line, which means that colours will be reproduced incorrectly.”1 The result is quite noticeable:A colour gradient stretches from the left-hand edge to the right-hand edge of the image, with a narrow achromatic area down its vertical center axis. More precisely, all scan lines start at the left-hand edge of the image with a colour shift specific to each hue. Colour saturation drops to zero towards the centre of the image, then rises to reach maximum saturation in the complementary colour hue at the right-hand edge of the image.2Black-and-white recordings and NTSC recordings are not susceptible to loss of color lock. However, if an NTSC recording “is played back on a multi-standard player with a colour lock control set in the wrong position, colour disappears completely and a characteristic diagonal herringbone pattern occurs.”3Can it be fixed?Adjust the color lock control on a PAL playback device until the color is rendered correctly. If these adjustments do not resolve the artifact, try the same adjustments while playing a test tape in the same device. If the test tape’s colors can be rendered correctly, then the tape recording has uncorrectable defects; however, if the issue persists while playing the test tape, then the device needs servicing.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Loss of colour lock” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.56, videos 5 &amp; 6. ↩ 2. Gfeller et al, “Loss of colour lock.” ↩ 3. Gfeller et al, “Loss of colour lock.” ↩",
+        "url": "/avaa/artifacts/loss_of_color_lock.html"
+      }
+      ,
+    
+      "artifacts-low-rf-html": {
+        "title": "Low RF",
+        "category": "videoanalog",
+        "content": "This term describes a low level off-tape signal. This can be due to a poorly made recording on broken or mis-calibrated machine/record heads, or the use of poor quality video tape stock. Dirty playback heads caused by oxide buildup will output low RF, as well. Some preservationists maintain that age alone isn’t a factor in RF deterioration or magnetic media lifespan. Some VTRs have a meter which displays RF levels during playback. Others have warning lamps that activate when a low level is detected.Can it be fixed?If oxide build-up on the tape heads is causing this issue, then yes, cleaning the heads should help. If the source media itself has been exposed to a strong magnetic field (unshielded speakers, motors, high-voltage transformers, etc.) that has caused RF to drop, then there is no remedy for this problem.",
+        "url": "/avaa/artifacts/low_rf.html"
+      }
+      ,
+    
+      "artifacts-luminance-noise-html": {
+        "title": "Luminance Noise",
+        "category": "videoanalog",
+        "content": "Luminance noise manifests itself in a video picture as light white noise. It may be the result of electronic failure, recording in low-light, worn or poorly coated tape stock, transmission of a video signal over cables that are too long, over-enhancement of the video signal, or dirty record or playback heads. Color video or black and white video can both contain luminance noise.Can it be fixed?If the video output has been properly adjusted for playback and there is no cabling or media issues, then the noise is inherent to the source and is not remediable.",
+        "url": "/avaa/artifacts/luminance_noise.html"
+      }
+      ,
+    
+      "artifacts-moire-effect-html": {
+        "title": "Moiré Effect",
+        "category": "videoanalog",
+        "content": "Shown here is a fine crosshatch pattern with plenty of moiré, generated by a test signal generator and output as a composite signal to a Sony PVM-14M4U.Moiré affects composite color video signals only - not RGB, S-Video or color difference signals. Moire may occur during the original tape playback process, or it may be recorded into the video signal.In mathematics, physics, and art, a moiré pattern (/mwɑrˈeɪ/; French: [mwaˈʁe]) is a secondary and visually evident superimposed pattern created, for example, when two identical (usually transparent) patterns on a flat or curved surface (such as closely spaced straight lines drawn radiating from a point or taking the form of a grid) are overlaid while displaced or rotated a small amount from one another.1The term 'moiré' is used as a collective description for detailed, periodic structures that appear as regular patterns or move about in an irregular, agitated way. They may either appear superimposed on the entire picture area, irrespective of the image content, or only superimposed on parts of the image, depending on the content. In the second case, it is possible to distinguish between two different types: (1) finely structured areas of image content are overlaid by shimmering chromatic effects, often easiest to see on delicately patterned clothing; (2) highly saturated colour areas and coloured vertical edges with strongly contrasting hues are overlaid by finely-striped patterns in the luminance.2Moire is caused by the misinterpretation of signal components during demodulation. If the luminance signal is interpreted as chrominance, the effect is called “cross-color”. For its cousin, “cross-luma”, see the dot crawl artifact. When composite encoded video is read and processed from video tape, during demodulation, the luminance carrier is combined with a color subcarrier to create a complete image. The full baseband video spectrum is 5 MHz, and the color subcarrier runs at 3.58 MHz. Due to the shared transmission frequencies over one location (usually one coaxial video cable), data can be misinterpreted during multiplexing, resulting in a “rainbow” effect in image areas with a lot of detail.When other methods of signal transmission are used, such as component or S-Video, these effects are eliminated because the luminance and chrominance components are transmitted separately.Can it be fixed?Always use S-Video or component video signal formats to transfer original content. If it is necessary to use a composite video signal, use equipment that can accurately process the source video with 3-D comb filtering.References1. Wikipedia, Moiré pattern. ↩ 2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Moire effect” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.98, videos 50 and 51. ↩",
+        "url": "/avaa/artifacts/moire_effect.html"
+      }
+      ,
+    
+      "artifacts-mosquito-noise-html": {
+        "title": "Mosquito Noise",
+        "category": "videodigital",
+        "content": "This artifact is most noticeable in MPEG and DV25 compressed video, but can be found in all DCT based codecs, including JPEG still images. Areas of high contrast, such as text on top of solid-colored backgrounds will exhibit mosquito noise (i.e., on screen menus captured in DV25). Outside of noise around high contrast text, it may be most apparent in bright footage with very fine detail and strong horizontal or diagonal object arrangement.Can it be fixed?No, Mosquito Noise cannot be remedied.",
+        "url": "/avaa/artifacts/mosquito_noise.html"
+      }
+      ,
+    
+      "artifacts-muffled-sound-html": {
+        "title": "Muffled Sound",
+        "category": "audioanalog",
+        "content": "Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).A muffled recording during playback is generally symptomatic of high frequency loss because of media failure, an incorrect wind, or a lack of high frequency information in the source recording. Unless the source is poorly recorded or the source recorder was malfunctioning during the original capture, muffled sound artifacts are the result of improper setup and playback. For instance, if azimuth is not adjusted to the source material prior to digitization, high frequencies will be lost and the resulting file will sound dull.Even if the azimuth is correct, a tape that starts shedding oxide on the playback head will result in a similarly dull recording because the oxide buildup creates a greater distance from the tape to the playback head.Tapes that are played with their oxide facing away from the head can be identified immediately because azimuth adjustments will not make a difference, the program will sound incredibly muffled, and the track configuration will sound incorrect (a half track mono tape will have reversed content in the left channel instead of in the expected right channel). There are some German tapes with B-wind, where the oxide faces away from the hub,1 and all cassettes are B-wind, although this is their normal configuration because a cassette playback head points up towards the tape, unlike an open reel decks whose head points down towards the tape. It is rare for a cassette to be incorrectly wound with the oxide facing in, away from the playback head, but it can happen.Can it be fixed?If the original recording is muffled because of poor mic placement, room acoustics, or some other reason, there’s not much that can be done at the digitization stage. In order to be sure that it is not hardware or media related though, you will want to:  Adjust azimuth on the playback deck to match the source material  Treat any failing media prior to digitization by cleaning or baking (if appropriate)  Make sure the oxide side of the tape is facing towards the playback head during playbackWhen doing azimuth adjustment, an audio vectorscope is an indispensable tool. Hess provides a good “how to” guide on his blog:Adjusting azimuth is very similar to manually focusing a camera lens. You rock through the point of best azimuth and see how far out it is on either side and try to manually find the centre between two equally bad side points. You tune for MAXIMUM high end. Don’t worry about making a tape screachy or annoying — all you’re doing is capturing what’s on the tape. There is no point of azimuth adjustment that will make the tape brighter than the original recording. Anything but the proper azimuth will produce a tape that is duller than the original recording. The point of proper azimuth is very narrow. Often, the best performance will be within +/- 5 degrees adjustment of the azimuth setting screw. Make sure you’re listening to the highs as you do this. If the cymbals stop, go back to where the cymbals are. If you don’t have cymbals, listen for whatever high end you have. If you don’t have good speakers, use headphones. Remember to listen to stereo programs in mono.2On a vectorscope, the Lissajous pattern should be nearly vertical for a mono signal. When doing adjustment, observe the scope and watch how the waveform widens and narrows with each turn of the screw/knob, but above all use your ears to listen to changes in the high end.ExamplesListen to Muffled Sound–Azimuth Adjustment on SoundcloudListen to Muffled Sound–Oxide Out on SoundcloudSee also  Richard Hess’ blog post on azimuth  AVPS blog post on azimuthReferences1. Richard Hess, Tape winding, RichardHess.com, 19 March 2006. ↩ 2. Richard Hess, Azimuth Hows and Whys, RichardHess.com, 27 September 2006. ↩",
+        "url": "/avaa/artifacts/muffled_sound.html"
+      }
+      ,
+    
+      "artifacts-noise-reduction-html": {
+        "title": "Noise Reduction",
+        "category": "videoanalog",
+        "content": "Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (top) and played back without Dolby B engaged (bottom)The application of noise reduction (NR) into the recording and playback processes of analog tape is an effort to reduce the noise introduced by the audio devices in the signal chain. NR systems reduce the dynamic range of an audio signal, compressing it during recording, and then expand it during playback, restoring the signal’s original dynamics.1 Effective reduction will mask the undesirable noise without creating any audible “pumping” artifacts, which is the fluctuation of the primary signal.Numerous systems have been introduced over the years based on this compressor-expander design. Matching the correct system on playback with the system used during recording is essential for proper signal reproduction. Dolby - which includes Dolby A and SR (professional), and Dolby B / C / S (consumer) - is the most common, along with dbx type I and type II, and TelCom.2 A more extensive list can be found on Richard Hess’ blog.3 All of these systems have lived their lives as hardware-only efforts.  As of this writing, there are no NR plugins available, which means a tape source encoded with a particular flavor of NR must be decoded during playback with the corresponding system of NR.Can it be fixed?If a tape is identified as having been recorded with some type of NR system (for instance, the ‘NR’ box present on some cassette labels might be checked, or the recording operator may have written dbx or Dolby on the box), do not assume the tape is necessarily encoded with NR. Likewise, if a tape has no mention of a NR system, do not assume that it is not present.How do you tell if a tape has been encoded with a NR system? A discussion on Dolby, including many excerpts documenting the differences between the consumer flavors associated with the cassette format, is included in a white paper titled “Preservation of Audiotape &amp; the Dolby Noise Reduction System: A Introduction for Assisting Identification, Playback, and Transfer.”4 Making judgments aurally when documentation is nonexistent opens up the possibility of transferring an item incorrectly. When in doubt, a safe approach is to transfer an item twice, once flat (no NR engaged), and once decoded.ExamplesEXAMPLES OF DOLBY A, SR, AND OTHER SYSTEMS ARE NEEDEDListen to Dolby B encoded cassette played back with Dolby B engaged on SoundcloudListen to Dolby B encoded cassette played back without Dolby B engaged on Soundcloud - Notice the pronounced high end.Listen to dbx Type II open reel tape played back without dbx engaged on Soundcloud - Notice the pronounced high end.Listen to the same dbx Type II open reel tape played back with dbx engaged on SoundcloudReferences1. Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 76-77. ↩ 2. Kevin Bradley (ed), “Noise Reduction” in Guidelines on the production and preservation of digital audio objects, IASA TC-04 (2nd ed., 2009), 59-60. ↩  3. Noise Reduction, RichardHess.com, 19 March 2006. ↩ 4. Joshua Ranger for AVPreserve, Preservation of Audiotape &amp; the Dolby Noise Reduction System: A Introduction for Assisting Identification, Playback, and Transfer, c.2013. ↩",
+        "url": "/avaa/artifacts/noise_reduction.html"
+      }
+      ,
+    
+      "artifacts-oversaturation-html": {
+        "title": "Oversaturation",
+        "category": "videoanalog",
+        "content": "Oversaturation refers to high chrominance amplitude in a video signal, creating the appearance of very intense color in the image. Depending on severity of oversaturation, color in the image may appear to bleed into areas outside of an object’s apparent boundaries. Most NTSC broadcast standards require that the composite video signal not exceed 120 IRE (flat). SMPTE split field color bars use 75% saturation as the maximum value for calibration, although there are other patterns used for testing which contain 100% saturation values.Can it be fixed?Yes, oversaturation is correctable through retransfer and adjustment of the VTR output using a  processing amplifier to lower the chroma levels.",
+        "url": "/avaa/artifacts/oversaturation.html"
+      }
+      ,
+    
+      "artifacts-pilot-tone-html": {
+        "title": "Pilot Tone",
+        "category": "audiovideofilmanalog",
+        "content": "Pilot tone, a precursor of SMPTE time code, is typically encountered when working with open reel audio used in film or video production. The tone is a 50 or 60 Hz signal sent from a motion picture camera and recorded on one track of the tape. Not to be confused with hum, during production this tone was used for synchronizing tape playback to picture by matching the camera speed.1 Crosstalk is reduced by recording the tone 180 degrees out of phase with respect to the program so that it will cancel out during playback.Numerous sync tone systems have been developed over time. More detail on these can be found in EBU-Tech 3086.  The Pilot Tone system  The Perfectone system  The Neopilot system  The Ranger system  The Telefunken system  The Synchrotone system  The Leevers-Rich system  The BBC system  The Fairchild systemCan it be fixed?Transferring any tape with sync tone requires an appropriate playback head (most likely a head with center-track timecode). See this Richard Hess blog post on synchronization. If the tape is played back on a two-track head, for instance, the tone will not cancel out.ExamplesListen to Pilot Tone on SoundcloudReferences1. G. D. White, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 291. ↩",
+        "url": "/avaa/artifacts/pilot_tone.html"
+      }
+      ,
+    
+      "artifacts-poor-yc-decoding-html": {
+        "title": "Poor Y/C Decoding (S-Video crosstalk)",
+        "category": "videoanalog",
+        "content": "A combination of inferior materials and poor shielding in S-Video cabling can produce the checkerboard pattern seen in these images. It is the result of poor multiplexing of the video components carried in an S-Video output signal.Can it be fixed?Yes, well-shielded, high-quality S-Video cables will eliminate this artifact. This is especially important in a space where there is a lot of RF.",
+        "url": "/avaa/artifacts/poor_yc_decoding.html"
+      }
+      ,
+    
+      "artifacts-print-through-html": {
+        "title": "Print-through",
+        "category": "audioanalog",
+        "content": "Print-through is the magnetic phenomena that occurs when a tape signal is imprinted on to the adjacent layer of tape during storage. During playback it is heard as either pre or post-echo, and it is more noticeable at high recorded signal levels. When tapes are stored “heads out” (oxide in), a faint echo will be heard before the main signal during playback. When tapes are stored “tails out” (oxide out), a post-echo will be heard after the main signal during playback. The post-echo is less obvious than the pre-echo, which is one of the reasons tapes should be stored tails out.Pre-echo is also a problem in disc recordings where the groove might modulate so much as to affect its neighboring instance.Can it be fixed?There are two common fixes for print-through:  Rewind the tape, at least three times, prior to playback.1  If you have a tape machine that can apply low level bias, engaging it can help mitigate print-through, “though it may also have an effect [on] the signal, especially if over-applied, and should only be used as a last resort and then every carefully.”2ExamplesListen to Print-through in SoundcloudSee also  Glenn D. White and Gary J. Louie, The audio dictionary (3rd ed.), (Seattle: University of Washington Press, 2005), 310.  Print-through  at Rane.com’s Pro Audio Reference  Minimising Print-through (PDF) by Michael GerzonReferences1. Kevin Bradley (ed), “Removal of Storage Related Signal Artefacts” in Guidelines on the production and preservation of digital audio objects, IASA TC-04 (2nd ed., 2009). ↩  2. Bradley, “Removal of Storage Related Signal Artefacts.” ↩",
+        "url": "/avaa/artifacts/print-through.html"
+      }
+      ,
+    
+      "artifacts-ringing-html": {
+        "title": "Ringing",
+        "category": "videoanalog",
+        "content": "In a general sense, ringing refers to an undesirable oscillation exhibited in a signal. This video artifact is common to recordings created using less sophisticated, early model cameras and VTR equipment (particularly early U-matic equipment). It can be accentuated by over-enhancement or sharpening of the image using processing hardware or CRT monitor controls. When recorded in the signal on tape, it becomes part of the image.Can it be fixed?No, there is no remedy if the ringing has been recorded into the source signal.If not present in the recording but ringing is detected on playback, then the system needs routing adjustment or the VTR, cabling or TBC may need adjustment or maintenance.See also  Wikipedia entry on ringing in electronics and signals",
+        "url": "/avaa/artifacts/ringing.html"
+      }
+      ,
+    
+      "artifacts-scratches-and-tape-wear-html": {
+        "title": "Scratches and Tape Wear",
+        "category": "videoanalog",
+        "content": "When tape is scratched or worn from use, the magnetic material containing recorded information is easily affected, resulting in partial or complete information loss perceptible on playback. “Single, well-defined scratches should be distinguished from general mechanical wear and tear, which takes the form of many tiny scratches. Tape wear is the result of frequent playback, and is characteristic of exhibition and viewing copies”1 in the case of video, and well-used listening copies of audio.  When tape is damaged by mishandling, scratches may be introduced in any direction or location on the media. “In this case, the resulting noise bands will drift down the screen from top to bottom, or vice versa…. Only if the scratches actually damage the control track or the areas at the start of each helical track where the vertical sync pulse is recorded will a vertically rolling picture occur.”2“If the audio on the longitudinal track [of video] is affected, the volume with fluctuate, but it will be more stable than FM or PCM audio recorded on the helical tracks. The latter will react to even a mild scratch with snapping or crackling noises, or by dropping out completely.”3Scratching may also occur during playback on a poorly maintained device. “Single [horizontal] scratches … nearly always occur while the tape is being drawn through the player or cassette… [in the presence of] dirt, dust or debris along the tape path, or by the tape guides that are worn, maladjusted, or damaged in some other way. Because scratches running lengthwise along the tape always cross the helical video tracks at the same height, the stripes or bands of noise remain stationary on the screen.”4Iraci cautions that “playing a scratched tape can generate debris from the scratched areas that will contaminate the playback equipment and could lead to more scratching.”5Can it be fixed?Loss of magnetic material cannot be physically repaired. The most efficient solution is to replace a scratched or worn tape with a new copy produced from an undamaged, unworn master tape. If a master is not available, the tape may be digitized, and then digital restoration techniques may be employed to alleviate the artifacts.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Scratches and Tape Wear” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.94, videos 46 &amp; 47. ↩  2. Gfeller et al., “Scratches and Tape Wear”, p.94. ↩ 3. Gfeller et al., “Scratches and Tape Wear”, p.94. ↩  4. Gfeller et al., “Scratches and Tape Wear”, p.94. ↩  5. Joe Iraci, Remedies for Deteriorated or Damaged Modern Information Carriers, Canadian Conservation Institute Technical Bulletin 27 (Ottawa: Canadian Conservation Institute, 2005), 14. ↩",
+        "url": "/avaa/artifacts/scratches_and_tape_wear.html"
+      }
+      ,
+    
+      "artifacts-sdi-spike-html": {
+        "title": "SDI Spike",
+        "category": "videodigital",
+        "content": "At first glance, this may be perceived as analog line dropout, but it is actually an interruption of the bitstream in a serial digital video signal.This artifact was initially seen without an audio dropout, but later occurred with a loss of audio multiplexed with the video over a SMPTE-259M SDI line. The cause of the artifact has been traced to interference in the output of an SDI switch receiving several multiplexed SDI signals. This artifact occurs intermittently, with as few as one frame affected per 90 minutes of SDI transmission.The actual cause of the interference is still under review, but the manufacturer of the switch has proposed the following possible causes:      Cable or connector fault in an integrated system        Static electricity interference in the area where the SDI transmission is taking place        Motor starting or stopping in the vicinity (e.g. heating/cooling, elevator, pump)        Solenoid activating or deactivating, such as another tape transport control starting or stopping        Flash photography in the immediate area of the SDI line        Cell phone transmitter or walkie-talkie located near the SDI line  Can it be fixed?Once the SDI line is disrupted during video capture, the artifact is recorded in the resulting file and cannot be removed using a non-destructive method.",
+        "url": "/avaa/artifacts/sdi_spike.html"
+      }
+      ,
+    
+      "artifacts-skew-error-html": {
+        "title": "Skew Error",
+        "category": "videoanalog",
+        "content": "File:Skew.mp4Skew is visible at the top of the screen in this short clip.Tape is susceptible to expansion and shrinkage, see Lengthwise tape expansion or shrinkage. These dimensional changes impact the length and angle of the recorded tracks. On playback, the loss of correspondence between the track position and the playback head results in a skewed picture. “A skew error shows as a hooking in the picture at the top [or bottom] of the TV monitor. If the picture hooks to the left, the video track on the tape is longer than the playback track length of the machine. If the picture hooks to the right, the video track on the tape is shorter than the playback length of the machine.”1 Audio may also be affected.“Even if there is no actual image error, it is possible to see, at the bottom of the uncropped image (i.e. in underscan mode), a slight, jittery line displacement immediately below the head switching point. If the symptom is very pronounced, the skewing will also appear along the top edge of the image, where it becomes visible as a disruptive skew error.”2Can it be fixed?Some VTRs have skew controls that allow for minor adjustments in tape tension, most notably, several models of U-matic machines and some 1/2” open reel models. Otherwise, skew error may be minimized through the use of a good TBC. It may also require an alignment adjustment or back tension adjustment in the player equipment, but be careful: this kind of tinkering should be done by a trained technician and not performed on equipment used for recording.References1. Charles Bensinger, The Video Guide (2nd ed.), (Santa Barbara, California: Video-Info Publications, 1981), 124. ↩  2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Skew Error” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.100, video 52. ↩",
+        "url": "/avaa/artifacts/skew_error.html"
+      }
+      ,
+    
+      "artifacts-smpte-time-code-html": {
+        "title": "SMPTE Time Code",
+        "category": "audiovideofilm",
+        "content": "Like hum, SMPTE time code recorded on magnetic audio tape allows for frame accurate film or video synchronization during the post-production editing process. Being a rectangular wave signal, it is heard as a pulse similar to that of a fax machine or dial-up modem.  It has been described as an “obtrusive noise and often a fairly high level signal.”1Can it be fixed?In the example on this page, the 1/4” open reel tape was transferred with a two-track head to produce a quick access copy. Since the actual program was on the left channel and the pulse was only heard on the right channel, mono derivatives with just the program proved adequate. Even though the actual process of synching audio to moving image may not factor into the preservation transfer, that does not remove the need for proper playback. Capturing everything on the tape accurately requires an appropriate playback head with time code. However, even with the appropriate head, there is still a potential for crosstalk depending on the recording level of the pulse.ExamplesListen to SMPTE Time Code in SoundcloudReferences1. Phil Rees, Synchronisation and SMPTE timecode, 1997, 2001. ↩",
+        "url": "/avaa/artifacts/smpte_time_code.html"
+      }
+      ,
+    
+      "artifacts-soft-binder-syndrome-html": {
+        "title": "Soft Binder Syndrome",
+        "category": "audioanalog",
+        "content": "Soft Binder Syndrome (SBS) is a term suggested by Richard Hess to describe the type of media degradation that has previously been called Sticky Shed Syndrome (SSS) or Loss of Lubricant (LOL). The stick-slip action that causes squealing as the tape moves across the playback head, believed to be caused by a soft binder, is symptomatic of both SSS and LOL.1Sticky Shed SyndromeOpen reel polyester tapes with back-coating manufactured since the 1970s commonly suffer from binder breakdown due to the absorption of moisture (hydrolysis).2 SSS can be tested for prior to playback by slowly unravelling the reel, and seeing whether the tape comes cleanly off the pack or if it sticks. If a tape suffering from SSS is played back, the heads and guides will quickly accumulate deposit, reducing high frequency response and often producing an audible squeal. Playback in this condition will damage the tape.Squealing tapes that do not respond to bakingLoss of lubricant (LOL) may not be entirely accurate when describing non-SSS tapes that squeal, since lubricant is likely not the issue. In broad terms, LOL has been used for tapes that do not respond to incubation. This is confusing as tapes which squeal and do not respond to incubation have been shown to be carrying a normal lubricant load.3Can these be fixed?If the squeal makes its way into a digitized file, there is no solution at this time to correct the frequency modulated of the desired signal. There are methods, however, to prevent the squeal from occurring during playback.Sticky Shed SyndromeRemoving moisture from the tape pack will get the tape to a playable state for digitization, which can be achieved by:  Baking the tape in a scientific oven  Baking the tape in a vacuum oven  Dehydrating the tape in a food dehydratorCooking times and temperatures vary, and can depend on the severity of the hydrolysis. 55 degrees celsius (+/- a few degrees) with an incubation time of 8-10 hours is a good place to start.Tape baking is a process first proposed by Ampex engineers upon learning of SSS. Ampex patented this process, but it has lapsed in the U.S.A. Ironically, the treatment violates the terms of warranty one enjoyed when first purchasing an Ampex tape.  In the decades since proposing this remedy, other methods for fixing a tape have been employed, but baking/dehydrating remains the industry standard method.Squealing tapes that do not respond to bakingUnfortunately there is no straightforward fix for a tape exhibiting loss of lubricant. The fix involves hardening the magnetic coating of the tape, and/or reducing friction between the tape and everything it touches during playback. Current options include, but are not limited to:  Cold playback - lowering the ambient temperature to the tape’s glass transition temperature, i.e. playing the tape back in a fridge  Holding a q-tip (cotton bud) continually moistened with D5 siloxane against the tape during playback  Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback.4These techniques employ slightly different mechanisms:  Cold playback works by playing the coating at a temperature where it is harder.  D5 decreases the friction between the tape and the head.  Wet playback with isopropyl alcohol decreases friction and lowers the temperature, helping to harden the coating.All tape suffers to some degree of stick-slip, but it is usually called “scrape flutter”. When the squealing becomes audible, the scrape flutter has massively increased, but it is the same mechanism.ExamplesListen to a severe example of Sticky Shed Syndrome on SoundcloudListen to comparison of a Sticky Shed Syndrome tape pre and post-baking on SoundcloudListen to a tape that does not respond to baking yet still squeals on SoundcloudReferences1. Richard Hess, “Tape degradation factors and challenges in prediction tape life,” ARSC Journal 39.2 (2008), 270-274. ↩ 2. Kevin Bradley (ed), Guidelines on the production and preservation of digital audio objects, IASA TC-04 (2nd ed., 2009), 57-59, or here on the web edition of the TC-04. ↩3. Richard Hess, “Tape degradation factors and challenges in prediction tape life”, 270-274. ↩4. Marie O’Connell, Wet playing of reel tapes with Loss of Lubricant, RichardHess.com, 09 March 2006. ↩",
+        "url": "/avaa/artifacts/soft_binder_syndrome.html"
+      }
+      ,
+    
+      "artifacts-stiction-html": {
+        "title": "Stiction",
+        "category": "videoanalog",
+        "content": "File:Stiction.mp4The stiction artifact is audible in several places in this clip, starting at 00:04. At about 00:11, look for visible signs of stiction in the fernsThis artifact is visible (and audible) when media suffering from hydrolysis or contamination is restricted from moving through the tape path correctly during playback, indicating that the media needs treatment. This may also indicate that the media is suffering from sticky shed syndrome, and playback should be stopped immediately and the tape removed carefully from the VTR.Can it be fixed?To address stiction, the tape must be cleaned by hand or using a cleaning machine. It may also require treatment for hydrolysis using a proven method, such as baking or dehydrating.",
+        "url": "/avaa/artifacts/stiction.html"
+      }
+      ,
+    
+      "artifacts-sub-sampling-artifact-html": {
+        "title": "Sub-sampling artifact",
+        "category": "videodigital",
+        "content": "In the DV25 codec, for every four luminance samples, each color-difference component is sampled just once (a 4:1:1 chroma subsampling scheme). In a 4:1:1 scheme, the Cb (blue-difference) signal is sampled at the same location as the first luma sample, and then that Cb colour value is repeated three times (while the luma signal is sampled at each of those points). The Cr (red colour-difference) signal is also sampled once and repeated three times.This co-siting creates a Y/C delay that can appear as blockiness or lower resolution in scenes with high saturation, and particularly red saturation.1Can it be fixed?No, sub-sampling artifacts cannot be remedied.See alsoAdam Wilt, The DV, DVCAM &amp; DVCPRO Formats, 2000-2006.References1. Adam Wilt, DV Pix - Sampling Methods, 1998. ↩",
+        "url": "/avaa/artifacts/sub-sampling_artifact.html"
+      }
+      ,
+    
+      "artifacts-subcarrier-phase-error-html": {
+        "title": "Subcarrier Phase Error",
+        "category": "videoanalog",
+        "content": "The image above has an obvious unnatural green hue. After adjustment (below), the flesh tones are more natural.“Chroma Phase is the relationship between two signals - in this case, the relationship between the chrominance signal and the reference burst on the video. The processing within a vectorscope and the display of the processed signals is designed to readily detect and evaluate phase distortion of the chrominance. Chroma that is out of phase affects the hue of the video as it appears in the monitor. If flesh tone is incorrect in a video image, chroma information may be out of phase with burst. If the composite video appears overly green, or alternately, magenta, chroma phase may need to be adjusted.”1Can it be fixed?Yes, this is correctable through retransfer and adjustment of the VTR output using a processing amplifier to make a hue adjustment. If there is inconsistent hue across the video image, the source video signal may have had a poor or damaged subcarrier reference during original recording to tape.References1. Tektronix NTSC Video Measurements: Vectorscope Techniques. ↩",
+        "url": "/avaa/artifacts/subcarrier_phase_error.html"
+      }
+      ,
+    
+      "artifacts-sync-loss-html": {
+        "title": "Sync Loss",
+        "category": "videoanalog",
+        "content": "File:SyncLoss.mp4Sync loss can be recorded into source masters when there is a signal routing failure during production. It is sometimes caused by cabling between switchers or switched equipment missing reference. When two sources aren’t properly referenced to a sync generator, sync loss occurs when switching between those sources. It is visible as a loss of vertical hold in the image during the switching interval. Faulty cables or connections between source and record VTRs can also produce a loss of sync.Can it be fixed?There is no remedy if the sync loss is recorded in the source video. If the sync loss is occurring due to a video playback system failure, then maintenance or re-routing of the video signal is required.",
+        "url": "/avaa/artifacts/sync_loss.html"
+      }
+      ,
+    
+      "artifacts-tape-deformation-html": {
+        "title": "Tape Deformation",
+        "category": "videoaudioanalog",
+        "content": "Like all materials commonly used for recording information, tape is subject to deformation due to poor storage or handling.  If a tape is stored for a period of time when not wound smoothly or evenly, the tape may become physically stressed. The risk of deformation is exacerbated by exposure to excessive temperature or relative humidity levels. “Every time a tape pack is heated or cooled, the tape pack tension will increase or decrease, respectively.”1Common tape pack conditions that may lead to tape deformation include: step pack (or stepped pack); popped strands; flange pack; windowed tape pack; and spoked tape pack.Once deformed, proper tape-to-head contact becomes compromised, leading to a number of possible audio or visual anomalies, or in some situations causing further damage, during playback. Gfeller et al. offer a detailed discussion on the resulting errors, curvature error and edge curl:With curvature error, “the image is played back at normal speed, but one or two horizontal bands of noise are superimposed over the image. The noise bands may drift vertically and the severity of the picture noise may vary. If the manual tracking control is used, the noise bands shift vertically but never completely disappear. Audio on the longitudinal track is not affected. However, if FM or PCM audio is recorded on the helical track, even a slight tape deformation may cause it to become totally inaudible.”2With edge curl, “the picture is noisy along the top or bottom edge. The severity of the picture noise may fluctuate. One of two other symptoms may also occur: either the image appears as a vertically rolling picture, or the audio is distorted. In the latter case, the audio may fluctuate in volume, alternate between sounding muffled and sounding sharp, or become totally inaudible.”3Can it be fixed?Damage to the signal in a deformed tape is often irreparable. However, in those cases where further handling and winding does not pose a risk of further tape damage, there is a remedy which can reverse some of the deformation so that tape-to-head contact is improved in playback.  Iraci writes, “Problems related to a poor-quality tape pack can often be eliminated by rewinding the tape properly. To produce a wound tape pack that is at the correct tension, fully supported by the hub, centred between the flanges, and smooth on the surface, run the tape continuously to the end without starts and stops using the play mode on equipment that is clean and properly aligned. Do not use high-speed rewind or fast forward modes because these produce uneven tensions in the reel of wound tape.”4Once wound properly, return the tape to storage for an extended period of time. Iraci suggests a duration of “several months at room temperature or several days to weeks at higher temperatures (less than 50 degrees C).”4If the tape deformation is too severe and handling is too risky, consult a media preservation professional.References1. John W. C. Van Bogart, Magnetic Tape Storage and Handling: A Guide for Libraries and Archives ( Washington, DC: National Media Laboratory and Council on Library and Information Resources, 1995), 16. ↩   2. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Tape Deformation” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.58, videos 7 and 8. ↩   3. Gfeller, Jarczyk, and Phillips, “Tape Deformation”, p.58, videos 7 and 8. ↩4. Joe Iraci, Remedies for Deteriorated or Damaged Modern Information Carriers, Canadian Conservation Institute Technical Bulletin 27 (Ottawa: Canadian Conservation Institute, 2005), 18. ↩ 5. Joe Iraci, Remedies for Deteriorated or Damaged Modern Information Carriers, 13. ↩",
+        "url": "/avaa/artifacts/tape_deformation.html"
+      }
+      ,
+    
+      "artifacts-tbc-processing-artifact-html": {
+        "title": "TBC Processing Artifact",
+        "category": "videoanalog",
+        "content": "File:TBCProcessingError.mp4An artifact which is generated by maladjustment or circuitry failure in an integrated or stand-alone time base corrector (TBC) can be categorized as a processing artifact. Depending on the type of TBC used, these have a diverse set of manifestations and can include over-enhancement and aggressive noise reduction. If a video signal output to a time base corrector is suddenly lost due to low RF from severe media damage, a head clog or some other incident, the TBC may output noise while the processor attempts to re-lock to the incoming video signal.In the example below, a TBC was introducing errors through overcorrection. The image on the left is the correct image processed through a properly functioning TBC, while the image on the right shows overcorrection for what would otherwise be minimal skewing at the top, and a line error now appearing along the bottom. During playback, this tape showed a vertically shaky display that wasn’t occurring before the signal was sent through the TBC.Can it be fixed?This artifact may be correctable by readjustment or calibration of the TBC. If the TBC cannot process video output due to poor playback signal from the VTR, the media must be treated to improve playback or a different and more effective TBC must be used.",
+        "url": "/avaa/artifacts/tbc_processing_artifact.html"
+      }
+      ,
+    
+      "artifacts-time-base-error-html": {
+        "title": "Time Base Error",
+        "category": "videoanalog",
+        "content": "Three conditions caused by time base error - flagwaving, skew error, and tearing. Source: Global Village flyer, ca. 1980.Video signals rely on a complex, synchronized timing of information across all broadcast, playback and recording environments. Tiny changes in this timing can therefore affect the stability in a video signal, causing what are known as ‘time base errors.’ These errors take on the form of “flagging” or flagwaving at the top of the screen, “skewing” error at the bottom of the screen, or an interspersed, horizontal “tearing” of the image throughout the picture area.Several causes of time base error include sudden changes in tape tension, uneven capstan rotation, and/or variations in speed throughout the tape path. The degradation of tape itself can also contribute to time base error. Tape that has been stretched or otherwise compromised can suffer from longitudinal error (often seen in environments where tape cleaning machines are used) and transverse error, or inconsistencies in a tape’s width.Can it be fixed?A Time Base Corrector (TBC) will help counteract time base error by storing lines of video and retrieving them again at a rate matching a signal’s “correct” horizontal sync. Time base error can also be corrected during playback by adjusting a video deck’s tape tension using the skew control. Poorly maintained video decks that suffer from such things as variations in tape speed, head speed and uneven capstan rotation can contribute to time base error.See alsoJohannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Lengthwise Tape Expansion or Shrinkage” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), p.60, videos 9 and 10.",
+        "url": "/avaa/artifacts/time_base_error.html"
+      }
+      ,
+    
+      "artifacts-tracking-error-html": {
+        "title": "Tracking Error",
+        "category": "videoanalog",
+        "content": "File:Tracking_2_NYU.mp4Tracking error is visible as a distortion produced during playback caused by the inability of video heads to correctly follow the video tracks recorded on a tape. The tracking control adjustment corrects for this error. It delays the control track signal during playback so its position approximates the position of the control track head that was used on the recording machine.Can it be fixed?Yes, a tracking error can be corrected by careful tracking adjustment.Severe tracking issues with a particular piece of media may require a custom tape path alignment.Quality Control ToolsLarge tracking errors in a video file will be clearly evident as significant spikes in the Temporal Outliers (TOUT) graph. Example below.",
+        "url": "/avaa/artifacts/tracking_error.html"
+      }
+      ,
+    
+      "artifacts-undersaturation-html": {
+        "title": "Undersaturation",
+        "category": "videoanalog",
+        "content": "The image below has been corrected for undersaturation in the original (seen above)The video signal is undersaturated when chrominance amplitude is restricted to values under reference standard level (i.e., 75% SMPTE color bars), causing colors to appear washed out and unnaturally pale. Undersaturation can be difficult to identify because video is sometimes intentionally given a desaturated “look” during post-production treatment or finishing. However, raw camera footage should always be appropriately saturated and calibrated to reference color bars, if available, unless otherwise stated in production notes.NOTE: If the video was previously transferred from film, color fade from the original film may be present. A fading of the cyan and yellow dyes resulting in an oversaturation of magenta is the most common manifestation of this problem.Can it be fixed?Yes, this is correctable through retransfer and adjustment of the VTR output using a  processing amplifier to adjust the chroma levels for flesh tone using a vectorscope.",
+        "url": "/avaa/artifacts/undersaturation.html"
+      }
+      ,
+    
+      "artifacts-vacuum-guide-adjustment-error-html": {
+        "title": "Vacuum Guide Adjustment Error",
+        "category": "videoanalog",
+        "content": "This image (recorded in 1966) displays a vacuum guide error. The heads have been moved back from the tape, lessening the geometry. Ampex VTRs with AMTEC processing could remove guide error electronically, but effectiveness was limited (the error in the example above would be too severe for AMTEC processing to correct it).During playback of 2” Quadruplex tape, a pneumatic guide is used to adjust the head-to-tape spacing. If the guide is positioned further away from the heads than it was during recording, a distorted image will result from the difference in head geometry. Normally, TBC electronics in the playback machine will attempt to correct this problem, so the demodulated output from the machine is useful for adjustment during setup of the machine.Can it be fixed?A manual adjustment to the vacuum guide can be made to help approximate the position needed for proper playback . However, a digital TBC will be able to remove this error entirely. The analog AMTEC processor was also used to lessen this error, but it did not have as much correction range. Late model Quadruplex machines had an automatic guide servo that removed the error, as well.ResourcesWhoniversity page on 2” Quad Tape",
+        "url": "/avaa/artifacts/vacuum_guide_adjustment_error.html"
+      }
+      ,
+    
+      "artifacts-venetian-blind-effect-html": {
+        "title": "Venetian-blind Effect",
+        "category": "videoanalog",
+        "content": "PAL-encoded color recordings rely on circuitry in display devices and TBCs to decode and balance color information in the signal in accordance with the PAL standard. “The venetian-blind effect is produced when this colour balancing process is no longer operating correctly due to maladjusted demodulation circuitry”.1 The result: during playback, “pairs of lines [in the image] look like stripes that either remain stationary or drift slowly up or down the screen. The higher the colour saturation, the more visible the effect, depending on the particular TV or video signal, or the monitor settings.”2Can it be fixed?Playing a test tape will help to determine if the artifact has been recorded in the tape due to a faulty production system or if the display device is maladjusted. If the test tape does show the venetian-blind effect, the monitor requires repair. If not, then the error is recorded into the tape and cannot be fixed.References1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Venetian-Blind Effect (PAL)” in Compendium of Image Errors in Analogue Video (edited by Swiss Institute for Art Research, Zürich: Scheidegger &amp; Spiess, 2012), 84. ↩ 2. Gfeller, Jarczyk, and Phillips, “Venetian-Blind Effect (PAL)”, 84. ↩",
+        "url": "/avaa/artifacts/venetian-blind_effect.html"
+      }
+      ,
+    
+      "artifacts-video-dropout-html": {
+        "title": "Video Dropout",
+        "category": "videoanalog",
+        "content": "A video dropout is displayed as white and/or black lines of missing information in the picture.DefinitionDropout is a brief loss of RF caused by a media defect such as a scratch on the media surface, a small bit of loose oxide or other environmental contaminant caught in the video heads, or any other incident that produces a loss of signal. A video dropout is displayed as white and/or black lines of missing information in the picture, although dropout might also be noticed when compensation occurs in VTR line delay circuitry. Tapes with severe wear, tapes suffering from environmental damage or other physical maladies can be expected to show moderate to severe levels of line dropout.Example of “stepping though” tape content to reveal recorded-in Video DropoutCan it be fixed?If media is scratched so that oxide is missing, the material cannot be replaced so the dropout is permanent.Dropout may also be recorded into the original content. This can be confirmed by “stepping through” the tape in a slow playback mode. The below sequence shows an example of recorded-in dropout. Environmental dirt or loose oxide can be removed by machine or hand-cleaning. If cleaning, it makes sense to rehouse and/or clean the cassette shell at the same time.Identification of Dropout through QCToolsAnalysis of Video Dropout using QCTools’ TOUT graph3M’s Debris Perspective on 1” Tape, early 1970s",
+        "url": "/avaa/artifacts/video_dropout.html"
+      }
+      ,
+    
+      "artifacts-video-head-clog-html": {
+        "title": "Video Head Clog",
+        "category": "videoanalog",
+        "content": "http://avaa.bavc.org/artifactatlas/index.php/File:HeadClog.mp4http://avaa.bavc.org/artifactatlas/index.php/File:HEADCLOG2_2.mp4When loose oxide builds up in the tape path, it can travel with the tape to the drum assembly and prevent the video head from making contact with the tape. The result is a heavily obscured image or a complete loss of image. A video head clog requires thorough cleaning of the video heads if the clog obstructs RF completely during playback. In most cases, a severe head clog cannot be removed by playing a cleaning tape through the VTR. The head and drum assembly must be manually cleaned using a cleaning solution.Can it be fixed?Yes: stop playback and clean the video heads on the the player using an appropriate solvent and cotton swab. While you are at it, clean the tape path to prevent possible recontamination.",
+        "url": "/avaa/artifacts/video_head_clog.html"
+      }
+      ,
+    
+      "artifacts-video-jitter-html": {
+        "title": "Video Jitter",
+        "category": "videoanalog",
+        "content": "Small and rapid variations in a waveform due to mechanical disturbances, changes in the characteristics of components, supply voltages, imperfect synchronizing signals, circuits, etc.Can it be fixed?ReferencesBAVC Preservation Glossary",
+        "url": "/avaa/artifacts/video_jitter.html"
+      }
+      ,
+    
+      "artifacts-video-overwrite-html": {
+        "title": "Video Overwrite",
+        "category": "videoanalogdigital",
+        "content": "Overwrite refers to the interruption of one program recording with another, or the partial erasure of an old program when a new program is recorded. In instances of the former, it is unlike an edit in that it is not performed for creative effect, it is generally disruptive to the program in progress, and it is usually but not exclusively accidental. Overwrite can happen when tape stock is intentionally or unintentionally reused. Depending on how the overwrite is performed, it can be obvious or hidden. Overwriting footage using insert editing functions on professional VTRs or non-linear editors in a studio environment can produce an invisible overwrite, whereas an overwrite that is simply crash-recorded without any kind of preparation may produce a temporary loss of sync in the image, and/or other distortions. Cassettes have record safety tabs that help reduce accidental overwrite in production environments. In preservation facilities, the “record inhibit” function, if available, should always be engaged on playback decks to avoid accidents.Can it be fixed?No, once a video or audio program is overwritten, it is effectively erased and cannot be restored.",
+        "url": "/avaa/artifacts/video_overwrite.html"
+      }
+      ,
+    
+      "artifacts-visible-frame-line-html": {
+        "title": "Visible Frame Line",
+        "category": "filmanalog",
+        "content": "This error occurs during the transfer process and is frequently a result of shrinkage and/or sprocket damage.  The result is that the line between one frame and another is visible at the top or bottom of the screen, or, in extreme cases, the film appears to roll between frames.Can it be fixed?Minor visibility of the frame line can be adjusted using the crop feature of a video editing program.  If the original film is especially shrunken or otherwise damaged, it can be re-transferred using a sprocket-less film scanner.",
+        "url": "/avaa/artifacts/visible_frame_line.html"
+      }
+      ,
+    
+      "artifacts-white-balance-error-html": {
+        "title": "White Balance Error",
+        "category": "videoanalogdigital",
+        "content": "The image above has a noticeable blue cast due to an incorrect white balance setting at the time of recording. The cast has been removed in the image below.Color balance refers to the mix of primary color intensities carried in a given video signal. Video cameras are usually equipped with circuitry that allows a videographer to set a baseline value for processing “true white” in the video image. Using a white card, the camera operator tells the recording device what white in the image should look like. This allows for consistent color balance between different ambient lighting conditions, where color temperature can affect the entire image.When camera white balance is not adjusted prior to recording, it can create a color cast. This is quite easy to see in footage shot under gas-discharge lamps such as fluorescent tube lighting, where a blue tint may result.Can it be fixed?Color primaries can be adjusted using tools, such as video processing amplifiers and NLEs or more sophisticated digital video workstations. A vectorscope can be helpful in looking at white balance, as well adjusted raw and untreated video footage should show chrominance emanating from the center axis, not off-axis. In some video processing amplifiers, simple controls for adding red and blue allow for adjustment of incorrect white balance.",
+        "url": "/avaa/artifacts/white_balance_error.html"
+      }
+      ,
+    
+      "artifacts-wow-and-flutter-html": {
+        "title": "Wow and Flutter",
+        "category": "audioanalog",
+        "content": "Wow and flutter describes speed irregularities that are heard as garbled or warbled sound. They can be caused by defective devices deviating from their rotational speed (turntables and analog tape recorders), or failing media. Wow manifests itself by slow pitch variation resulting from small speed variations; flutter refers to rapid speed variations.Can it be fixed?  If the wow and flutter can be traced to the source recording, it can be corrected to a degree using pitch adjustment tools in an editing program  For more precise correction, there is a professional tool called Capstan that can remove wow and flutter from musical recordings automatically  If the wow and flutter is the result of a malfunctioning playback deck during digitization, have the deck serviced  Jamie Howarth developed the Plangent Process to remove wow and flutter.ExamplesListen to Wow on SoundcloudListen to Flutter on Soundcloud",
+        "url": "/avaa/artifacts/wow_and_flutter.html"
+      }
+      ,
+    
+      "artifacts-yc-delay-error-html": {
+        "title": "Y/C Delay Error",
+        "category": "videoanalog",
+        "content": "In the enlarged detail boxes above, you can see a white edge along the reporter’s yellow jeans, as well as a green hue around the orange drop shadow in the lettering on the sign behind them. This is caused by misaligned Y and C components in the video signal. The error is corrected in the image below.When video suffers from Y/C delay error, there will be a mismatch in the timing among the luminance and/or color channels, with resulting visible misalignment in how colors appear in the monitor. A misalignment of Y/C shows a blurry edge around areas with high contrast color difference, and will be most apparent around sharp edges of objects in the video image.Can it be fixed?Yes, some VTR integrated or stand-alone time base correctors have Y/C adjustment capability.",
+        "url": "/avaa/artifacts/yc_delay_error.html"
+      }
+      
+    
+  };
+</script>
+<script src="/avaa/js/lunr.min.js"></script>
+<script src="/avaa/js/search.js"></script>
+  </div>
+</div>
+
+
+    </div>
+    <script src="/avaa/scripts/responsive.js" type="text/javascript"></script>
+  </body>
+</html>

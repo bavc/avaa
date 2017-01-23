@@ -5,6 +5,8 @@ categories: audio analog
 tags: [Analog, Audio, Noise, Magnetic Tape, Cassette]
 ---
 
+## Description
+
 Noise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called [Analog Distortion]({{ site.baseurl }}/artifacts/analog_distortion.html). Noise is defined as a wideband addition to a signal by any electronic or mechanical component.<sup><a href="#fn1" id="ref1">1</a></sup> There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”
 
 The most common type of noise is “broadband noise,” which is a continuous distribution of energy spread over frequency. It sounds like hissing and has no detectable pitch.<sup><a href="#fn2" id="ref2">2</a></sup> [Hum]({{ site.baseurl }}/artifacts/hum_and_buzz.html) and [Electromagnetic Interference]({{ site.baseurl }}/artifacts/electromagnetic_interference.html) are other types of noise that do have a detectable pitch.<sup><a href="#fn3" id="ref3">3</a></sup>
@@ -18,9 +20,11 @@ During digitization, nothing should be done to correct or reduce noise, if that 
 3. [IzotopeRX 2](http://www.izotope.com/products/audio/rx/download.asp)
 4. [Waves Restoration Suite](http://www.waves.com/Content.aspx?id=197)
 
-## Examples
+## Example(s)
 
 [Listen to crackle in a cassette transfer originating in the source on Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-noise-cassette-crackle)
+
+## See also
 
 ## References
 

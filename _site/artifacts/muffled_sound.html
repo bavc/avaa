@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Muffled Sound</title>
+      <meta name="viewport" content="width=device-width">
+      <link rel="stylesheet" href="/avaa/css/syntax.css">
+      <link rel="stylesheet" href="/avaa/css/main.css">
+      <link rel="stylesheet" href="/avaa/css/responsive.css">
+      <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+
+
+
+
+
+
+
+
+  </head>
+  <body>
+    <div class="site">
+      <div class="sidebar" id="sidebar">
+        <div class="header">
+          <h1 class="title"><a href="/avaa/index.html"><img id="logo" src="/avaa/images/logo.png"></a></h1>
+          <span class="tagline"></span>
+        </div>
+        <div class="posts">
+          <div class="search">
+            <form action="/avaa/search.html" method="get">
+              <input type="text" id="search_box" name="query">
+              <input type="submit" value="search">
+            </form>
+          </div>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <li><a href="/avaa/index.html">AVAA Home</a></li>
+            <li><a href="/avaa/about.html">About AVAA</a></li>
+            <li><a href="/avaa/tags.html">Browse Artifacts</a></li>
+            <li><a href="/avaa/contributors_guide.html">Contributor's Guide</a></li>
+            <li><a href="/avaa/preservation_glossary.html">AV Preservation Glossary</a>
+            <li><a href="/avaa/news_resources.html">News/Resources</a></li>
+            <li><a href="/avaa/faq.html">FAQ</a></li>
+            <li><a href="/avaa/copyrights.html">Copyrights</a></li>
+          </ul>
+        </div>
+        <div class="posts">
+          <ul class="posts-list">
+            <h4>Browse by category</h4>
+              
+          </ul>
+        </div>
+        <div class="footer">
+          <span id="footer-links">
+            <a href="https://www.bavc.org/preserve-media" class="footer-link">BAVC</a> <span class="separator">&bull;</span>
+            <a href="https://github.com/bavc" class="footer-link">GitHub</a>
+          </span>
+        </div>
+      </div>
+        <div class="content" id="home">
+  <div id="sidebar-button">
+    <img alt="sidebar button" src="/avaa/images/sidebar-button.png">
+  </div>
+  <div id="post-info">
+    <div id="info-container">
+      <h1 id="title">Muffled Sound</h1>
+      
+      <div id="also">
+      <strong>Also known as:</strong>
+      <ul>
+         <li>Azimuth Error</li> 
+      </ul>
+      </div>
+      
+
+  
+    <button><a href="/avaa/tags.html#audio">Audio</a></button>
+  
+    <button><a href="/avaa/tags.html#analog">Analog</a></button>
+  
+    <button><a href="/avaa/tags.html#azimuth">Azimuth</a></button>
+  
+    <button><a href="/avaa/tags.html#error">Error</a></button>
+  
+    <button><a href="/avaa/tags.html#frequency-loss">Frequency Loss</a></button>
+  
+    <button><a href="/avaa/tags.html#playback-adjustment">Playback Adjustment</a></button>
+  
+    <button><a href="/avaa/tags.html#media-failure">Media Failure</a></button>
+  
+    <button><a href="/avaa/tags.html#media-damage">Media Damage</a></button>
+  
+    <button><a href="/avaa/tags.html#oxide-out">Oxide Out</a></button>
+  
+
+    </div>
+  </div>
+<br/>
+  <div class="post">
+    <p><img src="/avaa/images/Shedding_Oxide-Cassette_Head.jpg" />
+<img src="/avaa/images/Fc922zv0190_04_a-oxide_out-waveform.png‎" />
+<sub>Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).</sub></p>
+
+<p>A muffled recording during playback is generally symptomatic of high frequency loss because of media failure, an incorrect wind, or a lack of high frequency information in the source recording. Unless the source is poorly recorded or the source recorder was malfunctioning during the original capture, muffled sound artifacts are the result of improper setup and playback. For instance, if azimuth is not adjusted to the source material prior to digitization, high frequencies will be lost and the resulting file will sound dull.</p>
+
+<p>Even if the azimuth is correct, a tape that starts shedding oxide on the playback head will result in a similarly dull recording because the oxide buildup creates a greater distance from the tape to the playback head.</p>
+
+<p>Tapes that are played with their oxide facing away from the head can be identified immediately because azimuth adjustments will not make a difference, the program will sound incredibly muffled, and the track configuration will sound incorrect (a half track mono tape will have reversed content in the left channel instead of in the expected right channel). There are some German tapes with B-wind, where the oxide faces away from the hub,<sup><a href="#fn1" id="ref1">1</a></sup> and all cassettes are B-wind, although this is their normal configuration because a cassette playback head points up towards the tape, unlike an open reel decks whose head points down towards the tape. It is rare for a cassette to be incorrectly wound with the oxide facing in, away from the playback head, but it can happen.</p>
+
+<h2 id="can-it-be-fixed">Can it be fixed?</h2>
+
+<p>If the original recording is muffled because of poor mic placement, room acoustics, or some other reason, there’s not much that can be done at the digitization stage. In order to be sure that it is not hardware or media related though, you will want to:</p>
+
+<ul>
+  <li>Adjust azimuth on the playback deck to match the source material</li>
+  <li>Treat any failing media prior to digitization by cleaning or baking (if appropriate)</li>
+  <li>Make sure the oxide side of the tape is facing towards the playback head during playback</li>
+</ul>
+
+<p>When doing azimuth adjustment, an audio vectorscope is an indispensable tool. Hess provides a good “how to” guide on his blog:</p>
+
+<blockquote>Adjusting azimuth is very similar to manually focusing a camera lens. You rock through the point of best azimuth and see how far out it is on either side and try to manually find the centre between two equally bad side points. You tune for MAXIMUM high end. Don’t worry about making a tape screachy or annoying — all you’re doing is capturing what’s on the tape. There is no point of azimuth adjustment that will make the tape brighter than the original recording. Anything but the proper azimuth will produce a tape that is duller than the original recording. The point of proper azimuth is very narrow. Often, the best performance will be within +/- 5 degrees adjustment of the azimuth setting screw. Make sure you’re listening to the highs as you do this. If the cymbals stop, go back to where the cymbals are. If you don’t have cymbals, listen for whatever high end you have. If you don’t have good speakers, use headphones. Remember to listen to stereo programs in mono.<sup><a href="#fn2" id="ref2">2</a></sup></blockquote>
+
+<p>On a vectorscope, the Lissajous pattern should be nearly vertical for a mono signal. When doing adjustment, observe the scope and watch how the waveform widens and narrows with each turn of the screw/knob, but above all use your ears to listen to changes in the high end.</p>
+
+<h2 id="examples">Examples</h2>
+
+<p><a href="https://soundcloud.com/av_artifact_atlas/muffled-sound-azimuth">Listen to Muffled Sound–Azimuth Adjustment on Soundcloud</a></p>
+
+<p><a href="https://soundcloud.com/av_artifact_atlas/muffled-sound-oxide-out">Listen to Muffled Sound–Oxide Out on Soundcloud</a></p>
+
+<h2 id="see-also">See also</h2>
+
+<ul>
+  <li><a href="http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys">Richard Hess’ blog post on azimuth</a></li>
+  <li><a href="http://www.avpreserve.com/uncategorized/azimuth-adjustment-for-magnetic-audio-recordings/">AVPS blog post on azimuth</a></li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<p><sup id="fn1">1. Richard Hess, <a href="http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/tape-winding">Tape winding</a>, RichardHess.com, 19 March 2006. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup> <br />
+<sup id="fn2">2. Richard Hess, <a href="http://richardhess.com/notes/2006/09/27/azimuth-hows-and-whys">Azimuth Hows and Whys</a>, RichardHess.com, 27 September 2006. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup></p>
+
+  </div>
+  <div class="colophon">
+    <p>
+      <span id="social">Edit this page <a href="http://prose.io/#bavc/avaa/edit/master/_artifacts/muffled_sound.md">in Prose</a>! || Edit this page <a href="https://github.com/bavc/avaa/blob/master/_artifacts/muffled_sound.md">in Github</a>! || File an <a href="https://github.com/bavc/avaa/issues">Issue on Github</a>!</span>
+    </p>
+  </div>
+</div>
+
+
+    </div>
+    <script src="/avaa/scripts/responsive.js" type="text/javascript"></script>
+  </body>
+</html>
