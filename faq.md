@@ -23,7 +23,7 @@ Read all about AVAA and copyright [here]({{ site.baseurl }}/copyrights.html).
 
 There are many resources on the web for learning git and GitHub. [Hello World](https://guides.github.com/activities/hello-world/) is a well-known guide for the beginner. 
 
-If you'd like to learn how to update AVAA from the command line on your local machine, we recommend this [user-friendly manual](http://rogerdudler.github.io/git-guide/)from Roger Dudler. 
+If you'd like to learn how to update AVAA from the command line on your local machine, we recommend this [user-friendly manual](http://rogerdudler.github.io/git-guide/) from Roger Dudler. 
 
 GitHub has a great [Markdown language cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that can get you started with the syntax used in Markdown (.md) files. "Markdown is a text-to-HTML conversion tool for web writers." [Gruber 2004](http://daringfireball.net/projects/markdown/). 
 
