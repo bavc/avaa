@@ -7,7 +7,6 @@ title: Contributors Guide
 
 ## Ways to update a page:
 
-
 ### Using Github
 
 - Click on link at the bottom of an artifact page
@@ -27,12 +26,14 @@ Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the begi
 
 ### Adding Video
 
-In AVAA, videos are embedded. We recommend first uploading video examples that are less than 1 minute in length to the [Internet Archive](https://archive.org/). Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
+Videos are embedded. If you have a video of a great artifact, we recommend first uploading it to the [Internet Archive](https://archive.org/). The shorter the video the better (consider a GIF instead). 
 
-Below is an example of syntax for embedding and describing that can be used in both Prose and Github. 
+Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
 
-####<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub> 
+The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description. 
+
+<small>```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```</small>
 
 ### Using Github Issues
 
