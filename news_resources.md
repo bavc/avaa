@@ -1,6 +1,6 @@
 ---
 layout: page
-title: News & Resources
+title: News and Resources
 ---
 
 #AVAA in the News <!-- organized by last date first --> 
