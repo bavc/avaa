@@ -36,8 +36,8 @@ callback([
   } ,
 
   {
-    "text": "Bad Splice",
-    "href": "/avaa/artifacts/bad_splice.html"
+    "text": "Bad Audio Splice",
+    "href": "/avaa/artifacts/bad_audio_splice.html"
   } ,
 
   {

@@ -5,7 +5,6 @@ categories: audio analog
 tags: [Analog, Audio, Disc Playback, Cleaning]
 ---
 
-
 Clicks and pops commonly manifest on disc-based media as a result of damage to the disc or contaminants contacting the stylus during playback. However, they can also show up in magnetic tape recordings that encountered static electricity buildup during tape duplication. They can originate from the source media (analog clicks) or be introduced by the digitization hardware chain (digital clicks). For digital clicks and pops, please see our page on [Interstitial Error]({{ site.baseurl }}/artifacts/interstitial_error.html).
 
 ## Can it be fixed?
@@ -18,9 +17,11 @@ There are numerous software and hardware tools that can help clean up clicks and
 
 ## Examples
 
-[Listen to clicks, pops, and surface noise in an LP transfer on Soundcloud](https://soundcloud.com/av_artifact_atlas/clicks-pops-and-surface-noise)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96918102&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to clicks, pops, and surface noise in an LP transfer on Soundcloud</sub>
 
-[Listen to static-related clicks in a cassette transfer on Soundcloud](https://soundcloud.com/av_artifact_atlas/clicks-and-pops-magnetic-tape) - they are particularly noticeable when the content stops.
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/98571570&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to static-related clicks in a cassette transfer on Soundcloud - they are particularly noticeable when the content stops.</sub>
 
 ## References
 
