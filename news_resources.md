@@ -25,4 +25,4 @@ AV Artifact Atlas Coordinator, Kristin MacDonough, presented AVAA at the Society
 
 [Conservation Online (CoOl) | Video Preservation](http://cool.conservation-us.org/bytopic/video/)
 
-A comprehensive list of links to vide0 preservation and digitization resources, much of it compiled by Hannah Frost, one of AVAA's initiators. 
+A comprehensive list of links to video preservation and digitization resources, much of it compiled by Hannah Frost, one of AVAA's initiators. 
