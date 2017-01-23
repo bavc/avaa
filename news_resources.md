@@ -16,7 +16,7 @@ January 24th, 2014 - Interview by Kate Murray with Hannah Frost, Digital Library
 #### [The AV Artifact Atlas: Two Years In | Media Preservation blog at Indiana University Bloomington](http://mediapreservation.wordpress.com/2013/09/25/av-artifact-atlas/) 
 
 September 25th, 2013 - Blog post by Geoff Willard, Stanford Media Preservation Lab, Media Production Coordinator and also one of the original creators of the AVAA, discusses the background and development of the project.
-
+<br>
 # AVAA Resources <!-- organized alphabetically --> 
 <br>
 #### [AV Artifact Atlas: Cultivating a Living Glossary for Audiovisual Errors | Kristin MacDonough](http://files.archivists.org/pubs/proceedings/ResearchForum/2014/slides/MacDonough-ResearchForumSlides2014.pptx)
