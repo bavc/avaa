@@ -38,7 +38,7 @@ AVAA's initiators.
 
 Agencies Audio-Visual Working Group and Still Image Working Group. These documents have been drafted or are recommended by either the Still Image or Audio Visual Working Group, and range from guidelines recommending specific metrics to those describing more general processes or methodologies.
 
-#### [Time-Based Media Art at the Smithsonian | Resources] (http://www.si.edu/tbma/resources) 
+#### [Time-Based Media Art at the Smithsonian | Resources](http://www.si.edu/tbma/resources) 
 
 Focuses on conserving time-based media artworks and categorizes resources such as Digital Preservation Strategies, Film Video and Audio Components, Description Cataloging and Terminologies, as well as Storage, and Intellectual Property Rights, among others.
 
