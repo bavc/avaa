@@ -41,8 +41,6 @@ Attempts to remove distortion noise may adversely affect the harmonics of a soun
 
 [Listen to distortion in source on Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-distortion-distortion)
 
-## See also 
-
 ## References
 
 <sup id="fn1">1. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 114-115. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>

@@ -24,8 +24,6 @@ During digitization, nothing should be done to correct or reduce noise, if that 
 
 [Listen to crackle in a cassette transfer originating in the source on Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-noise-cassette-crackle)
 
-## See also
-
 ## References
 
 <sup id="fn1">1. Glenn D. White and Gary J. Louie, _The audio dictionary_ (3rd ed.), (Seattle: University of Washington Press, 2005), 156. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  

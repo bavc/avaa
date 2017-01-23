@@ -28,8 +28,5 @@ If ground loop problems are recorded in the video or audio signal, they are only
 
 <sub>Watch for the horizontal band rolling up caused by the ground loop.</sub>
 
-## See also
-
-## References
 
 

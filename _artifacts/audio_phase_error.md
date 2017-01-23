@@ -5,10 +5,6 @@ categories: audio analog
 tags: [Analog, Audio, Phase, Mono, Stereo]
 ---
 
-<img src="{{ site.baseurl }}/images/Audio_phase_error.png">
-
-<sub>This is an image of a phasescope with a correlation meter along the bottom. A horizontal waveform is an indication that there is a phase problem.</sub>
-
 ## Description 
 
 Problems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.
@@ -26,7 +22,7 @@ A phasescope is a graphic representation of an audio signal, which is included i
 
 As shown in the image to the right, a correlation meter is present at the bottom of most phasescopes. On a correlation meter, an out-of-phase signal will oscillate between -1 and 0. An in phase signal, on the other hand, will be between 0 and +1, where 0 means perfectly stereo and +1 means perfectly mono.
 
-### Can it be fixed?
+## Can it be fixed?
 
 It depends on how and when the problem was created. Conceptually, you could nudge one of the signals over until they match, but as this can be very tedious, near impossible to get right, and may not restore the recording to its proper sound quality (as in the case of digital processing of an analog-tape-to-digital transfer done with an incorrect azimuth setting).
 
@@ -36,11 +32,14 @@ At least two companies offer plug-ins to correct phase-related issues as post-pr
 
 ##  Example(s)
 
-[Listen to a stereo file that's out of phase on Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/105266360&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to a stereo file that's out of phase on Soundcloud</sub>
 
-[Listen to the same stereo file summed to mono on Soundcloud](https://soundcloud.com/av_artifact_atlas/phase-error-stereo-file-summed) - note the drop in level.
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/105265611&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to the same stereo file summed to mono on Soundcloud</sub>
 
-## See aslo
+<img src="{{ site.baseurl }}/images/Audio_phase_error.png">
+<sub>This is an image of a phasescope with a correlation meter along the bottom. A horizontal waveform is an indication that there is a phase problem.</sub>
 
 ## References
 
