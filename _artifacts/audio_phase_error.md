@@ -5,8 +5,6 @@ categories: audio analog
 tags: [Analog, Audio, Phase, Mono, Stereo]
 ---
 
-## Description 
-
 Problems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.
 
 Phase error as a term used to describe when certain frequencies are partially or wholly cancelled out of a recording. Phase is an issue when more than one channel is used to record a single source. Often these errors do not become evident until the recording is switched to mono. All of these things make phase error hard to identify.
