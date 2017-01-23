@@ -22,3 +22,7 @@ September 25th, 2013 - Blog post by Geoff Willard, Stanford Media Preservation L
 [AV Artifact Atlas: Cultivating a Living Glossary for Audiovisual Errors | Kristin MacDonough](http://files.archivists.org/pubs/proceedings/ResearchForum/2014/slides/MacDonough-ResearchForumSlides2014.pptx)
 
 AV Artifact Atlas Coordinator, Kristin MacDonough, presented AVAA at the Society of American Archivists conference in 2014. Her [report](http://files.archivists.org/pubs/proceedings/ResearchForum/2014/reports/MacDonough-ResearchForumReport2014.pdf) and [presentation slides](http://files.archivists.org/pubs/proceedings/ResearchForum/2014/slides/MacDonough-ResearchForumSlides2014.pptx) are both available on SAA's website. 
+
+[Conservation Online (CoOl) | Video Preservation](http://cool.conservation-us.org/bytopic/video/)
+
+A comprehensive list of links to vide0 preservation and digitization resources, much of it compiled by Hannah Frost, one of AVAA's initiators. 
