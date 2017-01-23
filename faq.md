@@ -25,5 +25,5 @@ There are many resources on the web for learning git and GitHub. [Hello World](h
 
 If you'd like to learn how to update AVAA from the command line on your local machine, we recommend this [user-friendly manual](http://rogerdudler.github.io/git-guide/) from Roger Dudler. 
 
-GitHub has a great [Markdown language cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that can get you started with the syntax used in Markdown (.md) files. "Markdown is a text-to-HTML conversion tool for web writers." [Gruber 2004](http://daringfireball.net/projects/markdown/). 
+GitHub has a great [cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that can get you started with the language used in Markdown (.md) files. "Markdown is a text-to-HTML conversion tool for web writers." [Gruber 2004](http://daringfireball.net/projects/markdown/). 
 
