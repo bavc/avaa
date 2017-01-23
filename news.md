@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FAQ
+title: News
 ---
 
 '''More presentations coming soon! Check here for updates and news about the AVAA!'''
