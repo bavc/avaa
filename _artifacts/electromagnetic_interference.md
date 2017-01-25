@@ -6,7 +6,6 @@ categories: audio analog
 tags: [Analog, Audio, Interference, Electrical, Cable]
 ---
 
-
 EMI is any type of interference caused by errant and unwanted electromagnetic waves that are received and amplified by an audio system. They can be picked up and recorded into an audio signal and heard upon playback of the contaminated recording. Commonly cited sources of EMI include power lines, engine ignition systems, light dimmers, as well as cell phones. Cell phone specific EMI is commonly termed “GSM Buzz”. GSM (Global System for Mobile) is emitted from cell phones with a pulse rate of 217 Hz, well within audible range.<sup><a href="#fn1" id="ref1">1</a></sup> "GSM Buzz" however is primarily associated with 1G and 2G cellular phone systems. With the advent of 3G and 4G cellular phone systems this problem is significantly reduced or eliminated as the method of communication between the phone and tower is different.<sup><a href="#fn2" id="ref2">2</a></sup>
 
 Radio frequency interference (RFI) is a type of high frequency electromagnetic interference introduced by an intentional or unintentional source, such as a wireless phone, AM/FM/TV broadcast transmitters, radar systems, a microwave oven, fluorescent lights, and any number of other high frequency RF devices. An improperly shielded audio cable can act as an antenna and pick up unwanted frequencies. While the frequency spectrum of RFI interference is above the range of human hearing, "most audio circuits are nonlinear at these high frequencies, and this causes the interfering signals to be rectified, or detected."<sup><a href="#fn3" id="ref3">3</a></sup> What is heard then is not the ultrasonic frequencies, but the problems they produce. The examples on this page reflect some of the symptoms of RFI, ranging from the demodulation of a radio signal to more subtle types of distortion.
@@ -17,11 +16,14 @@ When EMI is recorded in the source material, it can not be fixed. However, be su
 
 ## Examples
 
-[Listen to RF noise, heard as a crackling sound, discovered in a Betacam SP tape on Soundcloud](https://soundcloud.com/av_artifact_atlas/electromagnetic-interference-2)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96919549&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to RF noise, heard as a crackling sound, discovered in a Betacam SP tape on Soundcloud</sub>
 
-[Listen to radio interference discovered in a Betacam SP tape on Soundcloud](https://soundcloud.com/av_artifact_atlas/electromagnetic-interference-1)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96919240&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to radio interference discovered in a Betacam SP tape on Soundcloud</sub>
 
-[Listen to an example of GSM buzz, likely emitted from a cellular device and recorded into an audio track on an 8mm video tape on Soundcloud](https://soundcloud.com/av_artifact_atlas/electromagnetic-interference)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96918841&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to an example of GSM buzz, likely emitted from a cellular device and recorded into an audio track on an 8mm video tape on Soundcloud</sub>
 
 ## References
 

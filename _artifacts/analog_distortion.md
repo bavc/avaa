@@ -35,7 +35,7 @@ When the distortion is in the source recording, there is not much that can be do
 
 Attempts to remove distortion noise may adversely affect the harmonics of a sound and thus change the quality of the voice or sound that was captured. Removing distortion is a balance between taking out undesirable frequencies while keeping component frequencies that make up the harmonic of a sound unaffected. It is careful to keep this in mind while cleaning up the recording for production masters or access copies.
 
-## Examples
+## Example(s)
 
 [Listen to distortion in source on Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-distortion-distortion)
 

@@ -18,7 +18,7 @@ During digitization, nothing should be done to correct or reduce noise, if that 
 3. [IzotopeRX 2](http://www.izotope.com/products/audio/rx/download.asp)
 4. [Waves Restoration Suite](http://www.waves.com/Content.aspx?id=197)
 
-## Examples
+## Example(s)
 
 [Listen to crackle in a cassette transfer originating in the source on Soundcloud](https://soundcloud.com/av_artifact_atlas/analog-noise-cassette-crackle)
 

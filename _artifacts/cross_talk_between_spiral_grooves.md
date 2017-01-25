@@ -17,7 +17,8 @@ The most audible grooved disc pre-echo (a section of silence before a band begin
 
 ## Examples
 
-[Listen to Grooved Disc Pre-echo on Soundcloud](https://soundcloud.com/av_artifact_atlas/groove-disc-pre-echo)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117803435&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Listen to Grooved Disc Pre-echo on Soundcloud</sub>
 
 ## References
 
