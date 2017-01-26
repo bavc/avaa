@@ -15,8 +15,6 @@ title: Contributors Guide
 - Preview results
 - File out the "Commit Changes" box at the bottom of the page and choose "create a new branch and start a pull request"
 
-Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website. This is also true for Prose.io.
-
 ### Using Prose.io
 
 - Click on link at the bottom of an artifact page
@@ -24,13 +22,20 @@ Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the begi
 - Edit page and preview results
 - Click the Save button (last button on right navigational bar) and submit your change request
 
+### Tips on writing in Markdown
+
+* Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
+* If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.  
+
+For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
+
 ### Adding Video
 
-Videos are embedded. If you have a video of a great artifact, we recommend first uploading it to the [Internet Archive](https://archive.org/). The shorter the video the better (consider a GIF instead). 
+Videos are embedded. If you have a video of a great artifact, we recommend first uploading it to the [Internet Archive](https://archive.org/). The shorter the video the better (consider a GIF instead).
 
-Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels. 
+Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels.
 
-The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description. 
+The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description.
 
 <small>```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```</small>
