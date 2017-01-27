@@ -5,7 +5,7 @@ title: FAQ
 
 ## Who produces the AV Artifact Atlas?
 
-We do! AVAA is a community resource. It was started by the [Stanford Media Preservation Lab](https://lib.stanford.edu/stanford-media-preservation-lab/) and [New York University](http://dlib.nyu.edu/dlts/), using examples of artifacts gathered in their digitization work. The [Bay Area Video Coalition](http://www.bavc.org) led a project in 2013-2014 to enhance the Atlas. BAVC also hosts the site and provides back-end support with the services of [Hellar Studios, LLC](http://hellarstudios.com).
+We do! AVAA is a community resource. It was started by the [Stanford Media Preservation Lab](https://lib.stanford.edu/stanford-media-preservation-lab/) and [New York University](http://dlib.nyu.edu/dlts/), using examples of artifacts gathered in their digitization work. The [Bay Area Video Coalition](http://www.bavc.org) led a project in 2013-2014 to enhance the Atlas. [Ashley Blewer](http://ashleyblewer.com/) managed the site's migration from its original Wikimedia platform to GitHub. 
 
 ## How can I edit or contribute content?
 
@@ -25,5 +25,5 @@ There are many resources on the web for learning git and GitHub. [Hello World](h
 
 If you'd like to learn how to update AVAA from the command line on your local machine, we recommend this [user-friendly manual](http://rogerdudler.github.io/git-guide/) from Roger Dudler. 
 
-GitHub has a great [cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that can get you started with the language used in Markdown (.md) files. "Markdown is a text-to-HTML conversion tool for web writers." [Gruber 2004](http://daringfireball.net/projects/markdown/). 
+GitHub has a great [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that can get you started with the language used in Markdown (.md) files. "Markdown is a text-to-HTML conversion tool for web writers." [Gruber 2004](http://daringfireball.net/projects/markdown/). 
 
