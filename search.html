@@ -16,7 +16,9 @@ layout: page
     {% for post in site.artifacts %}
       "{{ post.url | slugify }}": {
         "title": "{{ post.title }}",
-        "category": "{{ post.categories }}",
+        "namevar": {{ post.namevar | jsonify }},
+        "categories": {{ post.categories | jsonify }},
+        "tags": {{ post.tags | jsonify }},
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ site.baseurl }}{{ post.url }}"
       }
