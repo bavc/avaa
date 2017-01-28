@@ -31,9 +31,8 @@
     }
   }
 
-  var searchTerm = getQueryVariable('query');
+  var searchTerm = window.location.pathname.split('/')[window.location.pathname.split('/').length-1].replace('_',' ');
   if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // and namevar a boost of 10 to indicate matches on this field are more important.
