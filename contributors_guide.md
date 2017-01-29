@@ -55,7 +55,7 @@ For more advice, see this [Github Guide to Mastering Markdown](https://guides.gi
 
 ## Add Images
 
-Images are linked. As the future-proofing types, we recommend images are first uploaded into the  of the repository. (Note that you will not see the images in GitHub, only on the website.)
+Images are linked. As the future-proofing types, we recommend images are first uploaded into the images directory of the repository. (Note that you will not see the images in GitHub, only on the website.)
 
 - Upload image to <a href="https://github.com/bavc/avaa/tree/master/images">images directory</a>
 - Insert image under the "Example(s)" header in the style below, replacing the file name with the one you just uploaded.
@@ -76,7 +76,7 @@ Note that from Internet Archive and Soundcloud these files can be easily downloa
 
 ### Add Video
 
-- Send your video to the issues tracker. Administrators will upload the file to Internet Archive and send you a link.
+- Link to your video to the issues tracker. Administrators will upload the file to Internet Archive and send you a link.
 - Copy the embed code from Internet Archive.
 - Paste into the artifact's page under the "Example(s)" header.
 - Change the default width and height of the video in the embed code to <small>```width="560" height="315"```</small>
@@ -89,7 +89,7 @@ The sample syntax below embeds video in both Prose and GitHub. Replace only the 
 
 ### Add Sound
 
-- Send your video to the issues tracker. Administrators will upload the file to Soundcloud and send you a link.
+- Link to your audio to the issues tracker. Administrators will upload the file to Soundcloud and send you a link.
 - Copy the embed code from Soundcloud
 - Paste into the artifact's page under the "Example(s)" header.
 - Add a description. The <small>```sub```</small> tag in the example below creates a comment under the image where you can describe the source.
