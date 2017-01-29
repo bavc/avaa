@@ -2,12 +2,22 @@
 layout: page
 title: Contributors Guide
 ---
+Thank you for checking out the Contributors Guide. AVAA could not be sustained without a dedicated community of loveable av nerds like you. 
 
-# This will have to be updated!
+This guide is designed as a simple step-by-step. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our FAQ page. 
 
-## Ways to update a page:
+As with all of AVAA, this page is a work-in-progress. If you spot any outdated information - or typos and grammarly things - feel free to update the guide yourself. Or, send an <a href="https://github.com/bavc/avaa/issues">issue</a> (more details on issues below). 
 
-### Using Github
+## How to update an artifact page through the AVAA website
+
+First, let it be known that the AVAA homepage can be accessed in one of two ways: 
+
+- <a href="https://avaa.bavc.org">avaa.bavc.org</a>
+- <a href="https://bavc.github.io/avaa/">bavc.github.io/avaa/</a>
+
+Most pages will have links at the bottom that say "Edit in GitHub" or "Edit in Prose." 
+
+### Edit in Github
 
 - Click on link at the bottom of an artifact page
 - Log in (if not already logged in)
@@ -15,7 +25,9 @@ title: Contributors Guide
 - Preview results
 - File out the "Commit Changes" box at the bottom of the page and choose "create a new branch and start a pull request"
 
-### Using Prose.io
+(Note: you can also just go straight to the <a href="https://github.com/bavc/avaa/tree/master/_artifacts">artifacts directory</a>.)
+
+### Edit in Prose
 
 - Click on link at the bottom of an artifact page
 - Log into Prose using Github credentials (if not already logged in)
@@ -29,18 +41,50 @@ title: Contributors Guide
 
 For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
 
-### Adding Video
+## Add Images
 
-Videos are embedded. If you have a video of a great artifact, we recommend first uploading it to the [Internet Archive](https://archive.org/). The shorter the video the better (consider a GIF instead).
+Images are linked. As the future-proofing types, we recommend images are first uploaded into the  of the repository. (Note that you will not see the images in GitHub, only on the website.) 
 
-Videos should be placed under the "Examples" section of the artifact page and include a brief description of the original format and source. Sizes should conform to a width of 560 pixels and a height of 315 pixels.
+- Upload image to <a href="https://github.com/bavc/avaa/tree/master/images">images directory</a>loa
+- Insert image under the "Example(s)" header in the style below, replacing the file name with the one you just uploaded. 
+- Add a description. The <small>```sub```</small> tag in the example below creates a comment under the image where you can describe the source. 
+
+<small>```<img src="{{ site.baseurl }}/images/TBCerror_compare_02.jpg">
+<sub>TBC Error</sub>```</small>
+
+## Add Media
+
+### Submit a Media Upload Request
+
+The large sizes of sound and video files means that these examples should be embedded from other sharing platforms. In the interest of keeping these items together, we ask that contributors send the video and audio they'd like to add to the <a href="https://github.com/bavc/avaa/issues">issues tracker</a>. An administrator at <a href="www.bavc.org/preserve-media">Bay Area Video Coalition</a> will then add the media to the organization's <a href="https://archive.org/search.php?query=%23AVAA">Internet Archive</a> or Soundcloud account. 
+
+Once uploaded, the admin will send you back the link and you can continue with the steps below. Note that from Internet Archive and Soundcloud these files can be easily downloaded.
+
+If you would prefer to embed on your own from a more secure sharing platform, that is fine too. 
+
+#### Add Video
+
+- Send your video to the issues tracker. Administrators will upload the file to Internet Archive and send you a link. 
+- Copy the embed code from Internet Archive. 
+- Paste into the artifact's page under the "Example(s)" header. 
+- Change the default width and height of the video in the embed code to <small>```width="560" height="315"```</small>
+- Add a description. The <small>```sub```</small> tag in the example below creates a comment under the image where you can describe the source. 
 
 The sample syntax below embeds video in both Prose and GitHub. Replace only the URLs and the description.
 
 <small>```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```</small>
 
-### Using Github Issues
+### Add Sound 
+
+- Send your video to the issues tracker. Administrators will upload the file to Soundcloud and send you a link. 
+- Copy the embed code from Soundcloud
+- Paste into the artifact's page under the "Example(s)" header. 
+- Add a description. The <small>```sub```</small> tag in the example below creates a comment under the image where you can describe the source. 
+
+The sample syntax below embeds audio in both Prose and GitHub.
+
+## Send Github Issues
 
 - Click on link at the bottom of an artifact page
 - Click on "New Issue" in the top right
