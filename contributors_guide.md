@@ -2,11 +2,23 @@
 layout: page
 title: Contributors Guide
 ---
-Thank you for checking out the Contributors Guide. AVAA could not be sustained without a dedicated community of loveable av nerds like you. 
+Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you. 
 
 This guide is designed as a simple step-by-step. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our FAQ page. 
 
-As with all of AVAA, this page is a work-in-progress. If you spot any outdated information - or typos and grammarly things - feel free to update the guide yourself. Or, send an <a href="https://github.com/bavc/avaa/issues">issue</a> (more details on issues below). 
+## Send Github Issues
+
+See a typo? An error? A complete and total fabrication? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>! 
+
+Have an idea for a new artifact (or how to expand on an existing one), but just don't have the know-how to edit in GitHub? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>!
+
+Have an artifact that you can't identify and would like the opinion of the community? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>! 
+
+- Click on link at the bottom of an artifact page
+- Click on "New Issue" in the top right
+- Fill out the form with the kind of change you would like to see made
+- For artifact identification help, begin your subject line with "Artifact" as in "Artifact: Weird lines and stuff" 
+- For ideas you have on functionalities that could make AVAA better, begin your subject line with "Wishlist" 
 
 ## How to update an artifact page through the AVAA website
 
@@ -84,8 +96,4 @@ The sample syntax below embeds video in both Prose and GitHub. Replace only the 
 
 The sample syntax below embeds audio in both Prose and GitHub.
 
-## Send Github Issues
 
-- Click on link at the bottom of an artifact page
-- Click on "New Issue" in the top right
-- Fill out the form with the kind of change you would like to see made
