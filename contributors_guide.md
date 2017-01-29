@@ -4,7 +4,7 @@ title: Contributors Guide
 ---
 Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you. 
 
-This guide is designed as a simple step-by-step. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our FAQ page. 
+This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page. 
 
 ## Send Github Issues
 
@@ -22,7 +22,7 @@ Have an artifact that you can't identify and would like the opinion of the commu
 
 ## How to update an artifact page through the AVAA website
 
-First, let it be known that the AVAA homepage can be accessed in one of two ways: 
+The AVAA homepage can be accessed in one of two ways: 
 
 - <a href="https://avaa.bavc.org">avaa.bavc.org</a>
 - <a href="https://bavc.github.io/avaa/">bavc.github.io/avaa/</a>
@@ -70,11 +70,11 @@ Images are linked. As the future-proofing types, we recommend images are first u
 
 The large sizes of sound and video files means that these examples should be embedded from other sharing platforms. In the interest of keeping these items together, we ask that contributors send the video and audio they'd like to add to the <a href="https://github.com/bavc/avaa/issues">issues tracker</a>. An administrator at <a href="www.bavc.org/preserve-media">Bay Area Video Coalition</a> will then add the media to the organization's <a href="https://archive.org/search.php?query=%23AVAA">Internet Archive</a> or Soundcloud account. 
 
-Once uploaded, the admin will send you back the link and you can continue with the steps below. Note that from Internet Archive and Soundcloud these files can be easily downloaded.
+Once uploaded, the admin will send you a link and you can continue with the steps below. 
 
-If you would prefer to embed on your own from a more secure sharing platform, that is fine too. 
+Note that from Internet Archive and Soundcloud these files can be easily downloaded by anyone. If you would prefer to embed on your own from a more secure sharing platform, that is fine too. 
 
-#### Add Video
+### Add Video
 
 - Send your video to the issues tracker. Administrators will upload the file to Internet Archive and send you a link. 
 - Copy the embed code from Internet Archive. 
@@ -95,5 +95,8 @@ The sample syntax below embeds video in both Prose and GitHub. Replace only the 
 - Add a description. The <small>```sub```</small> tag in the example below creates a comment under the image where you can describe the source. 
 
 The sample syntax below embeds audio in both Prose and GitHub.
+
+<small>```<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96915790&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<sub>Dropout heard in 1/4" open reel audio</sub>```</small>
 
 
