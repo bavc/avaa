@@ -6,6 +6,13 @@ Thank you for checking out the Contributors Guide! AVAA could not be sustained w
 
 This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page. 
 
+The AVAA homepage can be accessed in one of two ways: 
+
+- <a href="https://avaa.bavc.org">avaa.bavc.org</a>
+- <a href="https://bavc.github.io/avaa/">bavc.github.io/avaa/</a>
+
+Most pages will have links at the bottom that say "Edit in GitHub" or "Edit in Prose." 
+
 ## Send Github Issues
 
 See a typo? An error? A complete and total fabrication? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>! 
@@ -20,14 +27,7 @@ Have an artifact that you can't identify and would like the opinion of the commu
 - For artifact identification help, begin your subject line with "Artifact" as in "Artifact: Weird lines and stuff" 
 - For ideas you have on functionalities that could make AVAA better, begin your subject line with "Wishlist" 
 
-## How to update an artifact page through the AVAA website
-
-The AVAA homepage can be accessed in one of two ways: 
-
-- <a href="https://avaa.bavc.org">avaa.bavc.org</a>
-- <a href="https://bavc.github.io/avaa/">bavc.github.io/avaa/</a>
-
-Most pages will have links at the bottom that say "Edit in GitHub" or "Edit in Prose." 
+## How to update an artifact page through the AVAA website 
 
 ### Edit in Github
 
