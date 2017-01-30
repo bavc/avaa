@@ -1,4 +1,8 @@
-# avaa
+# [AVAA](https://bavc.github.io/avaa/)
+
+## Contributing
+
+Please see our [contributor's guide](https://bavc.github.io/avaa/contributors_guide.html) for how to add to this resource.
 
 ## How to run this locally:
 
