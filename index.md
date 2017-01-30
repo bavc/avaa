@@ -4,9 +4,9 @@ title: Home
 ---
 <table>
   <tr> 
-  <th><img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg"></th>
-  <th><img src="{{ site.baseurl }}/images/home_Interstitial_Error"></th>
-  <th><img src="{{ site.baseurl }}/images/home_FullHeadClog_Flat.jpg"></th>
+  <th><img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg" width="50%" height="50%"></th>
+  <th><img src="{{ site.baseurl }}/images/home_Interstitial_Error.jpg" width="50%" height="50%"></th>
+  <th><img src="{{ site.baseurl }}/images/home_FullHeadClog_Flat.jpg" width="50%" height="50%"></th>
   </tr>
  </table> 
 
