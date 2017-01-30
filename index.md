@@ -4,7 +4,7 @@ title: Home
 ---
 <table>
   <tr> 
-  <th><img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="300" width="250"></th>
+  <th><img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"></th>
   </tr>
  </table> 
 
