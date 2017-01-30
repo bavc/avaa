@@ -39,5 +39,3 @@ Project goals included:
 * Developing a Resource Library that includes information about analog video, digitization, and preservation.
 
 AVAA is a community effort. Please contribute! Have you seen artifacts in your collection content? The AVAA seeks images and clips to illustrate analog and digital signal errors encountered during playback or transfer.
-
-To participate, please contact us at avaa@bavc.org.
