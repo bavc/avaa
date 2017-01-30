@@ -11,6 +11,6 @@ The AV Artifact Atlas is an open, community-based resource intended for educatio
 
 Please feel free to make use of the information contained in this resource in the same spirit!
 
-The very brief clips of audio and video available from this cite were drawn from larger works that may contain copyrighted material. We claim fair use, foremost because the purpose of presenting the clips is purely educational.
+The very brief clips of audio and video available on this site were drawn from larger works that may contain copyrighted material. We claim fair use, foremost because the purpose of presenting the clips is purely educational.
 
-If you have a copyright complaint, [please let us know](mailto:avaa-contact@lists.stanford.edu).
+If you have a copyright complaint, [please let us know](mailto:avaa@bavc.org).
