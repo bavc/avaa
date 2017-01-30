@@ -2,11 +2,6 @@
 layout: page
 title: Home
 ---
-<table>
-  <tr> 
-  <th><img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"></th>
-  </tr>
- </table> 
 
 Welcome to AV Artifact Atlas, a resource for identifying errors and anomalies in analog and digital video. AVAA is built for and by a community of professionals in the field of audiovisual archiving but useful for anyone working with video. Check out our [About](https://bavc.github.io/avaa/about.html) page for more information about the project and the [Contributor's Guide](https://bavc.github.io/avaa/contributors_guide.html) for steps on how you can participate. 
 
