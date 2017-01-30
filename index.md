@@ -4,9 +4,9 @@ title: Home
 ---
 <table>
   <tr> 
-  <th>first image</th>
-  <th>second image</th>
-  <th>third image </th>
+  <th><img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg"></th>
+  <th><img src="{{ site.baseurl }}/images/home_Interstitial_Error"></th>
+  <th><img src="{{ site.baseurl }}/images/home_FullHeadClog_Flat.jpg"></th>
   </tr>
  </table> 
 
