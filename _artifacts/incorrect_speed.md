@@ -38,7 +38,7 @@ It has been observed during the acoustic era that disc recording speed was often
 
 Making multiple preservation master files is beneficial because the speed, pitch, and EQ will be native at those speeds. A seamless access copy can be created by joining together these separately captured parts.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96922579&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a tape played back at an incorrect speed on SoundCloud</sub>
 
