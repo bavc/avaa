@@ -15,7 +15,7 @@ This is fundamentally a carrier artifact and should be handled accordingly when 
 
 The most audible grooved disc pre-echo (a section of silence before a band begins) can be corrected in post production. Often the pre-echo is markedly more on the shared groove wall with the cut creating the pre-echo. The opposite wall could be copied over or silence added from another portion of the disc. Care should be taken that if it is a stereo recording the stereo image's character is not compromised by copying the other channel (normally left channel).
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/117803435&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <sub>Listen to Grooved Disc Pre-echo on Soundcloud</sub>
