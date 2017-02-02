@@ -15,7 +15,7 @@ Plastic leader tape may accumulate an electrostatic charge which can discharge d
 
 There are numerous software and hardware tools that can help clean up clicks and pops. Most audio editing software, including Audacity and WaveLab, have click and pop detection capabilities. [Cedar](http://www.cedaraudio.com/), [Waves](http://www.waves.com/), and [iZotope](http://www.izotope.com/) also offer tools to help clean up clicks and pops.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96918102&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <sub>Listen to clicks, pops, and surface noise in an LP transfer on Soundcloud</sub>
