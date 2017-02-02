@@ -17,7 +17,7 @@ A Time Base Corrector (TBC) will help counteract time base error by storing line
 
 <img src="{{ site.baseurl }}/images/FlagwavingSkewErrorTearing.png">
 
-Three conditions caused by time base error - flagwaving, skew error, and tearing. Source: Global Village flyer, ca. 1980.
+<sub>Three conditions caused by time base error - flagwaving, skew error, and tearing. Source: Global Village flyer, ca. 1980.</sub>
 
 ## See also
 
