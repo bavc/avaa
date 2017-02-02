@@ -14,7 +14,7 @@ Radio frequency interference (RFI) is a type of high frequency electromagnetic i
 
 When EMI is recorded in the source material, it can not be fixed. However, be sure that the interference is in the original, and not in your system. Proper shielding and grounding should eliminate any interference to the signal that might be picked up by your system. Shielding refers to the protection of the magnetic currents  between devices or within cables  from stray magnetic fields or electrostatic fields.<sup><a href="#fn4" id="ref4">4</a></sup> Make sure all of the plugs are plugged tightly into sockets or inputs. Keep playback and recording equipment away from any devices that might introduce EMI and make sure that your cell phone is turned off during transfers.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96919549&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <sub>Listen to RF noise, heard as a crackling sound, discovered in a Betacam SP tape on Soundcloud</sub>
