@@ -40,11 +40,11 @@ Making multiple preservation master files is beneficial because the speed, pitch
 
 ## Examples
 
-[Listen to Wrong Speed on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96922579&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a tape played back at an incorrect speed on SoundCloud</sub>
 
-[Listen to the first part of an audio cassette recording, speed is correct on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette-part)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96922861&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to the first part of an audio cassette recording on SoundCloud where the speed is correct</sub>
 
-[Listen to 30 minutes later into the same recording, the speed has changed on Soundcloud](https://soundcloud.com/av_artifact_atlas/incorrect-speed-cassette)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96923125&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>30 minutes into the recording from above, the speed has changed</sub>
 
 ## References
 
