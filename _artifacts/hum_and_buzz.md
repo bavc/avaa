@@ -29,8 +29,9 @@ Post production, there are also several tools for removing hum and buzz:
 
 # Examples  
 
-[Listen to Power Supply Hum on Soundcloud](https://soundcloud.com/av_artifact_atlas/hum)  
-[Listen to Buzz on Soundcloud](https://soundcloud.com/av_artifact_atlas/buzz)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96922069&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to power supply hum in SoundCloud</sub>
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/99246750&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to buzz on SoundCloud</sub>
 
 ## References
 

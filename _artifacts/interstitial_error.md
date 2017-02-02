@@ -5,7 +5,7 @@ categories: video digital
 tags: [Audio, Digital, System Failure, Dropout, Drop Out, Digital Clicks]
 ---
 
-<img src="{{ site.baseurl }}/images/Interstitial_Error.jpg‎">
+<img src="{{ site.baseurl }}/images/Interstitial_Error.jpg">
 
 Coined by AudioVisual Preservation Solutions (AVPS), an interstitial error is a system "hiccup" that occurs during digitization as the data stream is being written to disk.<sup><a href="#fn1" id="ref1">1</a></sup> This error results in lost samples, and it is reflected in the waveform by an abrupt vertical drop. While the audibility of these errors varies, a particularly bad one is heard as a dropout.
 
@@ -18,7 +18,7 @@ At this time, Wavelab's Error Detection Analysis tool is the best method of find
 
 ## Examples
 
-[Listen to Interstitial Error on Soundcloud](https://soundcloud.com/av_artifact_atlas/interstitial-error)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96928848&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to an interstitial error on SoundCloud</sub>
 
 ## See also
 

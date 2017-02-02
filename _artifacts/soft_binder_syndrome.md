@@ -50,11 +50,11 @@ All tape suffers to some degree of stick-slip, but it is usually called “scrap
 
 ## Examples
 
-[Listen to a severe example of Sticky Shed Syndrome on Soundcloud](https://soundcloud.com/av_artifact_atlas/soft-binder-syndrom-sticky)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96926569&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a severe example of soft binder syndrome on SoundCloud</sub>
 
-[Listen to comparison of a Sticky Shed Syndrome tape pre and post-baking on Soundcloud](https://soundcloud.com/av_artifact_atlas/soft-binder-syndrome-sticky)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96926974&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a comparison of a soft binder syndrome tape pre and post-baking on SoundCloud</sub>
 
-[Listen to a tape that does not respond to baking yet still squeals on Soundcloud](https://soundcloud.com/av_artifact_atlas/soft-binder-syndrome-loss-of)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96927263&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a tape that does not respond to baking yet still squeals on SoundCloud</sub>
 
 ## References
 

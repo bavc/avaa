@@ -2,6 +2,8 @@
 layout: page
 title: About
 ---
+ <img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"><br>
+ <sub>Artist <a href="http://jordanbiren.com/">Jordan Biren</a> creates <a href="https://bavc.github.io/avaa/artifacts/video_head_clog.html">head clog</a> with his mind</sub>
 
 The AV Artifact Atlas is for use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.  
 
@@ -31,6 +33,7 @@ Special thanks go out to Don Williams, who first sparked the idea to use the ter
 With generous funding from the National Endowment for the Humanities, the Bay Area Video Coalition led a project to improve the AVAA as a resource and teaching tool.
 
 Project goals included:
+
 * Correlating terms in the AVAA with other resources, including the [Compendium of Image Errors in Analogue Video](http://press.uchicago.edu/ucp/books/book/distributed/C/bo16943593.html) and the [Bay Area Video Coalition's Preservation Glossary]({{ site.baseurl }}/preservation_glossary.html).
 * Expanding the utility of the AVAA for a range of users with varying levels of expertise
 * Incorporating more stills and media clips to illustrate artifacts
@@ -38,4 +41,5 @@ Project goals included:
 
 AVAA is a community effort. Please contribute! Have you seen artifacts in your collection content? The AVAA seeks images and clips to illustrate analog and digital signal errors encountered during playback or transfer.
 
-To participate, please contact us at avaa@bavc.org.
+
+To participate, please contact us at [avaa@bavc.org](mailto:avaa@bavc.org).

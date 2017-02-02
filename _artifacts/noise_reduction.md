@@ -6,10 +6,10 @@ namevar: [Dolby, dbx, Compander]
 tags: [Analog,Audio,Cassette,Noise,Open Reel Tape]
 ---
 
-<img src="{{ site.baseurl }}/images/Mandelbrot_dolbyB.png‎">
+<img src="{{ site.baseurl }}/images/Mandelbrot_dolbyB.png">
 <img src="{{ site.baseurl }}/images/Mandelbrot_flat.png">
 
-<sub>Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (top) and played back without Dolby B engaged (bottom)</sub>
+<sub>Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (left) and played back without Dolby B engaged (right)</sub>
 
 The application of noise reduction (NR) into the recording and playback processes of analog tape is an effort to reduce the noise introduced by the audio devices in the signal chain. NR systems reduce the dynamic range of an audio signal, compressing it during recording, and then expand it during playback, restoring the signal's original dynamics.<sup><a href="#fn1" id="ref1">1</a></sup> Effective reduction will mask the undesirable noise without creating any audible "pumping" artifacts, which is the fluctuation of the primary signal.
 
@@ -22,18 +22,17 @@ If a tape is identified as having been recorded with some type of NR system (for
 How do you tell if a tape has been encoded with a NR system? A discussion on Dolby, including many excerpts documenting the differences between the consumer flavors associated with the cassette format, is included in a white paper titled “Preservation of Audiotape & the Dolby Noise Reduction System: A Introduction for Assisting Identification, Playback, and Transfer.”
 <sup><a href="#fn4" id="ref4">4</a></sup> Making judgments aurally when documentation is nonexistent opens up the possibility of transferring an item incorrectly. When in doubt, a safe approach is to transfer an item twice, once flat (no NR engaged), and once decoded.
 
-
 ## Examples
 
-_EXAMPLES OF DOLBY A, SR, AND OTHER SYSTEMS ARE NEEDED_
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96923864&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a Dolby B encoded cassette played back without Dolby B engaged on SoundCloud. Notice the pronounced high end frequencies.</sub>
 
-[Listen to Dolby B encoded cassette played back with Dolby B engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dolby-b)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96923458&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to the same tape played back with Dolby B engaged on SoundCloud</sub>
 
-[Listen to Dolby B encoded cassette played back without Dolby B engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-flat) - Notice the pronounced high end.
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/106376318&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a dbx Type II open reel tape played back without dbx Type II engaged on SoundCloud. Notice the pronounced high end frequencies.</sub>
 
-[Listen to dbx Type II open reel tape played back without dbx engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii) - Notice the pronounced high end.
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/106376877&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to the same tape played back with dbx Type II engaged on SoundCloud</sub>
 
-[Listen to the same dbx Type II open reel tape played back with dbx engaged on Soundcloud](https://soundcloud.com/av_artifact_atlas/noise-reduction-dbx-type-ii-1)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/296901145&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a Dolby A tape played back with and without Dolby engaged on SoundCloud</sub>
 
 ## References
 
