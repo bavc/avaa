@@ -48,7 +48,7 @@ These techniques employ slightly different mechanisms:
 
 All tape suffers to some degree of stick-slip, but it is usually called “scrape flutter”. When the squealing becomes audible, the scrape flutter has massively increased, but it is the same mechanism.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96926569&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a severe example of soft binder syndrome on SoundCloud</sub>
 
