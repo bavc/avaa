@@ -17,7 +17,7 @@ There are two common fixes for print-through:
 * Rewind the tape, at least three times, prior to playback.<sup><a href="#fn1" id="ref1">1</a></sup>
 * If you have a tape machine that can apply low level bias, engaging it can help mitigate print-through, “though it may also have an effect [on] the signal, especially if over-applied, and should only be used as a last resort and then every carefully.”<sup><a href="#fn2" id="ref2">2</a></sup>
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96925356&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a tape with print-through on SoundCloud</sub>
 

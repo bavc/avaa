@@ -37,7 +37,7 @@ Numerous sync tone systems have been developed over time. More detail on these c
 
 Transferring any tape with sync tone requires an appropriate playback head (most likely a head with center-track timecode). See [this](http://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/synchronization/) Richard Hess blog post on synchronization. If the tape is played back on a two-track head, for instance, the tone will not cancel out.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96925086&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to a tape with pilot tone on SoundCloud</sub>
 

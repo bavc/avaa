@@ -13,7 +13,7 @@ No. If this artifact is identified in preservation master files, the source must
 
 Along with topics such as gain structure and phase control, jitter control is at the heart of professional recording.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96931183&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to jitter on SoundCloud</sub>
 

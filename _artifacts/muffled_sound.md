@@ -6,10 +6,6 @@ namevar: [Azimuth Error]
 tags: [Audio, Analog, Azimuth, Error, Frequency Loss, Playback Adjustment, Media Failure, Media Damage, Oxide Out]
 ---
 
-<img src="{{ site.baseurl }}/images/Shedding_Oxide-Cassette_Head.jpg">
-<img src="{{ site.baseurl }}/images/Fc922zv0190_04_a-oxide_out-waveform.png">
-<sub>Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).</sub>
-
 A muffled recording during playback is generally symptomatic of high frequency loss because of media failure, an incorrect wind, or a lack of high frequency information in the source recording. Unless the source is poorly recorded or the source recorder was malfunctioning during the original capture, muffled sound artifacts are the result of improper setup and playback. For instance, if azimuth is not adjusted to the source material prior to digitization, high frequencies will be lost and the resulting file will sound dull.
 
 Even if the azimuth is correct, a tape that starts shedding oxide on the playback head will result in a similarly dull recording because the oxide buildup creates a greater distance from the tape to the playback head.
@@ -30,11 +26,17 @@ When doing azimuth adjustment, an audio vectorscope is an indispensable tool. He
 
 On a vectorscope, the Lissajous pattern should be nearly vertical for a mono signal. When doing adjustment, observe the scope and watch how the waveform widens and narrows with each turn of the screw/knob, but above all use your ears to listen to changes in the high end.
 
-## Examples
+## Example(s)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97290888&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to muffled sound as a result of incorrect azimuth alignment on SoundCloud</sub>
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/97291151&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to muffled sound as a result of a tape being played oxide out on SoundCloud</sub>
+
+<img src="{{ site.baseurl }}/images/Shedding_Oxide-Cassette_Head.jpg">
+
+<img src="{{ site.baseurl }}/images/Fc922zv0190_04_a-oxide_out-waveform.png">
+
+<sub>Oxide accumulation on a cassette playback head following the transfer of one side of a cassette (top image). Waveform of a half track mono open reel tape played oxide out (bottom image).</sub>
 
 ## See also
 

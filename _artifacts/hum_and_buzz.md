@@ -8,12 +8,15 @@ tags: [Analog, Digital, Audio, Video, Balanced Cables, Power Supply, Cable]
 Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike [Analog Noise]({{ site.baseurl }}/artifacts/analog_noise.html) which has no detectable pitch.<sup><a href="#fn1" id="ref1">1</a></sup>
 
 #### Power lines
+
 * In the course of transmitting electricity from one point to another, power lines radiate electromagnetic waves at 60 Hz. Improperly shielded and unbalanced cables, particularly those in close proximity to power lines, can carry this frequency into a signal chain. In much of the world 50 Hz AC power mains are used and this can introduce interference at this frequency.
 
 #### Power supplies
+
 * A power supply also radiates a 60 Hz magnetic field, which becomes an induction problem when the supply is located near a transducer, such as a tape head or phono cartridge. The supply uses a filtering process to change a 60 Hz line into direct current for the device its powering. When the supply is faulty, any ripple in this conversion process is heard as a harmonic of 60 Hz (120 Hz, 180 Hz, etc.), so it will be at least an octave higher than hum from power lines.<sup><a href="#fn2" id="ref2">2</a></sup> For those in Europe, and the rest of the world using 50 Hz power supplies, the harmonics will be heard at 100 Hz, 150 Hz, etc.<sup><a href="#fn3" id="ref3">3</a></sup>
 
 #### Television interference (TVI)
+
 * Heard as a buzzing sound, rather than a smooth hum, television interference happens when cables are moved around.
 
 # Can it be fixed?  
@@ -27,7 +30,7 @@ Post production, there are also several tools for removing hum and buzz:
 1. [DeNoiseLF](http://www.clickrepair.net/noise/software_low_frequency.html)
 2. [Izotope RX2](http://www.youtube.com/watch?v=mKCRUM9pYB8)
 
-# Examples  
+# Example(s)  
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96922069&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><sub>Listen to power supply hum in SoundCloud</sub>
 
