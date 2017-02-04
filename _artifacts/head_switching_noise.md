@@ -21,12 +21,12 @@ Even with one of these VCRs, 480i capture devices following SMPTE RP 202's stand
 
 Playback from a normal VHS VCR into a card that captures from line 23, showing normal switching noise.
 
-<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_SLV-779HF_Sharp1_XCard.jpg‎">
+<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_SLV-779HF_Sharp1_XCard.jpg">
 
 Playback from a JVC BR-S525U into a card that captures from line 23, showing black at the bottom of the image.
 
-<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_XCard1_PB4.5H.jpg‎">
+<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_XCard1_PB4.5H.jpg">
 
 Playback from a JVC BR-S525U into a card that captures from line 22, showing no switching noise. (The bending is because this card has no TBC.)
 
-<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_VC500.jpg‎">
+<img src="{{ site.baseurl }}/images/HeadSwitch_Butterfly_BR-S525U_VC500.jpg">
