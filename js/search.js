@@ -9,7 +9,7 @@
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
         if (item.namevar) { // Are there any synonyms for the artefact?
-          akaList = item.namevar.join(', ')
+          var akaList = Array.prototype.join.call(item.namevar, ", ");
           appendString += '<p><sub>Also known as: ' + akaList + ' </sub></p></li>';
         }
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
