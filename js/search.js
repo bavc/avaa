@@ -8,7 +8,10 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p><sub>Also known as: ' + item.namevar + '</sub></p></li>';
+        if (item.namevar) { // Are there any synonyms for the artefact?
+          akaList = item.namevar.join(', ')
+          appendString += '<p><sub>Also known as: ' + akaList + ' </sub></p></li>';
+        }
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
