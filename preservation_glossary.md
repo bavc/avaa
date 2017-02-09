@@ -186,7 +186,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 **Gamut** The range of voltages allowed from a video [signal](#sign), or a component of a video signal. Signal voltages outside of the range (i.e., exceeding the gamut) may lead to [clipping](#clip), [crosstalk](#cross) or other distortions.
 
-**<a id="gene" name="gene"></a>Generation** Copy of original video program material. The original videotaped material (source footage) is the first generation. A copy of the original is a second generation tape and so on. Generally the edited [master](#master) tape is a second generation tape. In [analog](#anal) systems, extensive efforts are made to keep generations to a minimum, since each copy or process adds noise and other artifacts resulting in diminished quality with each generation.
+**<a id="gene" name="gene"></a>Generation** Copy of original video program material. The original videotaped material (source footage) is the first generation. A copy of the original is a second generation tape and so on. Generally the edited [master](#mast) tape is a second generation tape. In [analog](#anal) systems, extensive efforts are made to keep generations to a minimum, since each copy or process adds noise and other artifacts resulting in diminished quality with each generation.
 
 **Generational loss** Degradation cause by tape duplication.
 
