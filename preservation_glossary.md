@@ -12,7 +12,7 @@ title: AV Preservation Glossary
 
 **Analog-to-digital** The process in which a continuous analog signal is quantized and converted to a series of binary integers.
 
-**Analog video** A system of recording video images that employs continuously varying waveforms to encode brightness, color and the timing information necessary to reproduce a moving image.
+**<a id="anal" name="anal"></a>Analog video** A system of recording video images that employs continuously varying waveforms to encode brightness, color and the timing information necessary to reproduce a moving image.
 
 **ANSI** See [standards](#stan).
 
