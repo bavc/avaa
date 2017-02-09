@@ -182,8 +182,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 ### **<a id="gamm" name="gamm"></a>G**
 
-**
-Gamma correction** A process used with video and computer graphics images to correct brightness and internal micro-contrast within the image, allowing a change of ratio between the brightest red component of an image and the weakest red.
+**Gamma correction** A process used with video and computer graphics images to correct brightness and internal micro-contrast within the image, allowing a change of ratio between the brightest red component of an image and the weakest red.
 
 **Gamut** The range of voltages allowed from a video [signal](#sign), or a component of a video signal. Signal voltages outside of the range (i.e., exceeding the gamut) may lead to [clipping](#clip), [crosstalk](#cross) or other distortions.
 
