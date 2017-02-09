@@ -186,7 +186,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 **Gamut** The range of voltages allowed from a video [signal](#sign), or a component of a video signal. Signal voltages outside of the range (i.e., exceeding the gamut) may lead to [clipping](#clip), [crosstalk](#cross) or other distortions.
 
-**<a id="gene" name="gene"></a>Generation** Copy of original video program material. The original videotaped material (source footage) is the first generation. A copy of the original is a second generation tape and so on. Generally the edited [master](#master) tape is a second generation tape. In [analog](#anal) systems, extensive efforts are made to keep generations to a minimum, since each copy or process adds noise and other artifacts resulting in diminished quality with each generation.
+**<a id="gene" name="gene"></a>Generation** Copy of original video program material. The original videotaped material (source footage) is the first generation. A copy of the original is a second generation tape and so on. Generally the edited [master](#mast) tape is a second generation tape. In [analog](#anal) systems, extensive efforts are made to keep generations to a minimum, since each copy or process adds noise and other artifacts resulting in diminished quality with each generation.
 
 **Generational loss** Degradation cause by tape duplication.
 
@@ -249,7 +249,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **<a id="marc" name="marc"></a>MARC** MAchine Readable Cataloging. The standard system for computerizing cataloging records. IN US, also called USMARC, and systems may vary internationally, e.g., DenMARC. See IMAP website for more information: [http://www.imappreserve.org/faq.html](/web/20150928032745/http://www.imappreserve.org/faq.html)
 
-**<a id="master" name="master"></a>Master** The earliest generation of a finished tape that should also be of the best quality. Masters should not be used as [exhibition tapes](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#exhi), i.e., not for repeated [playback](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#play). See also [dubmaster.](#dubm)
+**<a id="mast" name="mast"></a>Master** The earliest generation of a finished tape that should also be of the best quality. Masters should not be used as [exhibition tapes](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#exhi), i.e., not for repeated [playback](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#play). See also [dubmaster.](#dubm)
 
 **<a id="rema" name="rema"></a>Migration, re-mastering, transferring** Terms used interchangably to refer to the process of copying the content of an existing videotape to new media.
 
