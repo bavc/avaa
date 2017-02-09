@@ -249,7 +249,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **<a id="marc" name="marc"></a>MARC** MAchine Readable Cataloging. The standard system for computerizing cataloging records. IN US, also called USMARC, and systems may vary internationally, e.g., DenMARC. See IMAP website for more information: [http://www.imappreserve.org/faq.html](/web/20150928032745/http://www.imappreserve.org/faq.html)
 
-**<a id="mast" name="mast"></a>Master** The earliest generation of a finished tape that should also be of the best quality. Masters should not be used as [exhibition tapes](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#exhi), i.e., not for repeated [playback](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#play). See also [dubmaster.](#dubm)
+**<a id="master" name="master"></a>Master** The earliest generation of a finished tape that should also be of the best quality. Masters should not be used as [exhibition tapes](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#exhi), i.e., not for repeated [playback](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#play). See also [dubmaster.](#dubm)
 
 **<a id="rema" name="rema"></a>Migration, re-mastering, transferring** Terms used interchangably to refer to the process of copying the content of an existing videotape to new media.
 
