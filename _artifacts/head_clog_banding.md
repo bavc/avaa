@@ -15,4 +15,4 @@ Cleaning the media may help reduce this artifact. Exercising the tape may also h
 <iframe src="https://archive.org/embed/AVAADVHeadclog1" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
 <sub>The problem is difficult to see in the clip above, and much more obvious in the clip below.</sub>
 
-<iframe src="https://archive.org/embed/AVAADVHeadclog2" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/AVAADVHeadclog2" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
