@@ -8,7 +8,10 @@
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
-        appendString += '<p><sub>Also known as: ' + item.namevar + '</sub></p></li>';
+        if (item.namevar) { // Are there any synonyms for the artefact?
+          var akaList = Array.prototype.join.call(item.namevar, ", ");
+          appendString += '<p><sub>Also known as: ' + akaList + ' </sub></p></li>';
+        }
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
@@ -32,8 +35,12 @@
   }
 
   var searchTerm = getQueryVariable('query');
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
+  var redirectTerm = window.location.pathname.split('/')[window.location.pathname.split('/').length-1].replace('_',' ');
+
+  if (searchTerm || redirectTerm) {
+    if (searchTerm) {
+      document.getElementById('search-box').setAttribute("value", searchTerm);
+    };
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // and namevar a boost of 10 to indicate matches on this field are more important.
@@ -56,7 +63,11 @@
         'content': window.store[key].content
       });
 
-      var results = idx.search(searchTerm);
+      if (searchTerm) {
+        var results = idx.search(searchTerm);
+      } else {
+        var results = idx.search(redirectTerm);
+      }
       displaySearchResults(results, window.store);
     }
   }

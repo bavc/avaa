@@ -12,7 +12,7 @@ title: AV Preservation Glossary
 
 **Analog-to-digital** The process in which a continuous analog signal is quantized and converted to a series of binary integers.
 
-**Analog video** A system of recording video images that employs continuously varying waveforms to encode brightness, color and the timing information necessary to reproduce a moving image.
+**<a id="anal" name="anal"></a>Analog video** A system of recording video images that employs continuously varying waveforms to encode brightness, color and the timing information necessary to reproduce a moving image.
 
 **ANSI** See [standards](#stan).
 
@@ -274,8 +274,7 @@ frequencies.
 
 ### **<a id="offl" name="offl"></a>O**
 
-**
-Off-Line Editing** Editing that is done using inexpensive, nonbroadcastquality equipment to produce an edit decision list ([EDL](#edl)) which will be used later for assembling a broadcast quality program using more expensive, high quality equipment.
+**Off-Line Editing** Editing that is done using inexpensive, nonbroadcastquality equipment to produce an edit decision list ([EDL](#edl)) which will be used later for assembling a broadcast quality program using more expensive, high quality equipment.
 
 **Online Editing** Final editing session in which the finished program [master](#mast) is assembled from the original production material.
 
@@ -410,13 +409,13 @@ Videotape[See image.](#layers)
 
 **<a id="vidf" name="vidf"></a>Videotape formats** Recording [formats](#vidf). Current video tape formats include C, U-MAtic, Betacam, M, Betcam SP, Mll, D1, D2, video to Terms used interchangably to refer to the process of copying the content of an existing videotape to new media. Oxide-coated plastic-based magnetic tape used for recording video and audio signals. that differ in magnetic patterns of information, but rely on the same fundamental process of recording image and sound on magnetic tape. A particular format needs its own playback machine that is able that to read the magnetic pattern.There are several characteristics that distinguish one format from another, such as the type of recorded signal, tape speed, width and placement of the video tracks and audio tracks. After 1970 the EAIJ standard was accomplished. The VHS (video home system) 1/2" consumer videotape format is one example. Since 1956, approximately 50 formats have been introduced world wide. For examples, see the resources [Hardware](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/hardware.htm) section. D3, D5, Digital Betacam, Beta, VHS, Hi-*, 8mm, S-VHS, DVC Pro and DVcam.
 
-**Video preservation** An archival system that ensures the survival in perpetuity of the program content according to the highest technical standards reasonably available. There are three major facets of video preservation: (1) safeguarding the recording under secure and favorable storage conditions, (2) providing for its proper restoration and periodic transfer to modern formats before the original or next generation copy is no longer technologically supportable, and (3) continuing protective maintenance of at least a master and a copy, physically separated in storage, preferably in different geographic locations. (From the National Film Preservation Board's [Television/Video Preservation Study: Volume 1: Report 1997](/web/20150928032745/http://lcweb.loc.gov/film/tvstudy.html).)
+**<a id="pres" name="pres"></a>Video preservation** An archival system that ensures the survival in perpetuity of the program content according to the highest technical standards reasonably available. There are three major facets of video preservation: (1) safeguarding the recording under secure and favorable storage conditions, (2) providing for its proper restoration and periodic transfer to modern formats before the original or next generation copy is no longer technologically supportable, and (3) continuing protective maintenance of at least a master and a copy, physically separated in storage, preferably in different geographic locations. (From the National Film Preservation Board's [Television/Video Preservation Study: Volume 1: Report 1997](https://www.loc.gov/programs/static/national-film-preservation-board/documents/tvstudy.pdf).
 
 **Video signal to noise ratio** An indication of the amount of <span style="text-decoration: underline;">[noise](#nois)</span> in a black and white picture.
 
 **Viewing copy** A videotape dubbed from a [master](#mast) and made for repeated viewing. See [exhibition format](#exhi)**.**
 
-**Vinegar syndrome** Characteristic of the decomposition of acetate-based magnetic tape where acetic acid is a substantial by product that gives the tape a vinegar-like odor. After the onset of the vinegar syndrome, acetate tape [backings](#backi)[hydrolysis](#hydr) of the acetate is catalyzed further by the presence of acetate acid byproduct.[](#index)
+**Vinegar syndrome** Characteristic of the decomposition of acetate-based magnetic tape where acetic acid is a substantial by product that gives the tape a vinegar-like odor. After the onset of vinegar syndrome, [hydrolysis](#hydr) of the acetate [backing](#backi) is catalyzed further by the presence of acetate acid byproduct.[](#index)
 
 [TOP](#index)
 
