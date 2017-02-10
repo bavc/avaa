@@ -18,11 +18,7 @@ Image lag is not a fixable artifact, but rather a result of the inherent limits 
 
 ## Example(s)
 
-File:Unidentifiedcolorerror.mp4
-
-<sub>Burn-in is apparent behind the dancers in this short clip. The camera may have been pointed at the empty stage for an extended period of time prior to the arrival of the dancers, resulting in the 'x-ray' type artifact seen here. </sub>
-
-File:Avaa_ghost_test_03.mp4
+<iframe src="https://archive.org/embed/AVAAAvaaGhostTest03" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
 <sub>Comet Tails are visible when the camera shifts, and a white aura appears around the head of the singer as he moves. (Walter Steding Concerts 1980s, _XFR STN Project_; [Internet Archive](https://archive.org/details/XFR_2013-07-27_1A_01), 2013).</sub>
 
 ## References
