@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Jitter
-categories: video audio
+categories: audio
 tags: [Analog, Error, Noise, Clicks, Digital, Audio]
 ---
 
