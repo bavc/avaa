@@ -26,5 +26,9 @@ If ground loop problems are recorded in the video or audio signal, they are only
 
 <sub>Watch for the horizontal band rolling up caused by the ground loop.</sub>
 
+<iframe src="https://ia601504.us.archive.org/19/items/ElectricalgroundLoopInterference/ElectronicInterference.mp4" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
 
 
