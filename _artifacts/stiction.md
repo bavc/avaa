@@ -13,3 +13,7 @@ This artifact is visible (and audible) when media suffering from hydrolysis or c
 ## Can it be fixed?
 
 To address stiction, the tape must be cleaned by hand or using a cleaning machine. It may also require treatment for hydrolysis using a proven method, such as baking or dehydrating.
+
+## Example(s)
+<br>
+<iframe src="https://archive.org/embed/stiction" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
