@@ -15,7 +15,6 @@ Yes, a tracking error can be corrected by careful tracking adjustment.
 Severe tracking issues with a particular piece of media may require a custom tape path alignment.
 
 ## Example(s)
-<br>
 <iframe src="https://archive.org/embed/tracking_201702" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Quality Control Tools
