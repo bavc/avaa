@@ -13,5 +13,7 @@ Sync loss can be recorded into source masters when there is a signal routing fai
 There is no remedy if the sync loss is recorded in the source video. If the sync loss is occurring due to a video playback system failure, then maintenance or re-routing of the video signal is required.
 
 ## Example(s)
+<br>
+<iframe src="https://archive.org/embed/sync_loss" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-File:SyncLoss.mp4
+
