@@ -15,8 +15,7 @@ Tape is susceptible to expansion and shrinkage, see [Lengthwise tape expansion o
 Some VTRs have skew controls that allow for minor adjustments in tape tension, most notably, several models of U-matic machines and some 1/2" open reel models. Otherwise, skew error may be minimized through the use of a good [TBC](http://en.wikipedia.org/wiki/Time_base_correction). It may also require an alignment adjustment or back tension adjustment in the player equipment, but be careful: this kind of tinkering should be done by a trained technician and not performed on equipment used for recording.
 
 ## Example(s)
-
-File:Skew.mp4
+<iframe src="https://archive.org/embed/skew_error" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <sub>Skew is visible at the top of the screen in this short clip.</sub>
 
 ## References
