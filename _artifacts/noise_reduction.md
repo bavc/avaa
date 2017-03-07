@@ -22,9 +22,9 @@ How do you tell if a tape has been encoded with a NR system? A discussion on Dol
 <img src="{{ site.baseurl }}/images/Mandelbrot_dolbyB.png">
 <img src="{{ site.baseurl }}/images/Mandelbrot_flat.png">
 
-<sub>Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (left) and played back without Dolby B engaged (right)</sub>
+<sub>Excerpt of a waveform from a cassette encoded with Dolby B played back with Dolby B engaged (left) and played back without Dolby B engaged (right).</sub>
 
-<img src="{{ site.baseurl }}/images/Mandelbrot_spectrum_dolbyB.jpg">
+<img src="{{ site.baseurl }}/images/Mandelbrot_spectrum_dolbyb.jpg">
 <img src="{{ site.baseurl }}/images/Mandelbrot_spectrum_flat.jpg">
 
 <sub>Audio frequency spectrums of the same cassette encoded with Dolby B played back with Dolby B engaged (left) and played back without Dolby B engaged (right). Note how deemphasis has been applied to the Dolby B engaged playback.</sub>
