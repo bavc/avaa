@@ -5,7 +5,7 @@ title: Contributors Guide
 
 1.  [Intro](#intro)
 2.  [Send Github Issues](#issues)
-3.  [Add/Edit an Artifact Page](#artifact)
+3.  [Edit an Artifact Page](#artifact)
     *  [Edit in GitHub](#github) 
     *  [Edit in Prose](#prose)
     *  [Add Images](#img)
