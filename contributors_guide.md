@@ -5,13 +5,13 @@ title: Contributors Guide
 ## Table of Contents
 
 1.  [Basics](#intro)
-2.  [Send Github Issues](#issues)
-3.  [Edit an Artifact Page](#artifact)
+2.  [Sending Github Issues](#issues)
+3.  [Editing an Artifact Page](#artifact)
     *  [Edit in GitHub](#github) 
     *  [Edit in Prose](#prose)
     *  [Add Images](#img)
-    *  [Add Media (Sound/Video)](#media)
-4.  [Tips on Writing in Markdown](#markdown)  
+    *  [Add Media (Sound/Video)](#media) 
+4.  [Writing in Markdown](#markdown)  
 
 ## Basics {#intro} 
 Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
@@ -25,7 +25,7 @@ The AVAA homepage can be accessed in one of two ways. Most pages will have links
 
 You can embed video examples from anywhere, but it'd be great if you can send an upload request to add them to the [AV Artifact Atlas Collection on Internet Archive](https://archive.org/details/avartifactatlas?sort=-date). 
 
-## Send Github Issues {#issues}
+## Sending Github Issues {#issues}
 
 See a typo? An error? A complete and total fabrication? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>!
 
