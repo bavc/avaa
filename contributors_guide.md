@@ -3,7 +3,7 @@ layout: page
 title: Contributors Guide
 ---
 
-<img src="/images/jeromecaja_crashrecord.png">
+<img src="{{ site.baseurl }}/images/jeromecaja_crashrecord.png" align="center">
 
 ## Table of Contents
 
