@@ -6,10 +6,10 @@ title: Contributors Guide
 1.  [Intro](#intro)
 2.  [Send Github Issues](#issues)
 3.  [Add/Edit an Artifact Page](#artifact)
-    1.  [Edit in GitHub](#github) 
-    2.  [Edit in Prose](#prose)
-    3.  [Add Images](#img)
-    4.  [Add Media (Sound/Video)](#media)
+    *  [Edit in GitHub](#github) 
+    *  [Edit in Prose](#prose)
+    *  [Add Images](#img)
+    *  [Add Media (Sound/Video)](#media)
 4.  [Tips on Writing in Markdown](#markdown)  
 
 Thank you {#intro} for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
