@@ -4,7 +4,7 @@ title: Contributors Guide
 ---
 
 <img src="{{ site.baseurl }}/images/jeromecaja_crashrecord.png" align="center">
-<sub>Hi8mm <a href="/_artifacts/crash_record.html">crash record artifact</a> found in the <a href="http://www.thejeromeproject.com/">Jerome Caja Project</a></sub>
+<sub>Hi8mm <a href="/artifacts/crash_record.html">crash record artifact</a> found in the <a href="http://www.thejeromeproject.com/">Jerome Caja Project</a></sub>
 
 ## Table of Contents
 
