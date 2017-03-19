@@ -4,6 +4,7 @@ title: Contributors Guide
 ---
 
 <img src="{{ site.baseurl }}/images/jeromecaja_crashrecord.png" align="center">
+<sub>Images from the <a href="http://www.thejeromeproject.com/">Jerome Caja Project</a></sub>
 
 ## Table of Contents
 
