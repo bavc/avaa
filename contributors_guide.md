@@ -2,6 +2,9 @@
 layout: page
 title: Contributors Guide
 ---
+
+<img src="/images/jeromecaja_crashrecord.png">
+
 ## Table of Contents
 
 1.  [Basics](#intro)
