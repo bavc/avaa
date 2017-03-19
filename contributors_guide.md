@@ -4,8 +4,9 @@ title: Contributors Guide
 ---
 
 *   [Intro](#intro)
+*   [Edit in Prose](#prose)
 
-{#intro}Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
+Thank you #intro for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
 
 This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page.
 
@@ -42,7 +43,7 @@ Have an artifact that you can't identify and would like the opinion of the commu
 
 (Note: you can also just go straight to the <a href="https://github.com/bavc/avaa/tree/master/_artifacts">artifacts directory</a>.)
 
-### Edit in Prose
+### Edit in Prose {#prose}
 
 - Click on link at the bottom of an artifact page
 - Log into Prose using Github credentials (if not already logged in)
