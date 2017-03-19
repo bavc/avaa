@@ -3,11 +3,14 @@ layout: page
 title: Contributors Guide
 ---
 
-* [Intro](#intro)
-* [Send Github Issues](#issues)
-* [Add/Edit an Artifact Page](#artifact)
-* [Edit in GitHub](#github) 
-* [Edit in Prose](#prose)
+1.  [Intro](#intro)
+2.  [Send Github Issues](#issues)
+3.  [Add/Edit an Artifact Page](#artifact)
+    1.  [Edit in GitHub](#github) 
+    2.  [Edit in Prose](#prose)
+    3.  [Add Images](#img)
+    4.  [Add Media (Sound/Video)](#media)
+4.  [Tips on Writing in Markdown](#markdown)  
 
 Thank you {#intro} for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
 
@@ -52,13 +55,6 @@ Have an artifact that you can't identify and would like the opinion of the commu
 - Log into Prose using Github credentials (if not already logged in)
 - Edit page and preview results
 - Click the Save button (last button on right navigational bar) and submit your change request
-
-### Tips on writing in Markdown {#markdown} 
-
-* Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
-* If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.  
-
-For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
 
 ## Add Images {#img} 
 
@@ -105,3 +101,10 @@ The sample syntax below embeds audio in both Prose and GitHub.
 
 <small>```<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96915790&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 <sub>Dropout heard in 1/4" open reel audio</sub>```</small>
+
+### Tips on writing in Markdown {#markdown} 
+
+* Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
+* If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.  
+
+For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
