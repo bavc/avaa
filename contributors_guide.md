@@ -2,11 +2,9 @@
 layout: page
 title: Contributors Guide
 ---
-Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
+## Table of Contents
 
-This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page.
-
-1.  [Intro](#intro)
+1.  [Basics](#intro)
 2.  [Send Github Issues](#issues)
 3.  [Edit an Artifact Page](#artifact)
     *  [Edit in GitHub](#github) 
@@ -15,8 +13,11 @@ This guide is designed as a simple step-by-step for contributing via GitHub or P
     *  [Add Media (Sound/Video)](#media)
 4.  [Tips on Writing in Markdown](#markdown)  
 
-
 ## Basics {#intro} 
+Thank you for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
+
+This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page.
+
 The AVAA homepage can be accessed in one of two ways. Most pages will have links at the bottom that say "Edit in GitHub" or "Edit in Prose."
 
 - <a href="https://avaa.bavc.org">avaa.bavc.org</a>
