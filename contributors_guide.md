@@ -5,7 +5,7 @@ title: Contributors Guide
 ## Table of Contents
 
 1.  [Basics](#intro)
-2.  [Sending Github Issues](#issues)
+2.  [Sending a Github Issue](#issues)
 3.  [Editing an Artifact Page](#artifact)
     *  [Edit in GitHub](#github) 
     *  [Edit in Prose](#prose)
