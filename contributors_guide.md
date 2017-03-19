@@ -4,9 +4,9 @@ title: Contributors Guide
 ---
 
 *   [Intro](#intro)
-*   [Send Github Issues] (#issues)
-*   [Add/Update an Artifact Page] (#artifact)
-*   [Edit in GitHub] (#github) 
+*   [Send Github Issues](#issues)
+*   [Add/Update an Artifact Page](#artifact)
+*   [Edit in GitHub](#github) 
 *   [Edit in Prose](#prose)
 
 Thank you {#intro} for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
