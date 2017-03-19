@@ -4,9 +4,12 @@ title: Contributors Guide
 ---
 
 *   [Intro](#intro)
+*   [Send Github Issues] (#issues)
+*   [Add/Update an Artifact Page] (#artifact)
+*   [Edit in GitHub] (#github) 
 *   [Edit in Prose](#prose)
 
-Thank you #intro for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
+Thank you {#intro} for checking out the Contributors Guide! AVAA could not be sustained without a dedicated community of loveable av nerds like you.
 
 This guide is designed as a simple step-by-step for contributing via GitHub or Prose. If what you read here doesn't make a whole lot of sense, consider treating yourself to a crash course in git, GitHub, and the Markdown language (a little HTML helps too). It's all very easy, we swear. Some resource recommendations are in our <a href="https://bavc.github.io/avaa/faq.html">FAQ</a> page.
 
@@ -17,7 +20,7 @@ The AVAA homepage can be accessed in one of two ways:
 
 Most pages will have links at the bottom that say "Edit in GitHub" or "Edit in Prose."
 
-## Send Github Issues {#sendis}
+## Send Github Issues {#issues}
 
 See a typo? An error? A complete and total fabrication? Send an <a href="https://github.com/bavc/avaa/issues">Issue</a>!
 
@@ -31,9 +34,9 @@ Have an artifact that you can't identify and would like the opinion of the commu
 - For artifact identification help, begin your subject line with "Artifact" as in "Artifact: Weird lines and stuff"
 - For ideas you have on functionalities that could make AVAA better, begin your subject line with "Wishlist"
 
-## How to update an artifact page through the AVAA website
+## How to update an artifact page through the AVAA website {#artifact} 
 
-### Edit in Github
+### Edit in Github {#github}
 
 - Click on link at the bottom of an artifact page
 - Log in (if not already logged in)
@@ -50,14 +53,14 @@ Have an artifact that you can't identify and would like the opinion of the commu
 - Edit page and preview results
 - Click the Save button (last button on right navigational bar) and submit your change request
 
-### Tips on writing in Markdown
+### Tips on writing in Markdown {#markdown} 
 
 * Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
 * If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.  
 
 For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
 
-## Add Images
+## Add Images {#img} 
 
 Images are linked. As the future-proofing types, we recommend images are first uploaded into the images directory of the repository. (Note that you will not see the images in GitHub, only on the website.)
 
@@ -68,9 +71,9 @@ Images are linked. As the future-proofing types, we recommend images are first u
 <small>```<img src="{{ site.baseurl }}/images/TBCerror_compare_02.jpg">
 <sub>TBC Error</sub>```</small>
 
-## Add Media
+## Add Media {#media} 
 
-### Submit a Media Upload Request
+### Submit a Media Upload Request {#upload} 
 
 The large sizes of sound and video files means that these examples should be embedded from other sharing platforms. In the interest of keeping these items together, we ask that contributors send the video and audio they'd like to add to the <a href="https://github.com/bavc/avaa/issues">issues tracker</a>. An administrator at <a href="www.bavc.org/preserve-media">Bay Area Video Coalition</a> will then add the media to the organization's <a href="https://archive.org/search.php?query=%23AVAA">Internet Archive</a> or Soundcloud account.
 
@@ -78,7 +81,7 @@ Once uploaded, the admin will send you a link and you can continue with the step
 
 Note that from Internet Archive and Soundcloud these files can be easily downloaded by anyone. If you would prefer to embed on your own from a more secure sharing platform, that is fine too.
 
-### Add Video
+### Add Video {#video} 
 
 - Link to your video to the issues tracker. Administrators will upload the file to Internet Archive and send you a link.
 - Copy the embed code from Internet Archive.
@@ -91,7 +94,7 @@ The sample syntax below embeds video in both Prose and GitHub. Replace only the 
 <small>```<iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>```</small>
 
-### Add Sound
+### Add Sound {#sound} 
 
 - Link to your audio to the issues tracker. Administrators will upload the file to Soundcloud and send you a link.
 - Copy the embed code from Soundcloud
