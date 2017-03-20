@@ -22,7 +22,8 @@ No, this artifact is part of the video signal and there is no way to eliminate o
 
 ## Example(s)
 
-<iframe src="https://archive.org/embed/AVAAHi8mmCrashRecord" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> <sub>Hi8mm Crash Record artifact</sub>
+<iframe src="https://archive.org/embed/AVAAHi8mmCrashRecord" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
+<sub>Hi8mm Crash Record artifact</sub>
 
 ## References
 
