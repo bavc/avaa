@@ -20,6 +20,11 @@ VTRs used for professional and non-linear editing employ heads that can be perfe
 
 No, this artifact is part of the video signal and there is no way to eliminate or correct it.
 
+## Example(s)
+
+<iframe src="https://archive.org/embed/AVAAHi8mmCrashRecord" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
+<sub>Hi8mm Crash Record artifact</sub>
+
 ## References
 
 <sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Color Smearing After An Editing Cut” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.64, video 12. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
