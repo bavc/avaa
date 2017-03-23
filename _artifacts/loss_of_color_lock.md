@@ -15,6 +15,10 @@ Black-and-white recordings and [NTSC](http://en.wikipedia.org/wiki/NTSC) recordi
 
 Adjust the color lock control on a PAL playback device until the color is rendered correctly. If these adjustments do not resolve the artifact, try the same adjustments while playing a test tape in the same device. If the test tape's colors can be rendered correctly, then the tape recording has uncorrectable defects; however, if the issue persists while playing the test tape, then the device needs servicing.
 
+## Example(s)
+
+<iframe src="https://archive.org/embed/AVAAUmaticColorLock" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ## References
 
 <sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Loss of colour lock” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.56, videos 5 & 6. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
