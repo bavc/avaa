@@ -22,7 +22,7 @@ title: Categories
 {% endfor %}
 
 {% for tag in tags %}
-  <button><a href="tags.html#{{ tag | slugify }}"> {{ tag }} </a></button>
+  <a href="tags.html#{{ tag | slugify }}"><button> {{ tag }} </button></a>
 {% endfor %}
 <br/><br/>
 <h1>List</h1>
@@ -42,5 +42,3 @@ title: Categories
    {% endfor %}
   </ul>
 {% endfor %}
-
-
