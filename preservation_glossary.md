@@ -332,7 +332,7 @@ frequencies.
 
 **<a id="scrat" name="scrat"></a>Scratching** Gouging of the magnetic layer or <span style="text-decoration: underline;">[base](#base)</span> as the tape passes through a machine. Videotape scratches will cause a loss of [head](#head) to tape contact and appear as a solid line on the screen.
 
-**<a id="seca" name="seca"></a>SECAM** (Sequential Couleur Avec Memoir "sequential color with memory") A color television standard with 625 lines per frame and 50 fields per second developed by France and the U.S.S.R. Color difference information is transmitted sequentially on alternate lines as an FM signal. One of three international standards, including [NTSC](#ntsc)[PAL](#pal). and
+**<a id="seca" name="seca"></a>SECAM** (séquentiel couleur à mémoire, "sequential color with memory") A color television standard with 625 lines per frame and 50 fields per second developed by France and the U.S.S.R. Color difference information is transmitted sequentially on alternate lines as an FM signal. One of three international standards, including [NTSC](#ntsc) and [PAL](#pal).
 
 **Shedding**[](#base) Loose oxide may clog video [heads](#head) causing a loss of picture. [See image.](#layers) A condition in which the oxide that forms the recording surface of a videotape has begun to separate from the [base](#base).
 
