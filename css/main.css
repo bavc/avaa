@@ -68,6 +68,22 @@ a:hover {
   line-height: 1.75em;
 }
 
+.artefact-tag,
+.category-tag {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0 5px 10px 0;
+  padding: 6px;
+}
+
+.artefact-tag:hover,
+.category-tag:hover {
+  background-color: rgb(221, 221, 221);
+  border: 1px solid black;
+
+}
+
 /*****************************************************************************/
 /*
 /* Site

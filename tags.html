@@ -22,7 +22,7 @@ title: Tags
 {% endfor %}
 
 {% for tag in tags %}
-  <a href="tags.html#{{ tag | slugify }}"><button> {{ tag }} </button></a>
+  <a class="artefact-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
 <br/><br/>
 <h1>List</h1>

@@ -29,6 +29,6 @@ We are currently in the process of migrating AVAA from it's original Wikimedia p
 
 <div>
 {% for tag in tags %}
-<a href="tags.html#{{ tag | slugify }}"><button> {{ tag }} </button></a>
+<a class="artefact-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
 </div>
