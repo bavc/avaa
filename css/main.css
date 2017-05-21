@@ -20,7 +20,7 @@ body {
   background-color: #fafbfc;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
-  font-size: 0.85em;
+  font-size: 1em;
   overflow: hidden;
 }
 
@@ -66,6 +66,22 @@ a:hover {
 
 .posts-list li {
   line-height: 1.75em;
+}
+
+.artefact-tag,
+.category-tag {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 0 5px 10px 0;
+  padding: 6px;
+}
+
+.artefact-tag:hover,
+.category-tag:hover {
+  background-color: rgb(221, 221, 221);
+  border: 1px solid black;
+
 }
 
 /*****************************************************************************/
@@ -267,6 +283,14 @@ button {
 #sidebar-button:active,
 #sidebar-button:hover {
   opacity: 0.7;
+}
+
+.search-button {
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid black;
+  margin: 5px;
 }
 
 /*****************************************************************************/
