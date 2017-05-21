@@ -42,7 +42,7 @@
           <div class="search">
             <form action="{{ site.baseurl }}/search.html" method="get">
               <input type="text" id="search_box" name="query">
-              <input type="submit" class="search-button" value="search">
+              <input type="submit" value="search">
             </form>
           </div>
         </div>
@@ -50,7 +50,8 @@
           <ul class="posts-list">
             <li><a href="{{ site.baseurl }}/index.html">AVAA Home</a></li>
             <li><a href="{{ site.baseurl }}/about.html">About AVAA</a></li>
-            <li><a href="{{ site.baseurl }}/tags.html">Browse Artifacts</a></li>
+            <li><a href="{{ site.baseurl }}/tags.html">Browse Artifacts by Tags</a></li>
+            <li><a href="{{ site.baseurl }}/categories.html">Browse Artifacts by Categories</a></li>
             <li><a href="{{ site.baseurl }}/contributors_guide.html">Contributor's Guide</a></li>
             <li><a href="{{ site.baseurl }}/preservation_glossary.html">AV Preservation Glossary</a>
             <li><a href="{{ site.baseurl }}/news_resources.html">News/Resources</a></li>
@@ -59,11 +60,11 @@
           </ul>
         </div>
         <div class="posts">
+          <h4>Browse by category</h4>
           <ul class="posts-list">
-            <h4>Browse by category</h4>
-              {% for category in categories %}
-                <li><a href="{{ site.baseurl }}/categories.html#{{ category | slugify }}"> {{ category }} </a></li>
-              {% endfor %}
+            {% for tag in tags %}
+              <a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>
+            {% endfor %}
           </ul>
         </div>
         <div class="footer">
