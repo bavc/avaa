@@ -1,8 +1,7 @@
 ---
 layout: post
 title: DV Dropout
-categories:
-  - video digital
+categories: video digital
 tags:
   - Digital
   - Video

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Bearding
-categories:
-  - video analog
+categories: video analog
 tags:
   - Analog
   - Video
@@ -23,8 +22,7 @@ If the bearding is recorded into the image, there is no way to remedy the artifa
 ## Examples(s)
 
 <iframe src="https://archive.org/embed/AVAAAvatlasBeardingAccess" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub> 
+<sub>Bearding as seen in 1/2 open-reel AV recording. Source: [Nancy Karp +Dancers](http://www.nancykarp.org/)</sub>
 
 <img src="{{ site.baseurl }}/images/Beardingsmall.jpg"><br>
 <sub>Bearding as seen in an 1/2" open-reel AV recording. Source: [Anthology Film Archives](http://anthologyfilmarchives.org/)</sub>
-
