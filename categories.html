@@ -22,10 +22,10 @@ title: Categories
 {% endfor %}
 
 {% for tag in tags %}
-  <a class="category-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
+  <a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
-<br/><br/>
-<h1>List</h1>
+
+<h2>List</h2>
 
 
 {% for tag in tags %}
