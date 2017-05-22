@@ -10,7 +10,7 @@ published: true
 
 ## Can it be fixed?
 
-[wanted!]
+If the black frame in the file replaces an actual frame of the film, then no. Otherwise (i.e. when the black frame id added to the real frames), then yes.
 
 ## Example(s)
 
