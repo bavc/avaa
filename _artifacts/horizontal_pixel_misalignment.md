@@ -10,7 +10,7 @@ published: true
 
 ## Can it be fixed?
 
-[wanted!]
+Not completely. If the misalignment is little in the file, then the fix will not be noticeable by eye.
 
 ## Example(s)
 
