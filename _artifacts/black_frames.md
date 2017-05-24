@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-We are considering black frames that have been generated during the digitisation process, not black frames that have been added in case of a bad film tear during printing (a method used for fixing an image negative, in order that it relains in sync with the sound negative).
+We are considering black frames that have been generated during the digitisation process, not black frames that have been added in case of a bad film tear during printing (a method used for fixing an image negative, in order that it remains in sync with the sound negative).
 
 ## Can it be fixed?
 
