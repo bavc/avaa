@@ -12,7 +12,7 @@ This is considering black frames that have been generated during the digitisatio
 
 ## Can it be fixed?
 
-If the black frame in the file replaces an actual frame of the film, then no. The black frame can be removed, but the missing frame needs to be re-digitised, othervise the file is not complete.
+If the black frame in the file replaces an actual frame of the film, then no. The black frame can be removed, but the missing frame needs to be re-digitised, otherwise the file is not complete.
 
 When the black frame is added in the file to the actual frames, then yes, it can be removed.
 
