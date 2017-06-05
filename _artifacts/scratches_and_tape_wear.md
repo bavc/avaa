@@ -17,6 +17,10 @@ Iraci cautions that “playing a scratched tape can generate debris from the scr
 
 Loss of magnetic material cannot be physically repaired. The most efficient solution is to replace a scratched or worn tape with a new copy produced from an undamaged, unworn master tape. If a master is not available, the tape may be digitized, and then digital restoration techniques may be employed to alleviate the artifacts.
 
+## Example(s)
+
+<iframe src="https://archive.org/embed/AVAAEIAJTapeWear" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><sub>Example of Tape Wear</sub>
+
 ## References
 
 <sup id="fn1">1. Johannes Gfeller, Agathe Jarczyk, and Joanna Phillips, “Scratches and Tape Wear” in _Compendium of Image Errors in Analogue Video_ (edited by Swiss Institute for Art Research, Zürich: Scheidegger & Spiess, 2012), p.94, videos 46 & 47. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>    
