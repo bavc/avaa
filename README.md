@@ -17,7 +17,7 @@ Please see our [contributor's guide](https://bavc.github.io/avaa/contributors_gu
 
 - Ruby and Bundler
 - [Jekyll](https://jekyllrb.com/) - framework for website
-- [Flex](http://jekyllthemes.org/themes/flex/) -- original inspiration for theme  
+- [Flex](http://jekyllthemes.org/themes/flex/) - original inspiration for theme  
 - [lunr.js](https://lunrjs.com/) - client-side search based on SOLR
 - [Prose.io](http://prose.io) - plug-in for easy GUI-based editing
 - [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro) and [Raleway](https://fonts.google.com/specimen/Raleway) - selected fonts  
