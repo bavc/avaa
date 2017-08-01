@@ -1,21 +1,9 @@
 ---
 layout: post
 title: Pilot Tone
-categories:
-  - audio
-  - video 
-  - film 
-  - analog
-namevar:
-  - Double System Sound
-tags:
-  - Analog
-  - Audio
-  - Video
-  - Film
-  - Open Reel Tape
-  - Hum
-  - Synchronization
+categories: audio video film analog
+namevar: [Double System Sound]
+tags: [Analog, Audio, Video, Film, Open Reel Tape, Hum, Synchronization]
 published: true
 ---
 

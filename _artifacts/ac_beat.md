@@ -1,16 +1,9 @@
 ---
 layout: post
 title: Electrical Ground Loop Interference AC Beat
-namevar:
-  - video hum
+namevar: [Video hum]
 categories: video analog
-tags:
-  - Analog
-  - Audio
-  - Video
-  - Electrical
-  - Cable
-  - Device Error
+tags: [Analog, Audio, Video, Electrical, Cable, Device Error]
 published: true
 ---
 
@@ -27,8 +20,3 @@ If ground loop problems are recorded in the video or audio signal, they are only
 
 <iframe src="https://ia601504.us.archive.org/19/items/ElectricalgroundLoopInterference/ElectronicInterference.mp4" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <sub> An example of a ground loop problem that was recorded onto a 1/2" open reel tape</sub>
-
-
-
-
-

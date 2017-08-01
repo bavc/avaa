@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dot Crawl
-namevar: [Chroma Crawl]
+namevar: [Chroma crawl]
 categories: video analog
 tags: [Analog, Video, Dot Crawl]
 ---

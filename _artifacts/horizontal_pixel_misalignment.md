@@ -2,11 +2,11 @@
 layout: post
 title: Horizontal Pixel Misalignment
 categories: film analog
-tags:
-  - Analog
-  - Film
+tags: [Analog, Film]
 published: true
 ---
+
+[Definition to go here!]
 
 ## Can it be fixed?
 

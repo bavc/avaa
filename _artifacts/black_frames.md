@@ -2,13 +2,11 @@
 layout: post
 title: Black Frames
 categories: film analog
-tags:
-  - Analog
-  - Film
+tags: [Analog, Film]
 published: true
 ---
 
-This is considering black frames that have been generated during the digitisation process, not black frames that have been added in case of a bad film tear during printing (a method used for fixing an image negative, in order that it remains in sync with the sound negative).
+This refers to black frames that have been generated during the digitisation process, not black frames that are present in the physical filmstrip (for example, black frames cut into a film negative in place of a bad tear, a technique used to maintain sync between image and sound negatives).
 
 ## Can it be fixed?
 

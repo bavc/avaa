@@ -3,7 +3,7 @@ layout: post
 title: Ringing
 categories: video analog
 namevar: [Overshoot]
-tags: [Analog, Video, TBC, Cable, Time Base Corrector]
+tags: [Analog, Video, Cable, Time Base Corrector]
 ---
 
 In a general sense, ringing refers to an undesirable oscillation exhibited in a signal. This video artifact is common to recordings created using less sophisticated, early model cameras and VTR equipment (particularly early U-matic equipment). It can be accentuated by over-enhancement or sharpening of the image using processing hardware or CRT monitor controls. When recorded in the signal on tape, it becomes part of the image.

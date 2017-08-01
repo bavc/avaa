@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Clipping
-namevar: [Digital Distortion]
+namevar: [Digital distortion]
 categories: analog audio digital
 tags: [Digital, Audio, Noise, Overs]
 ---

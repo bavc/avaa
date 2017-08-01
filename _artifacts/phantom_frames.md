@@ -2,9 +2,7 @@
 layout: post
 title: Phantom Frames
 categories: film analog
-tags:
-  - Analog
-  - Film
+tags: [Analog, Film]
 published: true
 ---
 
