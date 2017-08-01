@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carrier Leak
-namevar: faulty carrier balance, asymmetric carrier, residual carrier
+namevar: [Faulty carrier balance, Asymmetric carrier, Residual carrier]
 categories: video analog
 tags: [Analog, Video, Device Error]
 ---

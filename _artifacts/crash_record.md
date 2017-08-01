@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crash Record
-namevar: Crash edit, Color Smearing After An Editing Cut
+namevar: [Crash edit, Color smearing after an editing cut]
 categories: video analog
 tags: [Analog, Video, Production Error, Color smearing, Editing cut]
 ---

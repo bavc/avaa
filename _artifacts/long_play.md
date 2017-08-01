@@ -2,7 +2,7 @@
 layout: post
 title: Long Play
 categories: video analog
-tags: [Video, Analog, LP, Long Play, EP, SLP, Operator Error]
+tags: [Video, Analog, LP, Long Play, Operator Error]
 ---
 
 Long Play (LP) mode, available for a variety of video formats (see list below), makes it possible to extend the potential recording time of a tape by lowering the tape speed and changing the angle and proximity of the recorded tracks. For proper playback, a recording made in LP mode must be played back in LP mode.

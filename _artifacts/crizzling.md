@@ -2,9 +2,8 @@
 layout: post
 title: Crizzling
 categories: film analog
-tags:
-  - Analog
-  - Film
+namevar: [Crazing]
+tags: [Analog, Film]
 published: true
 ---
 

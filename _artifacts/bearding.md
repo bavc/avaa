@@ -2,10 +2,7 @@
 layout: post
 title: Bearding
 categories: video analog
-tags:
-  - Analog
-  - Video
-  - Tape Error
+tags: [Analog, Video, Tape Error]
 published: true
 ---
 

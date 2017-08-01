@@ -2,12 +2,7 @@
 layout: post
 title: DV Dropout
 categories: video digital
-tags:
-  - Digital
-  - Video
-  - DV
-  - Dropout
-  - Cleaning
+tags: [Digital, Video, DV, Dropout, Cleaning]
 published: true
 ---
 
