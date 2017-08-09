@@ -12,7 +12,7 @@ Sparkle should not be confused with emulsion damage whereby the emulsion is flak
 
 ## Can it be fixed?
 
-Sparkle can be reduced by cleaning the affected negative using an ultrasonic cleaner, particle transfer rollers, or even by hand-cleaning with a velvet. Rewashing the negative will also help reduce sparkle.
+Sparkle can be reduced by cleaning the affected negative using an ultrasonic cleaner, particle transfer rollers, or even by hand-cleaning with a velvet cloth. Rewashing the negative will also help reduce sparkle.
 
 If you are dealing with a positive film element for which the sparkle is printed-in, its appearance can be reduced or removed by using digital restoration software.
 
