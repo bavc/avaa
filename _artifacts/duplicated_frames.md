@@ -17,4 +17,4 @@ published: true
 
 Two errors in the same clip: missing frame followed by duplicated frame:
 
-<img src="https://avpres.net/missing_duplicated.gif">
+<img src="{{ site.baseurl }}/images/missing_duplicated.gif">
