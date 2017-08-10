@@ -14,4 +14,7 @@ published: true
 
 ## Example(s)
 
-[wanted!]
+
+Two errors in the same clip: missing frame followed by duplicated frame:
+
+<img src="{{ site.baseurl }}/images/missing_duplicated.gif">
