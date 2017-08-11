@@ -6,7 +6,7 @@ tags: [Analog, Film]
 published: true
 ---
 
-[Definition to go here!]
+Missing frames often occur when the triggering of the camera is not correctly timed.
 
 ## Can it be fixed?
 
