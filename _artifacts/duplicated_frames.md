@@ -6,14 +6,13 @@ tags: [Analog, Film]
 published: true
 ---
 
-[Definition to go here!]
+Duplicated frames may occur when the triggering of the camera is not correctly timed.
 
 ## Can it be fixed?
 
-[wanted!]
+Yes, delete one of the duplicated frames.
 
 ## Example(s)
-
 
 Two errors in the same clip: missing frame followed by duplicated frame:
 
