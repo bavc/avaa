@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quadrant Misalignment
+title: Quadrants Misalignment
 categories: film analog
 tags: [Analog, Film]
 published: true
@@ -10,7 +10,7 @@ published: true
 
 ## Can it be fixed?
 
-[wanted!]
+Restart completely the scanner. If the error persists, then contact the manufacturer.
 
 ## Example(s)
 
