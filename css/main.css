@@ -60,12 +60,17 @@ a:hover {
   color: #777;
 }
 
+.posts h4 {
+  line-height: 2.6em;
+}
+
 .posts-list {
   list-style-type: none;
 }
 
 .posts-list li {
   line-height: 1.75em;
+  font-weight: 600;
 }
 
 .artefact-tag,
@@ -84,6 +89,34 @@ a:hover {
 
 }
 
+.search-box {
+  width: 10.9em;
+  padding: 0.50em;;
+  font-size: 1em;
+  border: 1px solid black;
+}
+
+.search-button {
+  border: 1px solid black;
+  background-color: transparent;
+  display: inline-block;
+  width: 12em;
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+.search-button:hover {
+  background-color: rgb(146,66,59);
+  cursor: pointer;
+}
+
+.search-results-header {
+  line-height: 2em;
+}
+
+#search-results {
+  padding-top: 2em;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -228,9 +261,9 @@ a:hover {
 
 .sidebar {
   float: left;
-  width: 14%;
-  padding-left: 11em;
-  padding-right: 2.125em;
+  width: 10%;
+  padding-left: 10em;
+  padding-right: 2em;
   border-right: 1px solid #e7e7e7;
 }
 

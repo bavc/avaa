@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: AV Artifact Atlas
 ---
 <img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg" height="315" width="520"><br>
 
