@@ -119,16 +119,22 @@ For more advice, see this [Github Guide to Mastering Markdown](https://guides.gi
 
 ## Adding a new Artifact {#new}
 
-To add an artifact that is not listed, you must make a new page. New pages should be made in the `_artifacts` directory. The file should be named the same as the title of the artifact and end in `.md` (because it will be a Markdown file). If the artifact is more than one word, use underscores to represent spaces in the title. All artifacts require some specially-formatted text called YAML at the top of the file. Here is an example from the Bearding Artifact (found in `_artifacts/bearding.md`):
+To add an artifact that is not listed, you must make a new page. New pages should be made in the `_artifacts` directory. The file should be named the same as the title of the artifact and end in `.md` (because it will be a Markdown file). If the artifact is more than one word, use underscores to represent spaces in the title. All artifacts require some specially-formatted text called YAML at the top of the file. Here is an example from the Bearding Artifact (found in `_artifacts/muffled_sound.md`):
 
 ```
 ---
 layout: post
-title: Bearding
-categories: video analog
-tags: [Analog, Video, Tape Error]
-published: true
+title: Muffled Sound
+categories: audio analog
+namevar: [Azimuth Error]
+tags: [Audio, Analog, Azimuth, Error, Frequency Loss, Playback Adjustment, Media Failure, Media Damage, Oxide Out]
 ---
 ```
 
-Below this, add a top-level brief description, a `## Definition` section, and a `## Can it be fixed?` section. Add examples if available. See above for more information about editing artifacts, examples, and writing in Markdown.
+Categories should be limited to the following: analog, audio, digital, film, and video. Categories should be written in lowercase and, if using multiple categories, separated by only a space (no commas).
+
+The "namevar" category shows up in search results as "also known as". This is so people can still search for something and find the right artifact. If your new artifact is known by other names, enter them here, separated by commas, in brackets.
+
+Tags are free text and help other users search and find artifacts. Tags should be wrapped in brackets and separated by commas.
+
+Below this, add a top-level brief description, a `## Definition` section, and a `## Can it be fixed?` section. Add examples, if available, in an `## Example(s)` section. See above for more information about editing artifacts, examples, and writing in Markdown.
