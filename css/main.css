@@ -60,12 +60,17 @@ a:hover {
   color: #777;
 }
 
+.posts h4 {
+  line-height: 2.6em;
+}
+
 .posts-list {
   list-style-type: none;
 }
 
 .posts-list li {
   line-height: 1.75em;
+  font-weight: 600;
 }
 
 .artefact-tag,
@@ -82,6 +87,20 @@ a:hover {
   background-color: rgb(221, 221, 221);
   border: 1px solid black;
 
+}
+
+.search-button {
+  border: 1px solid black;
+  background-color: transparent;
+  display: inline-block;
+  padding: 8px;
+  font-size: 1em;
+}
+
+#search_box {
+  width: 14em;
+  padding: 8px;
+  padding-top: 11px;
 }
 
 /*****************************************************************************/
