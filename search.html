@@ -2,12 +2,14 @@
 layout: page
 ---
 
-<h1>Search</h1>
+<h1 class="search-results-header">Search Results</h1>
 
-<form action="{{ site.baseurl }}/search.html" method="get">
-  <input type="text" id="search-box" name="query">
-  <input type="submit" class="search-button" value="search">
-</form>
+<div>
+  <form action="{{ site.baseurl }}/search.html" method="get">
+    <input type="text" id="search-box" class="search-box" name="query">
+    <input type="submit" class="search-button" value="search">
+  </form>
+</div>
 
 <ul id="search-results"></ul>
 

@@ -89,6 +89,12 @@ a:hover {
 
 }
 
+.search-box {
+  width: 8em;
+  padding: 8px;
+  padding-top: 11px;
+}
+
 .search-button {
   border: 1px solid black;
   background-color: transparent;
@@ -97,12 +103,18 @@ a:hover {
   font-size: 1em;
 }
 
-#search_box {
-  width: 14em;
-  padding: 8px;
-  padding-top: 11px;
+.search-button:hover {
+  background-color: rgb(146,66,59);
+  cursor: pointer;
 }
 
+.search-results-header {
+  line-height: 2em;
+}
+
+#search-results {
+  padding-top: 2em;
+}
 /*****************************************************************************/
 /*
 /* Site
@@ -247,9 +259,9 @@ a:hover {
 
 .sidebar {
   float: left;
-  width: 14%;
-  padding-left: 11em;
-  padding-right: 2.125em;
+  width: 10%;
+  padding-left: 10em;
+  padding-right: 2em;
   border-right: 1px solid #e7e7e7;
 }
 
