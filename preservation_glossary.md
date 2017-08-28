@@ -24,7 +24,7 @@ title: AV Preservation Glossary
 
 **Back coat** Optional layer applied to backside of tape substrate layer, useful in reducing tape friction and distortion, as well as dissipating static charge in playback. [See image.](#layers)
 
-**<a id="backi" name="backi"></a>Backing film** Also called substrate. The layer that supports the magnetic layer in a [magnetic tape](#magn), most commonly made of polyehtylene terephthalate (PET). [See image.](#layers)
+**<a id="backi" name="backi"></a>Backing film** Also called substrate. The layer that supports the magnetic layer in a [magnetic tape](#magn), most commonly made of polyethylene terephthalate (PET). [See image.](#layers)
 
 **Baking** A process of gently heating damaged videotape in an oven with controlled relative humidity in order to enable [playback](#play). As magnetic tape deteriorates the [polymer](#poly) of the binder deteriorates by [hydrolysis](#hydr), resulting in what is typically called [sticky shed](#stick). Archivists have reported success in baking tapes that are suffering severe sticky shed; however, to date the scientific research has not been done to explain this. The temperature and humidity of the oven must be tightly controlled, as does the time for which a tape is baked. This process is not recommended except in extreme circumstances, as there is a suggestion that it will ultimately speed up the [deterioration](#dete) of the tape, although it might enable playback for [remastering](#rema). There is unfortunately very little research in this area.
 
@@ -66,7 +66,7 @@ title: AV Preservation Glossary
 
 **Chroma crawl** An [artifact](#arti) of encoded video also known as dot crawl or cross-luminance. Occurs in the video picture around the edges of highly saturated colors as a continuous series of crawling dots and is a result of color information being confused as [luminance](#lumi) information by the decoder circuits.
 
-**Chroma level** A reference to amount of color [saturation](#satu); high level chroma that produces pastel, washed out color; low level chroma produceces heavy, saturated colors. The absence of chroma would result in black and white.
+**Chroma level** A reference to amount of color [saturation](#satu); high level chroma that produces pastel, washed out color; low level chroma produces heavy, saturated colors. The absence of chroma would result in black and white.
 
 **Chroma noise** A condition in which colors appear to be moving on screen. In color areas of picture, chroma noise is usually most noticeable in highly saturated reds.
 
@@ -92,7 +92,7 @@ title: AV Preservation Glossary
 
 **Conservation** The action taken to identify and assess the risks to a work of art, or artifact, from agents of [deterioration](#dete), [format](#form) or technology. It is part of the role of a conservator to identify and, where possible, to mitigate such risks. Where undesirable change has occurred a conservator may explore ways of intervening and treating the work of art or artifact. Decision-making is based on information about the effects of deterioration or change, an understanding of the historical and aesthetic value of that artifact and of the likely effects of any proposed action. Appropriate conservation techniques and treatments are developed in accordance with an agreed professional code of ethics. Conservators have a responsibility to future generations in preserving the historical and aesthetic value of a work. There is much debate around what constitutes "undesirable change." For example, in the case of a video installation, debates around the parameters of acceptable change will focus on whether it is appropriate to substitute different equipment or display technologies as older formats and technologies become obsolete or difficult to maintain. Artists have an important role to play in deciding what is essential to preserve, however conservators also have a responsibility to the historical integrity of the work. Conservation decisions are complex judgements made in consultation with other relevant parties such as the artist, where possible, and the curator or historian. The professional body for conservation in the USA is the American Institute for Conservation (AIC) [http://aic.stanford.edu/](/web/20150928032745/http://aic.stanford.edu/). In for bit, with the original source data, although the processing does introduce the possibility of errors.
 
-A starting point for a conservator is therefore to provide a full description of the work of art or artifact being considered. Conservators are responsible for documenting changes that occur, decisions made about treatment or care and subsequent evaluation of such decisions. The relevant agents of change are dependant on the nature of the work of art or artifact being considered. Different types of artifacts will have different vulnerabilities to change and therefore different vocabularies of risk. For example, in the case of videotape we may be concerned about the impact of environmental factors such as temperature and humidity that increase the rate of deterioration or the obsolescence of a particular
+A starting point for a conservator is therefore to provide a full description of the work of art or artifact being considered. Conservators are responsible for documenting changes that occur, decisions made about treatment or care and subsequent evaluation of such decisions. The relevant agents of change are dependent on the nature of the work of art or artifact being considered. Different types of artifacts will have different vulnerabilities to change and therefore different vocabularies of risk. For example, in the case of videotape we may be concerned about the impact of environmental factors such as temperature and humidity that increase the rate of deterioration or the obsolescence of a particular
 
 The worldwide body for conservation is the International Institute of Conservation (IIC) [http://www.iiconservation.org/](/web/20150928032745/http://www.iiconservation.org/)
 
@@ -102,7 +102,7 @@ The worldwide body for conservation is the International Institute of Conservati
 
 **<a id="crea" name="crea"></a>Crease** A tape deformity, which may cause horizontal or vertical lines in the [playback](#play) picture. See [wrinkle](#wrin).
 
-**Cross-color** A picture defect that appears as spurious rainbow patterns on highly textured objects, such as a striped shirt or a tweed jacket, attributed to the make-up of the [NTSC](#ntsc) signal, whcih mixes high [luminance](#lumi) and [chrominance](#chrom)[composite](#compos) baseband spectrum.
+**Cross-color** A picture defect that appears as spurious rainbow patterns on highly textured objects, such as a striped shirt or a tweed jacket, attributed to the make-up of the [NTSC](#ntsc) signal, which mixes high [luminance](#lumi) and [chrominance](#chrom)[composite](#compos) baseband spectrum.
 
 **Crosslinking** A chemical reaction of [polymers](#poly). Crosslinking will lead to [embrittlement](#embr) when the [binder](#bind) is no longer flexible and the chemical makeup of the binder has changed and tightened. A reaction happens when chemicals within the binder crosslink. Mechanical action of the tape is difficult due to the tightened tape structure.
 
@@ -116,7 +116,7 @@ The worldwide body for conservation is the International Institute of Conservati
 
 **Data** Information transmitted as binary code. In the case of [component video](#compon) each pixel is a vector quantity and includes information for all color components Y', R-Y' and B-Y.' High quality standard definition for a moving color picture requires a data rate of 200 million [bits](#bit) per second.
 
-**Data Compression** A techique that provides for the transmission or storage, without noticeable information loss, of fewer data [bits](#bit) than were originally used when the data was created.
+**Data Compression** A technique that provides for the transmission or storage, without noticeable information loss, of fewer data [bits](#bit) than were originally used when the data was created.
 
 **Decoder** A device used to recover the [component](#compon) signals from a [composite](#compos) (encoded) source. Decoders are used in displays and in various processing hardware where component signals are required from a composite source, such as composite chromakeying of color correction equipment, etc.
 
@@ -132,7 +132,7 @@ The worldwide body for conservation is the International Institute of Conservati
 
 **<a id="dubm" name="dubm"></a>Dubmaster** The copy of a [master](#mast) used for making additional copies.
 
-**<a id="dvd" name="dvd"></a>DVD** Abbreviation for [Digital](#digi) Versatile Disc. There are a number of different types of DVD. At the time of writing these include DVD-R, DVD-Rom, DVD-RAM, DVD+RW, DVD-R/W. DVD is not a suitable [archival](#arch) format for video mainly because it uses a [lossy](#lossy) form of compression - MPEG2\. It is also a format that is likely to see rapid changes in technology and therefore the risk of speedy obsolescence is high. DVDs are made up of a reflective aluminium layer, a polycarbonate [substrate](#subs), a dye layer and a clear lacquer. The aluminium layer is highly susceptible to pollution and the lacquer layer does not sufficiently protect the aluminium layer to prevent oxidation. Where the DVD is double-sided the two sides are bonded using an adhesive. The adhesive have not been subjected to accelerated aging tests by the manufacturers and there is little data on their life expectancy. A DVD is the same diameter as a CD (120cm) but cannot be read by the same equipment. DVD and CD both record data by encoding it as tiny pits in tracks that correspond to the zeros and ones of [binary digits](#bit). The pits are read by laser and played back. DVD is able to store more data by making the pits smaller and the tracks closer together and employing the [compression](#comp) system MPEG II. Many artists use DVD-R as an exhibition format and this has replaced laser disc as a popular display [format](#form) for many museums and galleries. However, because of the way the data is encoded [frame](#frame)-accurate control cannot be achieved by referencing the picture content as it can with laser disc. Where external control is needed for display it is important to be clear of any specific requirements of the control system before having the disc(s) made.
+**<a id="dvd" name="dvd"></a>DVD** Abbreviation for [Digital](#digi) Versatile Disc. There are a number of different types of DVD. At the time of writing these include DVD-R, DVD-Rom, DVD-RAM, DVD+RW, DVD-R/W. DVD is not a suitable [archival](#arch) format for video mainly because it uses a [lossy](#lossy) form of compression - MPEG2\. It is also a format that is likely to see rapid changes in technology and therefore the risk of speedy obsolescence is high. DVDs are made up of a reflective aluminum layer, a polycarbonate [substrate](#subs), a dye layer and a clear lacquer. The aluminum layer is highly susceptible to pollution and the lacquer layer does not sufficiently protect the aluminum layer to prevent oxidation. Where the DVD is double-sided the two sides are bonded using an adhesive. The adhesive have not been subjected to accelerated aging tests by the manufacturers and there is little data on their life expectancy. A DVD is the same diameter as a CD (120cm) but cannot be read by the same equipment. DVD and CD both record data by encoding it as tiny pits in tracks that correspond to the zeros and ones of [binary digits](#bit). The pits are read by laser and played back. DVD is able to store more data by making the pits smaller and the tracks closer together and employing the [compression](#comp) system MPEG II. Many artists use DVD-R as an exhibition format and this has replaced laser disc as a popular display [format](#form) for many museums and galleries. However, because of the way the data is encoded [frame](#frame)-accurate control cannot be achieved by referencing the picture content as it can with laser disc. Where external control is needed for display it is important to be clear of any specific requirements of the control system before having the disc(s) made.
 
 DVD-R discs were introduced in 1997 with the capacity of 3.95 GB and a track pitch of 0.8 microns that later, by reducing the track pitch to 0.74 microns, this was increased to 4.7GB.
 
@@ -176,7 +176,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 <a id="fram" name="fram"></a>**Frame** One complete video picture. A frame contains two video fields, scanned at the [NTSC](#ntsc) rate of 30 frames per second, 525 lines, or the [PAL](#pal) rate of 25 frames per second, 625 lines.
 
-**Frequency** A measurement of an [analog signal](#anal)'s vibration, represented as cycles persecond or Hertz (Hz).
+**Frequency** A measurement of an [analog signal](#anal)'s vibration, represented as cycles per second or Hertz (Hz).
 
 [TOP](#index)
 
@@ -190,7 +190,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 **Generational loss** Degradation cause by tape duplication.
 
-**<a id="ghos" name="ghos"></a>Ghost** A shadowy or weak image in the received picture, offset either to the right or to the left of the primary image, and the result of transmission conditions where secondary [signals](#sign) are created and received earlier or later than the primary signal casued by a reflected RF signal.
+**<a id="ghos" name="ghos"></a>Ghost** A shadowy or weak image in the received picture, offset either to the right or to the left of the primary image, and the result of transmission conditions where secondary [signals](#sign) are created and received earlier or later than the primary signal caused by a reflected RF signal.
 
 **Glitch** A form of low frequency interference, appearing as a narrow horizontal bar moving vertically across the picture.
 
@@ -204,7 +204,7 @@ There are two types of DVD-R discs; "General" and "Authoring". This has caused s
 
 **Head switching** There are two write [heads](#head) mounted on the video head assembly. The write heads are mounted 180 degrees apart. The videotape is wound on the head drum at slightly more than 180 degrees. This allows for a slight overlap in information between the heads. The video head rotates under the tape so that the tape travels at one speed and the video head travels underneath at a much higher speed. The tracks are scanned alternately by the "A" head and the "B" head. Each track corresponds to one field of the interlaced video [signal](#sign).
 
-During the [playback](#play) of the tape, the video heads are timed to avoid double playing the redundant region. The video head switching pulse falls in the "blacker than black" area below the bottom of the television. However, it can be seen by adjusting the vertical hold control so that the vertical sync pulse moves into the viewing area. Any picture disturbance during the head switch over should be hidden by the vertical over-scanning on a TV or monitor. The head drum and capston drive form a very precise control system known as a servo. Poor servo tension can cause a large switching error that is visible in the picture.
+During the [playback](#play) of the tape, the video heads are timed to avoid double playing the redundant region. The video head switching pulse falls in the "blacker than black" area below the bottom of the television. However, it can be seen by adjusting the vertical hold control so that the vertical sync pulse moves into the viewing area. Any picture disturbance during the head switch over should be hidden by the vertical over-scanning on a TV or monitor. The head drum and capstan drive form a very precise control system known as a servo. Poor servo tension can cause a large switching error that is visible in the picture.
 
 **<a id="heli" name="heli"></a>Helical scan** A method of recording video information on a tape resulting in recorded parallel tracks that run diagonally across the tape from one edge to the other.
 
@@ -231,7 +231,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **Laser disc** A form of optical media that, unlike [DVD](#dvd), stores video as a [composite](#compos) analog signal. The laser disc was first introduced by Philips and MCA in 1972, and has been on the market since 1978\. Laser discs can be glass or plastic. There are essentially two types of laser disc: those mastered for constant linear velocity (CLV) and those mastered for constant angular velocity (CAV). CAV store approximately 30 minutes of video, can be controlled in a [frame](#frame)-accurate way and can be still framed. CLV discs can store approximately one hour of video but cannot be controlled frame-accurately and cannot be still-framed. Once a popular display [format](#vidf) for many artists, the laser disc has now largely been superseded by DVD. Laser discs could not handle saturated areas of color, and would produce artifacts appearing as herring bone patterns. CAV discs did, however, have the advantage of frame-accurate external control.
 
-**LTC** (Longitudinal Time Code) Another expression for the [SMPTE](#smpt) time code signal recorded onto the third audio track of a videocasstte tape.
+**LTC** (Longitudinal Time Code) Another expression for the [SMPTE](#smpt) time code signal recorded onto the third audio track of a videocassette tape.
 
 <a id="lubr" name="lubr"></a>**Lubricant loss** The loss of a component added to the magnetic layer of a tape to decrease the friction between the [head](#head) and the tape.[See image.](#layers)
 
@@ -251,7 +251,7 @@ During the [playback](#play) of the tape, the video heads are timed to avoid dou
 
 **<a id="mast" name="mast"></a>Master** The earliest generation of a finished tape that should also be of the best quality. Masters should not be used as [exhibition tapes](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#exhi), i.e., not for repeated [playback](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/gloss.htm#play). See also [dubmaster.](#dubm)
 
-**<a id="rema" name="rema"></a>Migration, re-mastering, transferring** Terms used interchangably to refer to the process of copying the content of an existing videotape to new media.
+**<a id="rema" name="rema"></a>Migration, re-mastering, transferring** Terms used interchangeably to refer to the process of copying the content of an existing videotape to new media.
 
 **Mistracking** The phenomenon that occurs when the path followed by the read [head](#head) of the recorder does not correspond to the location of the recorded [track](#track) on the magnetic tape. Mistracking can occur both <span style="text-decoration: underline;">[longitudinal](#long)</span> and <span style="text-decoration: underline;">[helical scan](#heli)</span> [](#heli) recording systems. The read head must capture a given percentage of the track in order to produce a [signal](#sign) for [playback](#play).
 
@@ -264,7 +264,7 @@ frequencies.
 
 **Noise** Any unwanted [signal](#sign) present in the total signal.
 
-**Nondrop Frame Time Code** ([NTSC](#ntsc)) [SMPTE](#smpt) time code format that continiously counts a full 30 [frames](#frame) per second. Because NTSC video does not operate at exactly 30 frames per second, nondrop frame time code will count 108 more frames in one hour than actually occur in the NTSC video in one hour. The result is incorrect synchronization of time code with clock time. Drop frame time code solves this problem by skipping or dropping 2 frame numbers per minute, except at the tens of the minute count.
+**Nondrop Frame Time Code** ([NTSC](#ntsc)) [SMPTE](#smpt) time code format that continuously counts a full 30 [frames](#frame) per second. Because NTSC video does not operate at exactly 30 frames per second, nondrop frame time code will count 108 more frames in one hour than actually occur in the NTSC video in one hour. The result is incorrect synchronization of time code with clock time. Drop frame time code solves this problem by skipping or dropping 2 frame numbers per minute, except at the tens of the minute count.
 
 **Noninterlaced** The process of scanning whereby every line in the picture is scanned during the vertical sweep. See [interlaced](#inte).
 
@@ -312,7 +312,7 @@ frequencies.
 
 ### **<a id="r" name="r"></a>R**
 
-**Remastering, migration, transferring** Terms used interchangably to refer to the process of copying the content of an existing videotape to new media.
+**Remastering, migration, transferring** Terms used interchangeably to refer to the process of copying the content of an existing videotape to new media.
 
 **Resolution** A measure of the ability of a camera or television system to reproduce detail (the number of picture elements that can be produced with good definition).
 
@@ -352,7 +352,7 @@ frequencies.
 
 **<a id="sque" name="sque"></a>Squeal** Undesirable audio effect that is typically caused by a build up of debris on a guide or <span style="text-decoration: underline;">[head](#head)</span>. Sometimes a cleaning of the offending surface will eliminate the squeal. Squeal is also caused by the tape having poor [lubrication](#lubr) or losing its lubrication with age. A solution is to overcoat a tape with a lubricant solution, which will eliminate the squeal so a copy can be made.
 
-**<a id="stan" name="stan"></a>Standards** A set of common guidelines such as for recording and playback processes,physical media and storage, which have been developed by the following commitees:
+**<a id="stan" name="stan"></a>Standards** A set of common guidelines such as for recording and playback processes,physical media and storage, which have been developed by the following committees:
 
 **AIIM** - [Association for Information and Image Management](/web/20150928032745/http://www.aiim.org/article_aiim.asp?ID=18274)
 
@@ -374,9 +374,9 @@ frequencies.
 
 **<a id="stickt" name="stickt"></a>Sticky tape** Tape characterized by a soft, gummy, or tacky tape surface; tape that has experienced a significant level of [hydrolysis](#hydr) so that the magnetic coating is softer than normal; tape characterized by resinous or oily deposits on the surface of the magnetic tape. [See image.](#layers)
 
-**<a id="subc" name="subc"></a>Subcarrier** The basic signal in all [NTSC](#ntsc) sync signals. It is a continous sine wave, usually generated and distributed at 2V in an amplitude, and having a frequency of 3.579545MHz. Subcarrier is usually divided down from a primary crystal running at 14.318180MHz, and that divided by 4 is 3.579545\. All other synchronizing signals are directly divided down from the subcarrier. Color subcarrier is the 3.58 MHz [signal](#sign) that carries color information. This signal is superimposed on the luminance level. Amplitude of the color subcarrier represents saturation, and [phase](#phas) angle represents [hue](#hue).
+**<a id="subc" name="subc"></a>Subcarrier** The basic signal in all [NTSC](#ntsc) sync signals. It is a continuous sine wave, usually generated and distributed at 2V in an amplitude, and having a frequency of 3.579545MHz. Subcarrier is usually divided down from a primary crystal running at 14.318180MHz, and that divided by 4 is 3.579545\. All other synchronizing signals are directly divided down from the subcarrier. Color subcarrier is the 3.58 MHz [signal](#sign) that carries color information. This signal is superimposed on the luminance level. Amplitude of the color subcarrier represents saturation, and [phase](#phas) angle represents [hue](#hue).
 
-**<a id="su" name="su"></a>Substrate** An alternate term for [backing film](#backf). The layer that supports the [magnetic](#magnp) layer in a magnetic tape, most commonly made of polyehtylene terephthalate (PET). [See image.](#layers)
+**<a id="su" name="su"></a>Substrate** An alternate term for [backing film](#backf). The layer that supports the [magnetic](#magnp) layer in a magnetic tape, most commonly made of polyethylene terephthalate (PET). [See image.](#layers)
 
 **<a id="sync" name="sync"></a>Sync** (abbreviation for synchronous) The portion of an encoded video [signal](#signal) that occurs during [blanking](#blank) and is used to synchronize the operation of cameras, monitors and other equipment. Horizontal sync occurs within the blanking period in each horizontal [scanning](#scan) line and vertical sync occurs within the vertical blanking period. In video, sync is an essential element for maintaining the proper clocking of video signals. [TOP
 ](#index)
@@ -407,7 +407,7 @@ Transferring, **migration, re-mastering**
 
 Videotape[See image.](#layers)
 
-**<a id="vidf" name="vidf"></a>Videotape formats** Recording [formats](#vidf). Current video tape formats include C, U-MAtic, Betacam, M, Betcam SP, Mll, D1, D2, video to Terms used interchangably to refer to the process of copying the content of an existing videotape to new media. Oxide-coated plastic-based magnetic tape used for recording video and audio signals. that differ in magnetic patterns of information, but rely on the same fundamental process of recording image and sound on magnetic tape. A particular format needs its own playback machine that is able that to read the magnetic pattern.There are several characteristics that distinguish one format from another, such as the type of recorded signal, tape speed, width and placement of the video tracks and audio tracks. After 1970 the EAIJ standard was accomplished. The VHS (video home system) 1/2" consumer videotape format is one example. Since 1956, approximately 50 formats have been introduced world wide. For examples, see the resources [Hardware](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/hardware.htm) section. D3, D5, Digital Betacam, Beta, VHS, Hi-*, 8mm, S-VHS, DVC Pro and DVcam.
+**<a id="vidf" name="vidf"></a>Videotape formats** Recording [formats](#vidf). Current video tape formats include C, U-matic, Betacam, M, Betcam SP, Mll, D1, D2, video to Terms used interchangeably to refer to the process of copying the content of an existing videotape to new media. Oxide-coated plastic-based magnetic tape used for recording video and audio signals. that differ in magnetic patterns of information, but rely on the same fundamental process of recording image and sound on magnetic tape. A particular format needs its own playback machine that is able that to read the magnetic pattern.There are several characteristics that distinguish one format from another, such as the type of recorded signal, tape speed, width and placement of the video tracks and audio tracks. After 1970 the EAIJ standard was accomplished. The VHS (video home system) 1/2" consumer videotape format is one example. Since 1956, approximately 50 formats have been introduced world wide. For examples, see the resources [Hardware](/web/20150928032745/http://www.bavc.org/preservation/dvd/resources/hardware.htm) section. D3, D5, Digital Betacam, Beta, VHS, Hi-*, 8mm, S-VHS, DVC Pro and DVcam.
 
 **<a id="pres" name="pres"></a>Video preservation** An archival system that ensures the survival in perpetuity of the program content according to the highest technical standards reasonably available. There are three major facets of video preservation: (1) safeguarding the recording under secure and favorable storage conditions, (2) providing for its proper restoration and periodic transfer to modern formats before the original or next generation copy is no longer technologically supportable, and (3) continuing protective maintenance of at least a master and a copy, physically separated in storage, preferably in different geographic locations. (From the National Film Preservation Board's [Television/Video Preservation Study: Volume 1: Report 1997](https://www.loc.gov/programs/static/national-film-preservation-board/documents/tvstudy.pdf).
 
