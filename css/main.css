@@ -319,3 +319,9 @@ button {
 #also li {
   padding-left:33px;
 }
+
+.gallery {
+  max-width: 200px;
+  padding: 20px;
+  float: left;
+}
