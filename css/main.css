@@ -90,16 +90,18 @@ a:hover {
 }
 
 .search-box {
-  width: 8em;
-  padding: 8px;
-  padding-top: 11px;
+  width: 10.9em;
+  padding: 0.50em;;
+  font-size: 1em;
+  border: 1px solid black;
 }
 
 .search-button {
   border: 1px solid black;
   background-color: transparent;
   display: inline-block;
-  padding: 8px;
+  width: 12em;
+  padding: 0.5em;
   font-size: 1em;
 }
 
