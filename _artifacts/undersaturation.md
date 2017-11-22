@@ -2,7 +2,7 @@
 layout: post
 title: Undersaturation
 categories: video analog
-tags: [Analog, Video, Undersaturation, Chrominance]
+tags: [Analog, Video, Undersaturation, Chrominance, Common Artifacts]
 ---
 
 The video signal is undersaturated when chrominance amplitude is restricted to values under reference standard level (i.e., 75% SMPTE color bars), causing colors to appear washed out and unnaturally pale. Undersaturation can be difficult to identify because video is sometimes intentionally given a desaturated "look" during post-production treatment or finishing. However, raw camera footage should always be appropriately saturated and calibrated to reference color bars, if available, unless otherwise stated in production notes.
