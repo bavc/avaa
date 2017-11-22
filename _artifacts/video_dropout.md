@@ -2,7 +2,7 @@
 layout: post
 title: Video Dropout
 categories: video analog
-tags: [Analog, Video, Dropout]
+tags: [Analog, Video, Dropout, Common Artifacts]
 ---
 
 <img src="{{ site.baseurl }}/images/708px-DropoutDrawing.png">
