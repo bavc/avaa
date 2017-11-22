@@ -2,7 +2,7 @@
 layout: post
 title: Analog Noise
 categories: audio analog
-tags: [Analog, Audio, Noise, Magnetic Tape, Cassette]
+tags: [Analog, Audio, Noise, Magnetic Tape, Cassette, Common Artifacts]
 ---
 
 Noise can be defined as any unwanted sound that is not related to the wanted sound. If it is related, it is called [Analog Distortion]({{ site.baseurl }}/artifacts/analog_distortion.html). Noise is defined as a wideband addition to a signal by any electronic or mechanical component.<sup><a href="#fn1" id="ref1">1</a></sup> There are many things that add noise to a signal, and there is no such thing as a noise free signal. In addition to noise introduced by the analog deck, the size of the tape’s own magnetic particles can cause what is called “tape hiss.”
