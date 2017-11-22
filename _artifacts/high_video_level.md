@@ -13,6 +13,8 @@ Yes, this is correctable through retransfer and adjustment of the VTR output usi
 
 ## Example(s)
 
+<iframe src="https://archive.org/embed/AVAAEIAJClippedLuma" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe> <sub>High video level as seen in half-inch open reel video recording.</sub>
+
 <img src="{{ site.baseurl }}/images/VideoIsHigh_Waveform_flat_v1.jpg"/>  
 <sub>This waveform shows severe clipping</sub>
 
