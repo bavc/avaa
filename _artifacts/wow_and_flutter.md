@@ -17,31 +17,7 @@ Wow and flutter describes speed irregularities that are heard as garbled or warb
 
 ## Examples
 
-<div id="theatre-ia-wrap" class="container container-ia width-max ">
-      <link itemprop="url" href="https://archive.org/details/AVAAFlutter">
+Flutter
+<iframe src="https://archive.org/embed/AVAAFlutter" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-          <link itemprop="thumbnailUrl" href="https://archive.org/download/AVAAFlutter/AVAA_Flutter.png">
-    
-            <link itemprop="contentUrl" href="https://archive.org/download/AVAAFlutter/AVAA_Flutter.ogg">
-    <link itemprop="embedUrl" href="https://archive.org/embed/AVAAFlutter/AVAA_Flutter.mp3">
-    <meta itemprop="duration" content="PT0M20S">
-    
-
-
-  <h1 class="sr-only">Audio Flutter</h1>
-  <h2 class="sr-only">Audio Preview</h2>
-
-  <div id="theatre-ia" class="container">
-    <div class="row">
-      <div class="xs-col-12">
-
-        <div id="theatre-controls">
-
-<a href="#" onclick="return AJS.flash_click(0)"><div data-toggle="tooltip" data-container="body" data-placement="left" class="iconochive-flash" title="Click to have player try flash first, then HTML5 second"></div></a>
-
-<a href="#" onclick="return AJS.mute_click()"><div data-toggle="tooltip" data-container="body" data-placement="left" class="iconochive-unmute"  title="sound is on.  click to mute sound."></div>
-
-</a>
-  <a href="#" onclick="return AJS.mute_click()"><div data-toggle="tooltip" data-container="body" data-placement="left" class="iconochive-mute" style="display:none" title="sound is off.  click for sound."></div></a>
-
-</div><!--/#theatre-controls-->
+Wow 
