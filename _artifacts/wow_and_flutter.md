@@ -17,4 +17,4 @@ Wow and flutter describes speed irregularities that are heard as garbled or warb
 
 ## Examples
 
-<iframe src="https://archive.org/embed/AVAAFlutter&playlist=1&list_height=150" width="500" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://archive.org/embed/AVAAFlutter&playlist=1&list_height=150" width="500" height="400" frameborder="1" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
