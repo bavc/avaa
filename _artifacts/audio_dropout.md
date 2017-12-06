@@ -13,6 +13,6 @@ Dropouts can often be reduced, but they can be difficult to eliminate during pla
 
 ## Example(s)
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/96915790&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-<sub>Dropout heard in 1/4" open reel audio</sub>
+<iframe src="https://archive.org/embed/AVAAAudioDropout" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<sub>Visualization of an audio dropout from 1/4" open reel audio. It can be seen as the visual spike around 9 seconds in. </sub>
