@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Noise Reduction
-categories: video analog
+categories: audio analog
 namevar: [Dolby, dbx, Compander]
 tags: [Analog,Audio,Cassette,Noise,Open Reel Tape]
 ---
