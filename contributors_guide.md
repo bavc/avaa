@@ -53,7 +53,7 @@ Have an artifact that you can't identify and would like the opinion of the commu
 - Log in (if not already logged in)
 - Click on edit file button (pencil icon above text)
 - Preview results
-- File out the "Commit Changes" box at the bottom of the page and choose "create a new branch and start a pull request"
+- Fill out the "Commit Changes" box at the bottom of the page and choose "create a new branch and start a pull request"
 
 (Note: you can also just go straight to the <a href="https://github.com/bavc/avaa/tree/master/_artifacts">artifacts directory</a>.)
 
