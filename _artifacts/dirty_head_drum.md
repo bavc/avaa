@@ -13,5 +13,5 @@ Cleaning the tape path of your VTR and cleaning the media may help reduce this a
 
 ## Example(s)
 
-<iframe src="https://archive.org/details/DirtyHeadDrum" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
+<iframe src="https://archive.org/embed/DirtyHeadDrum" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
 <sub>This example shows a dirty head drum error on a U-matic tape. The error is visible across the antire frame, and appears right under David Hockney's chin.</sub>
