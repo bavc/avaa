@@ -23,4 +23,4 @@ Image lag is not a fixable artifact, but rather a result of the inherent limits 
 
 ## References
 
-<sup id="fn1">1. A. M. Drake, “4.5 Vidicon” in _Television and Video Engineering_ (McGraw Hill Education, 2013), 61. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
+<sup id="fn1">1. A. M. Dhake, “4.5 Vidicon” in _Television and Video Engineering_ (McGraw Hill Education, 2013), 61. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>  
