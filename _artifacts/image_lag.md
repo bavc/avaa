@@ -12,7 +12,7 @@ Image lag occurs in video recorded or displayed using certain types of pick-up d
 
 In instances where comet tails or luma trails are visible, the visual artifact is sometimes referred to as "ghost" or "ghosting." [Ghost]({{ site.baseurl }}/artifacts/ghost.html) also refers to an artifact of video transmission when there is a difference in primary and secondary radio frequency signals.
 
-Aside from causing Image Lag, issues with Vidicon tubes can also caused bright portions of the image to appear as white blobs which are sometimes larger than the original bright object or light source. This artifact is referred to as "Luminance Blooming", and it is often seen conjunction with Image Lag
+Aside from causing Image Lag, issues with Vidicon tubes can also caused bright portions of the image to appear as white blobs which are sometimes larger than the original bright object or light source. This artifact is referred to as "Luminance Blooming", and it is often seen conjunction with Image Lag.
 
 ## Can it be fixed?
 
