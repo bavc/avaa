@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scratches and Tape Wear
+title: Damage, Scratches and Tape Wear
 categories: video analog
 tags: [Analog, Video, Audio, Abrasion, Gouging, Media Damage, Tape Error, Common Artifacts]
 ---
@@ -18,6 +18,8 @@ Iraci cautions that “playing a scratched tape can generate debris from the scr
 Loss of magnetic material cannot be physically repaired. The most efficient solution is to replace a scratched or worn tape with a new copy produced from an undamaged, unworn master tape. If a master is not available, the tape may be digitized, and then digital restoration techniques may be employed to alleviate the artifacts.
 
 ## Example(s)
+
+<iframe src="https://archive.org/embed/TapeDamage01" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><sub>Example of Moderate Tape Damage. This portion of the tape is crinkled, and the folds of the tape can hold dirt that contaminate the head. This mix of the dirt contamination and tape deformation can cause severe video signal errors</sub>
 
 <iframe src="https://archive.org/embed/AVAAEIAJTapeWear" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><sub>Example of Tape Wear</sub>
 
