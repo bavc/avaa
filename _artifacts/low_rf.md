@@ -11,3 +11,12 @@ This term describes a low level off-tape signal. This can be due to a poorly mad
 
 If oxide build-up on the tape heads is causing this issue, then yes, cleaning the heads should help. If the source media itself has been exposed to a strong magnetic field (unshielded speakers, motors, high-voltage transformers, etc.) that has caused RF to drop, then there is no remedy for this problem.
 
+## Example(s)
+
+Images below illustrate the difference between a 'normal' RF envelope, a partial head clog (right side of waveform indicating initial head clog) and full head clog. This example is caused by sticky-shed syndrome and oxide particles clogging the video heads.
+
+<img src="http://erikpiil.com/assets/img/normalrf1.jpg"><img src="http://erikpiil.com/assets/img/rf_partialheadclog1.jpg"><img src="http://erikpiil.com/assets/img/rf_fullheadclog1.jpg">
+
+## References
+
+<sup id="fn1">1. Erik Piil, _["RF, A Scope for Video Preservation"](http://erikpiil.com/2014/07/14/rf-a-scope-for-video-preservation.html)_ Erikpiil.com, 2014</sup>
