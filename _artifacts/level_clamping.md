@@ -3,12 +3,12 @@ layout: post
 title: Level Clamping
 categories: video analog
 namevar: [clipping, legalizing]
-tags: [Video, Transfer Artifact, Station Qualification]
+tags: [Video, Transfer Artifact, Station Qualification, Digitization, Levels, Waveform]
 ---
 
-_Level Clamping_ Refers to video waveform levels being chopped off at the top or bottom of the waveform.
+_Level Clamping_ refers to video waveform levels being chopped off at the top or bottom of the waveform.
 
-_Level Legalizing_ Refers specifically to levels being clamped to fit within broadcast range, which is defined as:
+_Level Legalizing_ refers specifically to levels being clamped to fit within broadcast range, which is defined as:
 
 * In IRE
   - Black @ 0 IRE
@@ -47,4 +47,4 @@ Below is what SMPTE bars look like clamped to broadcast range. Note that the top
 Here is a list of equipment that is known to clamp video signals
 
 * Blackmagic Design Mini Converter Analog to SDI
-* Blackmagic Decklink 4K Extreme after upgrade from firmware version 10.8.1 to 10.8.2 
+* Blackmagic Decklink 4K Extreme after upgrade from firmware version 10.8.1 to 10.8.2
