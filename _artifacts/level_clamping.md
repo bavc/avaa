@@ -32,7 +32,7 @@ As mentioned above, any information lost due to clamping or legalizing cannot be
 
 ## Example(s)
 
-Below is what SMPTE bars look like normally. Not how there is video signal above 100 IRE and below 0 IRE
+Below is what SMPTE bars look like normally. Note how there is video signal above 100 IRE and below 0 IRE
 
 <img src="{{ site.baseurl }}/images/levelclamping_notclamped.jpg">
 
