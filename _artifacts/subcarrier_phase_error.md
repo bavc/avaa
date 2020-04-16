@@ -20,7 +20,7 @@ If the phase error is consistent across the tape then this error is correctable 
 <img src="{{ site.baseurl }}/images/PhaseErrorCorrected_Flat.jpg">
 
 <iframe src="https://archive.org/embed/pal-phase-error" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<sub>This PAL Phase Error is caused by an unknown issue<sub>
+<sub>This PAL Phase Error is caused by an unknown issue. Issue courtesy of Shai Drori<sub>
 
 ## References
 

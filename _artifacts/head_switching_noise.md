@@ -2,14 +2,14 @@
 layout: post
 title: Head Switching Noise
 categories: video analog
-tags: [Analog, Video, Noise, Device Error, Tape Error]
+tags: [Analog, Video, Noise, Device Error, Tape Error, Servo]
 ---
 
 Head switching noise is commonly seen at the bottom of video display during VHS playback. Although it occurs in other formats, it is often masked depending on the processing features and calibration of the playback VTR. During playback of videotape, video heads are turned on as they pass over the media and then turned off to prevent the display of noise that would be output when they are not in contact with the tape. Head switching noise is a result of that switching interval, and it occurs prior to the start of vertical sync. This artifact is not viewable in overscan on a broadcast monitor, but it is viewable in underscan and in full-raster digitized video and un-cropped digital derivatives. Some VTRs feature "SWP masking", which effectively masks the lines created during head switching with video black.
 
 Some tapes have more severe head switching noise, where the error bounces up and down. In particularly bad tapes this error will go high enough to be visible in the title safe area, or even throughout the entire image. This level of the error can be seen in the second example on this page. Here is a quote from David Crosthwait on the topic.
 
->The unstable switch line is recorded that way on that tape due to an unstable servo when that tape was recorded. If you slo-motion that tape, you will see that the switch line is floating even in slo-mo. Thus this confirms that the head switch was defectively recorded. An unstable record servo can be blamed on a machine problem with a tape issue or unstable sync coming from the camera. On battery operated decks, it can be traced to unstable battery power.
+>*The unstable switch line is recorded that way on that tape due to an unstable servo when that tape was recorded. If you slo-motion that tape, you will see that the switch line is floating even in slo-mo. Thus this confirms that the head switch was defectively recorded. An unstable record servo can be blamed on a machine problem with a tape issue or unstable sync coming from the camera. On battery operated decks, it can be traced to unstable battery power.*
 
 ## Can it be fixed?
 
