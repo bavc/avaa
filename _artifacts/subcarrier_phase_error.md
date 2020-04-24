@@ -9,7 +9,7 @@ tags: [Analog, Video, Phase, Hue, Operator Error, Device Error, Common Artifacts
 
 ## Can it be fixed?
 
-Yes, this is correctable through retransfer and adjustment of the VTR output using a processing amplifier to make a hue adjustment. If there is inconsistent hue across the video image, the source video signal may have had a poor or damaged subcarrier reference during original recording to tape.
+If the phase error is consistent across the tape then this error is correctable through retransfer and adjustment of the VTR output using a processing amplifier to make a hue adjustment. If there is inconsistent hue across the video image, the source video signal may have had a poor or damaged subcarrier reference during original recording to tape. In the example below labeled "PAL Phase Error" you can see the phase flipping 180 degrees quickly throughout the entire clip. The cause of this error is still unknown, but it cannot be fixed with proc amp settings.
 
 ## Example(s)
 
@@ -18,6 +18,9 @@ Yes, this is correctable through retransfer and adjustment of the VTR output usi
 <sub>The image above has an obvious unnatural green hue. After adjustment (below), the flesh tones are more natural.</sub>
 
 <img src="{{ site.baseurl }}/images/PhaseErrorCorrected_Flat.jpg">
+
+<iframe src="https://archive.org/embed/pal-phase-error" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<sub>This PAL Phase Error is caused by an unknown issue. Issue courtesy of Shai Drori<sub>
 
 ## References
 
