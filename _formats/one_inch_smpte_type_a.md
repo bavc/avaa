@@ -7,6 +7,6 @@ tags: [Analog, Video]
 published: true
 ---
 
-Dates in use: 1965-present
+Dates in use: 1965-(?)
 
 See more information on [Wikipedia](https://en.wikipedia.org/wiki/Type_A_videotape)
