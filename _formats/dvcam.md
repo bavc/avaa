@@ -1,8 +1,14 @@
 ---
 layout: format
-title: TODO
+title: DVCAM
 namevar: []
-categories: 
-tags: []
+categories: video digital
+tags: [Digital, Video]
 published: true
 ---
+
+Dates in use: 1995-present
+
+DV Family
+
+See more information on [Wikipedia](https://en.wikipedia.org/wiki/DV#DVCAM)
