@@ -9,4 +9,4 @@ published: true
 
 Dates in use: 1993-present
 
-See more information on [Wikipedia](https://de.wikipedia.org/wiki/Digital_Betacam)
+See more information on [Wikipedia](https://en.wikipedia.org/wiki/Betacam#Digital_Betacam)
