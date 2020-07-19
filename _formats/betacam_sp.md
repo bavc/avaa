@@ -1,6 +1,6 @@
 ---
 layout: format
-title: betacam sp
+title: Betacam SP
 namevar: [betacam super performance]
 categories: video analog
 tags: [Analog, Video]
