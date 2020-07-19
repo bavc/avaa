@@ -1,8 +1,12 @@
 ---
 layout: format
-title: TODO
-namevar: []
-categories: 
-tags: []
+title: 3/4" U-matic
+namevar: [3/4 inch U-matic, Umatic]
+categories: video analog
+tags: [Analog, Video]
 published: true
 ---
+
+Dates in use: 1971-1990s
+
+See more information on [Wikipedia](https://en.wikipedia.org/wiki/U-matic)
