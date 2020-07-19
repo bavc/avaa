@@ -3,7 +3,8 @@ layout: page
 title: Formats
 ---
   <ul>
-   {% for format in site.formats %}
+    {% assign alphabeticalFormats = site.formats | sort: 'title' %}
+   {% for format in alphabeticalFormats %}
      <li><h3>
        <a href="{{ site.baseurl }}{{ format.url }}">
        {{ format.title }}
