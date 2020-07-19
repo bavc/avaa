@@ -1,6 +1,6 @@
 ---
 layout: format
-title: 1-inch Type C
+title: 1" Type C
 namevar: [1-inch, 1-inch SMPTE Type C]
 categories: video analog
 tags: [Analog, Video]

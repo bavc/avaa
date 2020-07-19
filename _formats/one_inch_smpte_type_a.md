@@ -1,6 +1,6 @@
 ---
 layout: format
-title: 1-inch Type A
+title: 1" Type A
 namevar: [1-inch SMPTE Type A]
 categories: video analog
 tags: [Analog, Video]
