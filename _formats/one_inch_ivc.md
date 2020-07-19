@@ -7,4 +7,4 @@ tags: [Analog, Video]
 published: true
 ---
 
-Another example of a format
+Dates in use: 1967-(?)

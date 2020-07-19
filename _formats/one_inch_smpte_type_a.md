@@ -1,8 +1,12 @@
 ---
 layout: format
-title: TODO
-namevar: []
-categories: 
-tags: []
+title: 1-inch Type A
+namevar: [1-inch SMPTE Type A]
+categories: video analog
+tags: [Analog, Video]
 published: true
 ---
+
+Dates in use: 1965-present
+
+See more information on [Wikipedia](https://en.wikipedia.org/wiki/Type_A_videotape)
