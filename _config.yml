@@ -8,6 +8,8 @@ url: http://bavc.github.io
 collections: 
   artifacts:
     output: true
+  formats:
+    output: true
 prose:
   rooturl: '_artifacts'
   siteurl: 'http://bavc.github.io/avaa/'

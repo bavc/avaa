@@ -1,0 +1,14 @@
+---
+layout: page
+title: Formats
+---
+  <ul>
+   {% for format in site.formats %}
+     <li><h3>
+       <a href="{{ site.baseurl }}{{ format.url }}">
+       {{ format.title }}
+       </a></h3>
+     </li>
+   {% endfor %}
+  </ul>
+
