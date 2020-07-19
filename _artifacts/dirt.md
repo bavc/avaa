@@ -3,6 +3,7 @@ layout: post
 title: Dirt
 categories: film analog
 tags: [Analog, Film]
+formats: [8mm, 16mm]
 published: true
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: DV Quilting
 categories: video digital
 tags: [Digital, Video, Quilting, Discrete Cosine Transform, Error, DV]
+formats: [DV]
 published: true
 ---
 

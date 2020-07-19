@@ -3,7 +3,7 @@ layout: post
 title: Bearding
 categories: video analog
 tags: [Analog, Video, Tape Error]
-formats: [VHS]
+formats: [VHS, 1/2" Open Reel, S-VHS]
 published: true
 ---
 
