@@ -1,7 +1,7 @@
 ---
 layout: format
 title: Betacam
-namevar: [Beta]
+namevar: []
 categories: video analog
 tags: [Analog, Video]
 published: true
