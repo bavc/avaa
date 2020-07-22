@@ -1,7 +1,7 @@
 ---
 layout: format
 title: 3/4" U-matic
-namevar: [3/4 inch U-matic, Umatic]
+namevar: [3/4 inch U-matic, 3/4 inch U-matic SP, Umatic]
 categories: video analog
 tags: [Analog, Video]
 published: true

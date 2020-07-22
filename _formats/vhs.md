@@ -1,17 +1,23 @@
 ---
 layout: format
 title: VHS
-namevar: [Video Home System]
+namevar: [Video Home System, S-VHS, Super Video Home System, Super VHS]]
 categories: video analog
 tags: [Analog, Video]
 published: true
 ---
 
-VHS is a very cool format.
+VHS is a consumer-level analog video format on magnetic media tape cassettes.
 
 See more information on [Wikipedia](https://en.wikipedia.org/wiki/VHS)
 
-This is where we can loop through and show which a/v artifacts are related to this format.
+# VHS
 
+
+# S-VHS
+
+S-VHS is an extension of the VHS format.
+
+See more information on [Wikipedia](https://en.wikipedia.org/wiki/S-VHS)
 
 
