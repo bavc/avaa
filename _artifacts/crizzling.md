@@ -4,7 +4,7 @@ title: Crizzling
 categories: film analog
 namevar: [Crazing]
 tags: [Analog, Film]
-formats: [8mm, 16mm]
+formats: [Film]
 published: true
 ---
 
