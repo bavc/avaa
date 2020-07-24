@@ -3,7 +3,7 @@ layout: post
 title: Phantom Frames
 categories: film analog
 tags: [Analog, Film]
-published: true
+formats: [Film]
 ---
 
 A phantom frame is a very dark frame. One can hardly recognise more than the perforation, when an overscan is done. This happens when the light flash is not properly synchronised with reading the sensor's data, and is not the same than a black frame.

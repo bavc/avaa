@@ -4,6 +4,7 @@ title: Colour Shift
 categories: film analog
 namevar: [Dye fade, Magenta]
 tags: [Analog, Film, Color]
+formats: [Film]
 published: true
 ---
 

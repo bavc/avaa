@@ -3,7 +3,9 @@ layout: post
 title: DV Dropout
 categories: video digital
 tags: [Digital, Video, DV, Dropout, Cleaning]
+formats: [DV]
 published: true
+
 ---
 
 As with analog dropout, DV dropout in source signals results from a loss of information recorded or read from the tape by the VTR playback heads. It might be due to tape wrinkling, creasing or other tape damage, manufacturing defects, environmental dirt, or transport shock during recording. Dropout appears as pixels of missing data in the image, which may be substituted with video information from nearby frames during playback. Severe and consistent dropout may indicate clogged heads in a playback machine or significant damage/deterioration to the source media.
