@@ -9,4 +9,6 @@ published: true
 
 Dates in use: 2006-present
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/Blu-ray)
+Get more information:
+- [Museum of Obsolete Media: Blu-ray](https://obsoletemedia.org/blu-ray-disc/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Blu-ray)

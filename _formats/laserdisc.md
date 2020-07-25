@@ -13,4 +13,6 @@ Two Formats:
 - CAV (Constant Angular Velocity)
 - CLV (Constant Linear Velocity)
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/LaserDisc)
+Get more information:
+- [Museum of Obsolete Media](https://obsoletemedia.org/laserdisc/)
+- [Wikipedia](https://en.wikipedia.org/wiki/LaserDisc)

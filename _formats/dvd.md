@@ -11,15 +11,22 @@ published: true
 
 # DVD
 
+Get more information:
+- [Museum of Obsolete Media: DVD-Video](https://obsoletemedia.org/dvd-video/)
+- [Wikipedia](https://en.wikipedia.org/wiki/16_mm_film)
 
 # DVD-ROM
 
 Dates in use: 1996-present
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/DVD)
+Get more information:
+- [Museum of Obsolete Media: DVD-ROM](https://obsoletemedia.org/dvd-rom/)
+- [Wikipedia](https://en.wikipedia.org/wiki/DVD)
 
 # HD-DVD
 
 Dates in use: 2006-2008
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/HD_DVD)
+Get more information:
+- [Museum of Obsolete Media: HD DVD](https://obsoletemedia.org/hd-dvd/)
+- [Wikipedia](https://en.wikipedia.org/wiki/HD_DVD)

@@ -9,4 +9,6 @@ published: true
 
 Dates in use: 1975-mid-1980s
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/Betamax)
+Get more information:
+- [Museum of Obsolete Media: Betamax](https://obsoletemedia.org/betamax/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Betamax)

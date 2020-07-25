@@ -7,4 +7,8 @@ tags: [Digital, Audio]
 published: true
 ---
 
-See more information on [Wikipedia](https://en.wikipedia.org/wiki/Digital_Audio_Tape)
+Dates in use: 1987-2005
+
+Get more information:
+- [Museum of Obsolete Media: Digital Audio Tape](https://obsoletemedia.org/digital-audio-tape/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Digital_Audio_Tape)
