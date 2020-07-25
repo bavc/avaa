@@ -1,9 +1,9 @@
 ---
 layout: format
-title: Blu-Ray Disc
+title: Blu-Ray
 namevar: [BD, Blu-Ray]
-categories:
-tags: []
+categories: digital video
+tags: [Digital, Video, Optical]
 published: true
 ---
 

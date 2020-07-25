@@ -7,14 +7,6 @@ tags: [Analog, Video]
 published: true
 ---
 
-# 1" IVC-700
-
-Dates in use: 1967-(?)
-
-# 1" IVC-800
-
-# 1" IVC-900
-
 # 1" SMPTE Type A
 
 Dates in use: 1965-(?)
