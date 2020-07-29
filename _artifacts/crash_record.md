@@ -4,6 +4,7 @@ title: Crash Record
 namevar: [Crash edit, Color smearing after an editing cut]
 categories: video analog
 tags: [Analog, Video, Production Error, Color smearing, Editing cut]
+formats: [DV]
 ---
 
 The _Compendium of Image Errors in Analogue Video_ describes this as “Color Smearing After an Editing Cut.”<sup><a href="#fn1" id="ref1">1</a></sup>

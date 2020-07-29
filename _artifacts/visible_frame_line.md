@@ -3,6 +3,7 @@ layout: post
 title: Visible Frame Line
 categories: film analog
 tags: [Film]
+formats: [Film]
 ---
 
 <img src="{{ site.baseurl }}/images/800px-Visible_frame_line.jpg">

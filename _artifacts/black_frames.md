@@ -3,6 +3,7 @@ layout: post
 title: Black Frames
 categories: film analog
 tags: [Analog, Film]
+formats: [Film]
 published: true
 ---
 

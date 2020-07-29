@@ -4,6 +4,7 @@ title: Tracking Error
 categories: video analog
 namevar: [Mistracking]
 tags: [Analog, Video, Tracking Error, Common Artifacts]
+formats: [Betamax, VHS]
 ---
 
 Tracking error is visible as a distortion produced during playback caused by the inability of video heads to correctly follow the video tracks recorded on a tape. The tracking control adjustment corrects for this error. It delays the control track signal during playback so its position approximates the position of the control track head that was used on the recording machine.

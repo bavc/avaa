@@ -3,7 +3,7 @@ layout: post
 title: Quadrants Misalignment
 categories: film analog
 tags: [Analog, Film]
-published: true
+formats: [Film]
 ---
 
 [Definition to go here!]

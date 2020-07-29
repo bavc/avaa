@@ -3,7 +3,7 @@ layout: post
 title: Sparkle
 categories: film analog
 tags: [Analog, Film]
-published: true
+formats: [Film]
 ---
 
 Sparkle refers to small white spots on the positive image, usually due to tiny pieces of dust or dirt being present on the film negative (or internegative) from which the positive was made. Sparkle often occurs more frequently at the beginning or end of a reel of film.
