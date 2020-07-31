@@ -3,8 +3,8 @@ description:
 logo: # 120x120 px default
 teaser: # 400x250 px default
 locale:
-baseurl: /avaa
-url: http://bavc.github.io
+baseurl: 
+url: http://www.avartifactatlas.com/
 collections: 
   artifacts:
     output: true
@@ -12,8 +12,8 @@ collections:
     output: true
 prose:
   rooturl: '_artifacts'
-  siteurl: 'http://bavc.github.io/avaa/'
-  relativeLinks: 'http://bavc.github.io/avaa/links.jsonp'
+  siteurl: 'http://www.avartifactatlas.com/'
+  relativeLinks: 'http://www.avartifactatlas.com/links.jsonp'
   media: 'media'
   ignore:
     - index.md

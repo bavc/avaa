@@ -1,1 +1,1 @@
-Please see [https://bavc.github.io/avaa/contributors_guide.html](https://bavc.github.io/avaa/contributors_guide.html)
+Please see [our Contributor's Guide](//www.avartifactatlas.com/contributors_guide.html)
