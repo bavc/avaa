@@ -1,7 +1,7 @@
 ---
 layout: format
 title: Betacam
-namevar: [Betacam SP, Betacam Super Performance, Betacam SX, Digital Betacam, DigiBeta]
+namevar: [Betacam oxide, Betacam SP, Betacam Super Performance, Betacam SX, Digital Betacam, DigiBeta]
 categories: video analog
 tags: [Analog, Video]
 published: true
