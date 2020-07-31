@@ -1,9 +1,11 @@
 ---
 layout: format
-title: 1/2" Open Reel
+title: 1/2" Open Reel Video
 namevar: []
 categories: video analog
-tags: [Analog, Video]
+tags:
+  - Analog
+  - Video
 published: true
 ---
 
