@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
  <img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"><br>
- <sub>Artist <a href="http://jordanbiren.com/">Jordan Biren</a> creates <a href="https://bavc.github.io/avaa/artifacts/video_head_clog.html">head clog</a> with his mind</sub>
+ <sub>Artist <a href="http://jordanbiren.com/">Jordan Biren</a> creates <a href="{{ site.baseurl }}/artifacts/video_head_clog.html">head clog</a> with his mind</sub>
 
 The AV Artifact Atlas is for use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.  
 
