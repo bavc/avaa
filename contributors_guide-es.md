@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Guía del colaborador
+permalink: /contributors_guide-es.html
+title: Colaboración
 lang: Español
 ref: contributors_guide
 menu: true
@@ -10,6 +11,7 @@ order: 8
 <img src="{{ site.baseurl }}/images/jeromecaja_crashrecord.png" align="center">
 <sub>Hi8mm <a href="artifacts/crash_record.html">crash record artifact</a> found in the <a href="http://www.thejeromeproject.com/">Jerome Caja Project</a></sub>
 
+# Guía para colaborar
 ## Table of Contents
 
 1.  [Basics](#intro)
@@ -19,8 +21,8 @@ order: 8
     *  [Edit in Prose](#prose)
     *  [Add Images](#img)
     *  [Add Media (Sound/Video)](#media)
-    *  [Tips for Writing in Markdown](#markdown)  
-4. [Adding a new Artifact](#new)  
+    *  [Tips for Writing in Markdown](#markdown)
+4. [Adding a new Artifact](#new)
 
 
 ## Basics {#intro}
@@ -114,9 +116,9 @@ The sample syntax below embeds audio in both Prose and GitHub.
 ### Tips on writing in Markdown {#markdown}
 
 * Note that {% raw %} {{ site.baseurl }} {% endraw %} must be appended to the beginning of links and images. Images will not show up in the Github markdown page but will work on the website.
-* If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.  
+* If you want to make a line break (or new line), you have to add two spaces at the end of the previous line.
 
-For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).  
+For more advice, see this [Github Guide to Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Adding a new Artifact {#new}
 

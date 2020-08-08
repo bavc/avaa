@@ -2,7 +2,7 @@ title: AVAA
 description:
 baseurl:
 url: http://www.avartifactatlas.com/
-collections: 
+collections:
   artifacts:
     output: true
   formats:
@@ -16,7 +16,7 @@ t:
   Español:
     title: 'A/V Artifact Atlas'
     description: ''
-    home: spa
+    home: es
 
 
 prose:
@@ -46,4 +46,3 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          

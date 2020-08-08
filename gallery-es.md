@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /gallery-es.html
 title: Galería
 lang: Español
 ref: gallery

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Navegar por Formats
+permalink: /formats-es.html
+title: Formatos
 lang: Español
 ref: formats
 menu: true
 order: 6
 ---
-<h2>Related Format Families</h2>
+<h2>Navegar por Formatos</h2>
 
   <ul>
     {% assign alphabeticalFormats = site.formats | sort: 'title' %}
@@ -23,4 +24,3 @@ order: 6
      </li>
    {% endfor %}
   </ul>
-

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Glosario
+permalink: /preservation_glossary-es.html
+title: Glosario 
 lang: Español
 ref: preservation_glossary
 menu: true
@@ -437,6 +438,6 @@ Videotape[See image.](#layers)
 
 **<a id="wrin" name="wrin"></a>Wrinkle** A physical deformity of the videotape; any or wrinkle in the videotape may produce <span style="text-decoration: underline;">[dropout](#drop)</span> or loss of picture information upon playback. See [creasing](#crea). Copies of videotape with "burnt in" time code display. Hours, minutes, seconds and frames appear on the recorded image. Window dubs are used in off-line editing. See<a id="layers" name="layers"></a>
 
-Glossary contributions by Rebecca Bachman; Pip Laurenson, Sculpture Conservator, Tate UK; Heather Weaver, Online Editor, BAVC; Dr. John Van Bogart; and Snader & Associates Inc.  
+Glossary contributions by Rebecca Bachman; Pip Laurenson, Sculpture Conservator, Tate UK; Heather Weaver, Online Editor, BAVC; Dr. John Van Bogart; and Snader & Associates Inc.
 
 Originally published in _Playback: A Preservation Primer for Video_, Copyright 1998, Bay Area Video Coalition.

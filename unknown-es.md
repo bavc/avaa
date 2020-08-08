@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /unknown-es.html
 title: Artefactos audiovisuales desconocidos
 lang: Español
 ref: unknown

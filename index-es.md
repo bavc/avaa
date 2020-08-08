@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /index-es.html
 title: AV Artifact Atlas
 lang: Español
 ref: home

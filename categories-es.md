@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Navegar por Tags
+permalink: /categories-es.html
+title: Categorías
 lang: Español
-ref: tags
+ref: categories
 menu: true
-order: 3
+order: 4
 ---
+<h2>Navegar Por Categorías</h2>
+
 {% assign rawtags = "" %}
 {% for post in site.artifacts %}
-  {% assign ttags = post.tags | join:'|' | append:'|' %}
+  {% assign ttags = post.categories | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
@@ -25,9 +28,9 @@ order: 3
   {% endif %}
 {% endfor %}
 
-{% for tag in tags %}<a class="artifact-tag" href="tags.html#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}
-<br/><br/>
-<h1>List</h1>
+{% for tag in tags %}<a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>{% endfor %}
+
+<h2>List</h2>
 
 
 {% for tag in tags %}
@@ -35,10 +38,12 @@ order: 3
   <ul>
    {% for artifact in site.artifacts %}
      {% if artifact.lang == page.lang %}
-       {% if artifact.tags contains tag %}
-         <li><h3>
-           <a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></h3>
-         </li>
+       {% if artifact.categories contains tag %}
+       <li><h3>
+         <a href="{{ site.baseurl }}{{ artifact.url }}">
+         {{ artifact.title }}
+         </a></h3>
+       </li>
        {% endif %}
      {% endif %}
    {% endfor %}

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /copyrights-es.html
 title: Derechos de autor
 lang: Español
 ref: copyrights
@@ -17,4 +18,4 @@ Please feel free to make use of the information contained in this resource in th
 
 The very brief clips of audio and video available on this site were drawn from larger works that may contain copyrighted material. We claim fair use, foremost because the purpose of presenting the clips is purely educational.
 
-If you have a copyright complaint, [please let us know](mailto:avaa@bavc.org).
+Si tiene un reclamo sobre los derechoes de autor, [por favor nos contacte](mailto:avaa@bavc.org).

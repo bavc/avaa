@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /tags-es.html
 title: Navegar por Tags
 lang: Español
 ref: tags

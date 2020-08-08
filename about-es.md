@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /about-es.html
 title: Sobre AVAA
 lang: Español
 ref: about
@@ -7,16 +8,16 @@ menu: true
 order: 2
 ---
  <img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"><br>
- <sub>Artist <a href="http://jordanbiren.com/">Jordan Biren</a> creates <a href="{{ site.baseurl }}/artifacts/video_head_clog.html">head clog</a> with his mind</sub>
+ <sub>El artista <a href="http://jordanbiren.com/">Jordan Biren</a> crea un<a href="{{ site.baseurl }}/artifacts/video_head_clog.html"><em>head clog</em></a> con su mente.</sub>
 
-The AV Artifact Atlas is for use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.  
+The AV Artifact Atlas is for use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
 
 The goal of AVAA is to advance the audiovisual archiving field generally by strengthening the practice of reformatting archival media content. Archivists, curators, librarians, conservators, digitization service—plus all the users of cultural heritage content—benefit from the use of a common vocabulary, with supporting examples, when discussing such issues with one another. Users can improve the outcomes of their media preservation efforts if they can properly identify and characterize signal issues and anomalies. With a tool to facilitate building a vocabulary of terms and supporting examples, users will learn and be able to communicate about the problems with more clarity and understanding. With this understanding, it is more likely that fixable problems will be fixed, limited resources will be directed more appropriately, and the products of reformatting workflows will be of higher quality.
 
 
-## Why AVAA?
+## Por qué AVAA?
 
-For original archival audio or video materials, the recorded signal must be reformatted in order to remain accessible. During the playback and reformatting process, how can we determine if an error we see or hear is inherent to the original recording, or was the result of an imperfect transfer? How can we tell if it is a sign of equipment malfunction or media damage? How do we know if it can be remedied?  
+For original archival audio or video materials, the recorded signal must be reformatted in order to remain accessible. During the playback and reformatting process, how can we determine if an error we see or hear is inherent to the original recording, or was the result of an imperfect transfer? How can we tell if it is a sign of equipment malfunction or media damage? How do we know if it can be remedied?
 
 Identification and definition of audio-visual artifacts is a critical part of archival work. Any number of errors in the signal encoding, or re-encoding, can occur at any point in the life cycle. Sometimes the error is introduced at the time that the recording is originally created, perhaps by either low-quality, improperly-configured or poorly-functioning equipment or by ambient conditions that interfere with the recording process. In some cases the error appears as the original recording is being reformatted, caused by damage or media deterioration that has occurred to the original media over time, or by poorly-functioning equipment used in the reformatting process. At any time, operator error can result in unintentional mistakes that reduce the quality of the transfer.
 
