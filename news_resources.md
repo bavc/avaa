@@ -1,6 +1,10 @@
 ---
 layout: page
 title: News and Resources
+lang: English
+ref: news_resources
+menu: true
+order: 9
 ---
 
 # AVAA in the News <!-- organized by last date first --> 

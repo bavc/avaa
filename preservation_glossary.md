@@ -1,6 +1,10 @@
 ---
 layout: page
-title: AV Preservation Glossary
+title: Glossary
+lang: English
+ref: preservation_glossary
+menu: true
+order: 8
 ---
 ### Index
 

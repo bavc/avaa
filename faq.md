@@ -1,6 +1,10 @@
 ---
-layout: post
+layout: page
 title: FAQ
+lang: English
+ref: faq
+menu: true
+order: 9
 ---
 
 ## Who produces the AV Artifact Atlas?

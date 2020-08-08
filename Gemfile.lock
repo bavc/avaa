@@ -4,7 +4,7 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     colorator (1.1.0)
-    ffi (1.11.3)
+    ffi (1.13.1)
     forwardable-extended (2.6.0)
     jekyll (3.6.3)
       addressable (~> 2.4)
@@ -58,4 +58,4 @@ DEPENDENCIES
   minima (~> 2.0)
 
 BUNDLED WITH
-   2.0.2
+   1.17.3

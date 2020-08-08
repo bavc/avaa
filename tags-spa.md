@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Categories
+title: Navegar por Tags
+lang: Español
+ref: tags
+menu: true
+order: 3
 ---
 {% assign rawtags = "" %}
 {% for post in site.artifacts %}
-  {% assign ttags = post.categories | join:'|' | append:'|' %}
+  {% assign ttags = post.tags | join:'|' | append:'|' %}
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
@@ -21,23 +25,21 @@ title: Categories
   {% endif %}
 {% endfor %}
 
-{% for tag in tags %}
-  <a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %}
-
-<h2>List</h2>
+{% for tag in tags %}<a class="artifact-tag" href="tags.html#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}
+<br/><br/>
+<h1>List</h1>
 
 
 {% for tag in tags %}
   <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
   <ul>
    {% for artifact in site.artifacts %}
-     {% if artifact.categories contains tag %}
-     <li><h3>
-       <a href="{{ site.baseurl }}{{ artifact.url }}">
-       {{ artifact.title }}
-       </a></h3>
-     </li>
+     {% if artifact.lang == page.lang %}
+       {% if artifact.tags contains tag %}
+         <li><h3>
+           <a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></h3>
+         </li>
+       {% endif %}
      {% endif %}
    {% endfor %}
   </ul>

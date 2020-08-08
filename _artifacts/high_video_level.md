@@ -3,6 +3,7 @@ layout: post
 title: High Video Level
 categories: video analog
 tags: [Analog, Video, Operator Error, Tape Error, Time Base Corrector, Levels Too Hot, Clipping]
+lang: English
 ---
 
 When a video signal is recorded, peak white levels can be usually be adjusted in a camera, a playback VTR or a number of intervening processing amplifiers. In some cases, natural tips of the video level can be overdriven by miscalibration and become clipped at the top of the video signal. Particularly bright scenes might have natural peaks above 100 [IRE](http://en.wikipedia.org/wiki/IRE_(unit)) in raw camera footage, but clipped video signals above that range may mean detail in the video image is being lost during digitization. Video levels that are too high can also introduce noise into the image that is not in the original source.

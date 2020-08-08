@@ -3,6 +3,7 @@ layout: post
 title: Lengthwise Tape Expansion or Shrinkage
 categories: video analog
 tags: [Analog, Video, Tape Error]
+lang: English
 ---
 
 Comparable to [skew error]({{ site.baseurl }}/artifacts/skew_error.html), lengthwise distortion is often very pronounced. “The track angles on a severely stretched tape will be too shallow, on a severely shrunk tape they will be too steep: in both cases they will no longer correspond to the scanning angle of the playback heads... causing the playback heads to lose contact with segments of the helical tracks.”<sup><a href="#fn1" id="ref1">1</a></sup>

@@ -3,6 +3,7 @@ layout: post
 title: Y/C Delay Error
 categories: video analog
 tags: [Analog, Video, Y/C Delay Error]
+lang: English
 ---
 
 When video suffers from Y/C delay error, there will be a mismatch in the timing among the luminance and/or color channels, with resulting visible misalignment in how colors appear in the monitor. A misalignment of Y/C shows a blurry edge around areas with high contrast color difference, and will be most apparent around sharp edges of objects in the video image.

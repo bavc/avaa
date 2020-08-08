@@ -3,6 +3,7 @@ layout: post
 title: Poor Y/C Decoding (S-Video crosstalk)
 categories: video analog
 tags: [Analog, Video, Cable, Production Error]
+lang: English
 ---
 
 <img src="{{ site.baseurl }}/images/YCSeparation_1_Flat.jpg">

@@ -4,6 +4,7 @@ title: Visible Frame Line
 categories: film analog
 tags: [Film]
 formats: [Film]
+lang: English
 ---
 
 <img src="{{ site.baseurl }}/images/800px-Visible_frame_line.jpg">

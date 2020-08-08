@@ -1,6 +1,10 @@
 ---
 layout: page
 title: AV Artifact Atlas
+lang: English
+ref: home
+menu: true
+order: 1
 ---
 <img src="{{ site.baseurl }}/images/home_TBCProcessingError_NYU_Flat.jpg" height="315" width="520"><br>
 
@@ -31,6 +35,6 @@ You can browse the site using the search box in the sidebar, the tag cloud below
 
 <div>
 {% for tag in tags %}
-<a class="artefact-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
+<a class="artifact-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
 {% endfor %}
 </div>

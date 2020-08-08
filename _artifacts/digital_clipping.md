@@ -4,6 +4,7 @@ title: Digital Clipping
 namevar: [Digital distortion]
 categories: analog audio digital
 tags: [Digital, Audio, Noise, Overs, Common Artifacts]
+lang: English
 ---
 
 When a digital signal exceeds 0 dBFS, which is the highest voltage level that an A/D converter can convert, samples are lost.<sup><a href="#fn1" id="ref1">1</a></sup> Unlike analog distortion, where hot levels can produce a saturation effect, digital clipping is very unforgiving. Severe overs can produce what sounds like noise. However, any over in a digital system constitutes distortion, whether or not it is audible.<sup><a href="#fn2" id="ref2">2</a></sup> Even subtle overs can be seen by zooming in to an audio waveform and viewing the peaks. If the peaks appear chopped off or truncated at the top of the wave, clipping has occurred.

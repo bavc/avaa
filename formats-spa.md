@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Formats
+title: Navegar por Formats
+lang: Español
+ref: formats
+menu: true
+order: 6
 ---
 <h2>Related Format Families</h2>
 

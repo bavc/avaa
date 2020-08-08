@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About
+title: About AVAA
+lang: English
+ref: about
+menu: true
+order: 2
 ---
  <img src="{{ site.baseurl }}/images/HeadHeadClog.gif" height="315" width="560"><br>
  <sub>Artist <a href="http://jordanbiren.com/">Jordan Biren</a> creates <a href="{{ site.baseurl }}/artifacts/video_head_clog.html">head clog</a> with his mind</sub>

@@ -4,7 +4,7 @@ title: Pilot Tone
 categories: audio video film analog
 namevar: [Double System Sound]
 tags: [Analog, Audio, Video, Film, Open Reel Tape, Hum, Synchronization]
-published: true
+lang: English
 ---
 
 Pilot tone, a precursor of SMPTE time code, is typically encountered when working with open reel audio used in film or video production. The tone is a 50 or 60 Hz signal sent from a motion picture camera and recorded on one track of the tape. Not to be confused with [hum]({{ site.baseurl }}/artifacts/hum_and_buzz.html), during production this tone was used for synchronizing tape playback to picture by matching the camera speed.<sup><a href="#fn1" id="ref1">1</a></sup> Crosstalk is reduced by recording the tone 180 degrees out of phase with respect to the program so that it will cancel out during playback.  

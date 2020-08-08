@@ -3,6 +3,7 @@ layout: post
 title: Luminance Noise
 categories: video analog
 tags: [Analog, Video, Luminance, Noise, Cable, Cleaning]
+lang: English
 ---
 
 Luminance noise manifests itself in a video picture as light white noise. It may be the result of electronic failure, recording in low-light, worn or poorly coated tape stock, transmission of a video signal over cables that are too long, over-enhancement of the video signal, or dirty record or playback heads. Color video or black and white video can both contain luminance noise.
