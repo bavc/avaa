@@ -65,7 +65,8 @@ a:hover {
 }
 
 .posts-list {
-  list-style-type: none;
+  list-style-type: square;
+  padding-left: 1em;
 }
 
 .posts-list li {
@@ -261,9 +262,9 @@ a:hover {
 
 .sidebar {
   float: left;
-  width: 10%;
-  padding-left: 2em;
-  padding-right: 5em;
+  width: 15%;
+  padding-left: 1em;
+  padding-right: 1em;
   border-right: 1px solid #e7e7e7;
 }
 
