@@ -3,6 +3,7 @@ layout: post
 title: Hum and Buzz
 categories: video audio analog digital
 tags: [Analog, Digital, Audio, Video, Balanced Cables, Power Supply, Cable, Common Artifacts]
+lang: English
 ---
 
 Hum is a type of noise that can creep into any audio/video system, and can originate from a number of different sources including power lines, power supplies, and television interference. Hum and buzz both exhibit pitch, unlike [Analog Noise]({{ site.baseurl }}/artifacts/analog_noise.html) which has no detectable pitch.<sup><a href="#fn1" id="ref1">1</a></sup>

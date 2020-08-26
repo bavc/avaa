@@ -1,6 +1,11 @@
 ---
 layout: page
-title: Tags
+permalink: /tags-es.html
+title: Navegar por Tags
+lang: Español
+ref: tags
+menu: true
+order: 3
 ---
 {% assign rawtags = "" %}
 {% for post in site.artifacts %}
@@ -21,9 +26,7 @@ title: Tags
   {% endif %}
 {% endfor %}
 
-{% for tag in tags %}
-  <a class="artefact-tag" href="tags.html#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %}
+{% for tag in tags %}<a class="artifact-tag" href="tags.html#{{ tag | slugify }}">{{ tag }}</a>{% endfor %}
 <br/><br/>
 <h1>List</h1>
 
@@ -32,12 +35,12 @@ title: Tags
   <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
   <ul>
    {% for artifact in site.artifacts %}
-     {% if artifact.tags contains tag %}
-     <li><h3>
-       <a href="{{ site.baseurl }}{{ artifact.url }}">
-       {{ artifact.title }}
-       </a></h3>
-     </li>
+     {% if artifact.lang == page.lang %}
+       {% if artifact.tags contains tag %}
+         <li><h3>
+           <a href="{{ site.baseurl }}{{ artifact.url }}">{{ artifact.title }}</a></h3>
+         </li>
+       {% endif %}
      {% endif %}
    {% endfor %}
   </ul>

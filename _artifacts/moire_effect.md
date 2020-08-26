@@ -3,6 +3,7 @@ layout: post
 title: Moiré Effect
 categories: video analog
 tags: [Interference, Video, Analog]
+lang: English
 ---
 
 Moiré affects composite color video signals only - not RGB, S-Video or color difference signals. Moire may occur during the original tape playback process, or it may be recorded into the video signal.

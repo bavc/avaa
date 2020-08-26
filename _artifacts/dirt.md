@@ -4,7 +4,7 @@ title: Dirt
 categories: film analog
 tags: [Analog, Film]
 formats: [Film]
-published: true
+lang: English
 ---
 
 Dirt (or dust) on film produces erratic specks visible on the resulting scanned image.

@@ -4,6 +4,7 @@ title: Image Lag
 categories: video analog
 namevar: [Ghosting, Smearing, Burn-in, Comet Tails, Luma Trails, Luminance Blooming]
 tags: [Ghosting, Smearing, Comet Tails, Tape Error, Analog, Video, Luminance Blooming]
+lang: English
 ---
 
 Image lag occurs in video recorded or displayed using certain types of pick-up devices and cameras, including the Vidicon picture tube, among others. This type of camera tube captures light radiating from a scene through a lens and projects it onto a photoconductive target, creating a charge-density pattern which is scanned using low-velocity electrons. The resulting image can be amplified and recorded to tape or output to a video monitor. The electrical charge remains present on the target until it is [re-scanned or the charge dissipates](http://en.wikipedia.org/wiki/Video_camera_tube).

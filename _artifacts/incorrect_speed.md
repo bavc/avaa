@@ -3,6 +3,7 @@ layout: post
 title: Incorrect Speed
 categories: video analog
 tags: [Audio, Analog, Deck Failure, Operator Error, Pitch, Speed Fluctuation]
+lang: English
 ---
 
 

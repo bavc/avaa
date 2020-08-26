@@ -4,6 +4,7 @@ title: Wow and Flutter
 categories: audio analog
 namevar: [Speed Fluctuation]
 tags: [Audio, Analog, Deck Failure, Speed Fluctuation, Pitch, Dying Batteries, Warble, Common Artifacts]
+lang: English
 ---
 
 Wow and flutter describes speed irregularities that are heard as garbled or warbled sound. They can be caused by defective devices deviating from their rotational speed (turntables and analog tape recorders), or failing media. Wow manifests itself by slow pitch variation resulting from small speed variations; flutter refers to rapid speed variations.

@@ -3,6 +3,7 @@ layout: post
 title: Tape Deformation
 categories: video audio analog
 tags: [Analog, Video, Audio, Deformation, Edge curl, Curvature error, Step pack, Popped strand, Flange pack, Windowing, Spoking, Media Damage]
+lang: English
 ---
 
 Like all materials commonly used for recording information, tape is subject to deformation due to poor storage or handling.  If a tape is stored for a period of time when not wound smoothly or evenly, the tape may become physically stressed. The risk of deformation is exacerbated by exposure to excessive temperature or relative humidity levels. “Every time a tape pack is heated or cooled, the tape pack tension will increase or decrease, respectively.”<sup><a href="#fn1" id="ref1">1</a></sup>

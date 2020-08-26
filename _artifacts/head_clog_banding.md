@@ -4,6 +4,7 @@ title: Head Clog Banding
 categories: video digital
 tags: [Digital, Video, Head Clog, Banding, DV]
 formats: [DV]
+lang: English
 ---
 MiniDV and DVCAM record ten bands of video per frame using two video heads (five per head). If dirt or debris clogs one of the heads, the signal cannot by read from tape in its entirety. Typically, a head clog will appear as wide alternating lines of frozen video or an alternating pattern of color indicating a loss of read/write capability at the video head. Two head clogs cause loss of picture altogether or a freeze-frame of the last decodable frame. If a head is damaged, this type of banding may occur with all record and playback functions of the failing VTR.
 

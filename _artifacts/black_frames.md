@@ -4,7 +4,7 @@ title: Black Frames
 categories: film analog
 tags: [Analog, Film]
 formats: [Film]
-published: true
+lang: English
 ---
 
 This refers to black frames that have been generated during the digitisation process, not black frames that are present in the physical filmstrip (for example, black frames cut into a film negative in place of a bad tear, a technique used to maintain sync between image and sound negatives).

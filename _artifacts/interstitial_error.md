@@ -3,6 +3,7 @@ layout: post
 title: Interstitial Error
 categories: video digital
 tags: [Audio, Digital, System Failure, Dropout, Digital Clicks]
+lang: English
 ---
 
 <img src="{{ site.baseurl }}/images/Interstitial_Error.jpg">

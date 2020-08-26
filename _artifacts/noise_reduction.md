@@ -4,6 +4,7 @@ title: Noise Reduction
 categories: audio analog
 namevar: [Dolby, dbx, Compander]
 tags: [Analog, Audio, Cassette, Noise, Open Reel Tape]
+lang: English
 ---
 
 The application of noise reduction (NR) into the recording and playback processes of analog tape is an effort to reduce the noise introduced by the audio devices in the signal chain. NR systems reduce the dynamic range of an audio signal, compressing it during recording, and then expand it during playback, restoring the signal's original dynamics.<sup><a href="#fn1" id="ref1">1</a></sup> Effective reduction will mask the undesirable noise without creating any audible "pumping" artifacts, which is the fluctuation of the primary signal.

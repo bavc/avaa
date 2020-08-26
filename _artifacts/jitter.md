@@ -3,6 +3,7 @@ layout: post
 title: Audio Jitter
 categories: audio
 tags: [Analog, Error, Noise, Clicks, Digital, Audio, Common Artifacts]
+lang: English
 ---
 
 Jitter is the loss of a sample or block of samples in a digital audio bitstream. This artifact occurs during the process of capture and may be attributed to a variety of problems such as: sync loss within an integrated system, audio word clock error, audio interface buffer error, or otherwise malfunctioning A-to-D hardware. Digital clock jitter is inherent in all digital devices and can raise distortion levels and cause sonic degradation.<sup><a href="#fn1" id="ref1">1</a></sup> It can be heard in the digitized file as clicks in audio with a relatively steep rise in amplitude.

@@ -4,6 +4,7 @@ title: Print-through
 categories: audio analog
 namevar: [Interlayer Transfer]
 tags: [Analog, Audio, Pre-echo, Post-echo, Rewinding, Magnetostrictive Action]
+lang: English
 ---
 
 Print-through is the magnetic phenomena that occurs when a tape signal is imprinted on to the adjacent layer of tape during storage. During playback it is heard as either pre or post-echo, and it is more noticeable at high recorded signal levels. When tapes are stored "heads out" (oxide in), a faint echo will be heard before the main signal during playback. When tapes are stored "tails out" (oxide out), a post-echo will be heard after the main signal during playback. The post-echo is less obvious than the pre-echo, which is one of the reasons tapes should be stored tails out.  

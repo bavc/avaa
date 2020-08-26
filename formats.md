@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Formats
+title: Browse by Formats
+lang: English
+ref: formats
+menu: true
+order: 5
 ---
 <h2>Related Format Families</h2>
 

@@ -4,7 +4,7 @@ title: DV Dropout
 categories: video digital
 tags: [Digital, Video, DV, Dropout, Cleaning]
 formats: [DV]
-published: true
+lang: English
 
 ---
 

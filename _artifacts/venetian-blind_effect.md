@@ -3,6 +3,7 @@ layout: post
 title: Venetian-blind Effect
 categories: video analog
 tags: [Analog, Video, PAL, Time Base Corrector, Color]
+lang: English
 ---
 
 PAL-encoded color recordings rely on circuitry in display devices and TBCs to decode and balance color information in the signal in accordance with the PAL standard. “The venetian-blind effect is produced when this colour balancing process is no longer operating correctly due to maladjusted demodulation circuitry”.<sup><a href="#fn1" id="ref1">1</a></sup> The result: during playback, “pairs of lines [in the image] look like stripes that either remain stationary or drift slowly up or down the screen. The higher the colour saturation, the more visible the effect, depending on the particular TV or video signal, or the monitor settings.”<sup><a href="#fn2" id="ref2">2</a></sup>

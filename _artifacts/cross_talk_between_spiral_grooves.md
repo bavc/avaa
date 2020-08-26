@@ -3,6 +3,7 @@ layout: post
 title: Cross-talk Between Spiral Grooves
 categories: audio analog
 tags: [Audio, Disc Playback, Pre-echo, Analog]
+lang: English
 ---
 
 Cross-talk between spiral grooves<sup><a href="#fn1" id="ref1">1</a></sup> is a condition when a groove on a disc is modulated by its neighboring groove. Pre-echo<sup><a href="#fn2" id="ref2">2</a></sup> is a condition when a groove on a disc is modulated by its subsequently played groove<sup><a href="#fn3" id="ref3">3</a></sup> and post-echo<sup><a href="#fn4" id="ref4">4</a></sup> is when it is modulated by it's preceding groove.

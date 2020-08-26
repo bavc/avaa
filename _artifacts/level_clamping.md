@@ -4,6 +4,7 @@ title: Level Clamping
 categories: video analog
 namevar: [clipping, legalizing]
 tags: [Video, Transfer Artifact, Station Qualification, Digitization, Levels, Waveform]
+lang: English
 ---
 
 _Level Clamping_ refers to video waveform levels being chopped off at the top or bottom of the waveform.

@@ -3,7 +3,7 @@ layout: post
 title: Analogue Slipping
 categories: film analog
 tags: [Analog, Film]
-published: true
+lang: English
 ---
 
 The «original» film strip has slipped in the gate at a cement splice during the photochemical printing.

@@ -5,6 +5,7 @@ categories: video analog
 namevar: [Flagging]
 tags: [Analog, Video, Skew, Error, Time Base Corrector, Expansion, Shrinkage, Media Damage, Device Error, Tape Error, Common Artifacts]
 formats: [U-matic]
+lang: English
 ---
 
 Tape is susceptible to expansion and shrinkage, see [Lengthwise tape expansion or shrinkage]({{ site.baseurl }}/artifacts/lengthwise_tape_expansion_or_shrinkage.html). These dimensional changes impact the length and angle of the recorded tracks. On playback, the loss of correspondence between the track position and the playback head results in a skewed picture. “A skew error shows as a hooking in the picture at the top [or bottom] of the TV monitor. If the picture hooks to the left, the video track on the tape is longer than the playback track length of the machine. If the picture hooks to the right, the video track on the tape is shorter than the playback length of the machine.”<sup><a href="#fn1" id="ref1">1</a></sup> Audio may also be affected.

@@ -4,7 +4,7 @@ title: Analog Distortion
 categories: audio analog
 namevar: [Overload distortion, Harmonic distortion, Transient distortion, Nonlinear distortion, Intermodulation distortion]
 tags: [Analog, Audio, Operator Error, Levels Too Hot, Noise, Clipping]
-published: true
+lang: English
 ---
 
 In audio, distortion is heard as an unwanted signal change. This is somewhat of a catchall term for such artifacts as [Wow and Flutter]({{ site.baseurl }}/artifacts/wow_and_flutter.html) that are, by definition, a distortion of the original signal.<sup><a href="#fn1" id="ref1">1</a></sup> Analog distortion is an artifact recorded into an analog carrier or introduced in an analog signal chain, while Digital Distortion occurs during digitization and post A/D conversion.

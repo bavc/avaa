@@ -36,7 +36,7 @@
     <div class="site">
       <div class="sidebar" id="sidebar">
         <div class="header">
-          <h1 class="title"><a href="{{ site.baseurl }}/index.html"><img id="logo" src="{{ site.baseurl }}/images/logo.png"></a></h1>
+          <h1 class="title"><a href="{{ site.baseurl }}{{ site.t[page.lang].home }}/index.html"><img id="logo" src="{{ site.baseurl }}/images/logo.png"></a></h1>
           <span class="tagline"></span>
         </div>
         <div class="posts">
@@ -49,33 +49,37 @@
         </div>
         <div class="posts">
           <ul class="posts-list">
-            <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
-            <li><a href="{{ site.baseurl }}/about.html">About AVAA</a></li>
-            <li><a href="{{ site.baseurl }}/tags.html">Browse by Tags</a></li>
-            <li><a href="{{ site.baseurl }}/categories.html">Browse by Categories</a></li>
-            <li><a href="{{ site.baseurl }}/formats.html">Browse by Formats</a></li>
-            <li><a href="{{ site.baseurl }}/gallery.html">Gallery</a></li>
-            <li><a href="{{ site.baseurl }}/unknown.html">Unknown Artifacts</a></li>
-            <li><a href="{{ site.baseurl }}/contributors_guide.html">Contributor's Guide</a></li>
-            <li><a href="{{ site.baseurl }}/preservation_glossary.html">AV Preservation Glossary</a>
-            <li><a href="{{ site.baseurl }}/news_resources.html">News/Resources</a></li>
-            <li><a href="{{ site.baseurl }}/faq.html">FAQ</a></li>
-            <li><a href="{{ site.baseurl }}/copyrights.html">Copyrights</a></li>
+            {% assign pages_list = site.pages | where: "menu", true | sort: "order" %}
+            {% for node in pages_list %}
+              {% if node.lang == page.lang %}
+                <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
+
+        <nav class="sidebar-nav-lang">Lang: 
+          {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %}
+          {% for page in pages %}
+            <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+          {% endfor %}
+          </ul>
+        </nav>
+
         <div class="posts">
           <h4>Browse by category</h4>
             {% for tag in tags %}
               <a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>
             {% endfor %}
         </div>
+
         <div class="footer">
           <span id="footer-links">
             <a href="https://www.bavc.org/preserve-media" class="footer-link">BAVC</a> <span class="separator">&bull;</span>
             <a href="https://github.com/bavc/avaa" class="footer-link">GitHub</a>
           </span>
         </div>
-      </div>
+      </div> <!-- end sidebar -->
         {{ content }}
     </div>
     <script src="{{ site.baseurl }}/scripts/responsive.js" type="text/javascript"></script>

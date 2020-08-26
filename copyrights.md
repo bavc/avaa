@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Copyrights
+lang: English
+ref: copyrights
+menu: true
+order: 10
 ---
 
 <img src="{{ site.baseurl }}/images/cc-by-nc-sa-300x104.png">

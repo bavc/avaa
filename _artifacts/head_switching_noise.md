@@ -4,6 +4,7 @@ title: Head Switching Noise
 categories: video analog
 tags: [Analog, Video, Noise, Device Error, Tape Error, Servo]
 formats: [VHS]
+lang: English
 ---
 
 Head switching noise is commonly seen at the bottom of video display during VHS playback. Although it occurs in other formats, it is often masked depending on the processing features and calibration of the playback VTR. During playback of videotape, video heads are turned on as they pass over the media and then turned off to prevent the display of noise that would be output when they are not in contact with the tape. Head switching noise is a result of that switching interval, and it occurs prior to the start of vertical sync. This artifact is not viewable in overscan on a broadcast monitor, but it is viewable in underscan and in full-raster digitized video and un-cropped digital derivatives. Some VTRs feature "SWP masking", which effectively masks the lines created during head switching with video black.

@@ -4,6 +4,7 @@ title: Electrical Ground Loop Interference Herringbone
 namevar: [Video Hum]
 categories: video analog
 tags: [Analog, Video, Electrical, RF, Cable, Device Error]
+lang: English
 ---
 
 The artifact below is exhibited as fine-patterned, light diagonal lines scrolling in the monitor. It is caused by RF interference in cabling, which can include AM radio signals. This RFI is exacerbated by electrical ground loop.

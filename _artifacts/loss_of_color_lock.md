@@ -4,6 +4,7 @@ title: Loss of Color Lock
 categories: video analog
 tags: [Analog, Video, Color, PAL, Color lock, Operator Error, Device Error]
 formats: [U-matic]
+lang: English
 ---
 
 Color lock is a process for reconstructing the color signal of primarily PAL-encoded U-matic tapes (Low and High Band) on playback. If the signal frequency is off, “the colour subcarrier will shift phase for the duration of one line, which means that colours will be reproduced incorrectly.”<sup><a href="#fn1" id="ref1">1</a></sup> The result is quite noticeable:

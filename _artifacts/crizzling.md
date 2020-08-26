@@ -5,7 +5,7 @@ categories: film analog
 namevar: [Crazing]
 tags: [Analog, Film]
 formats: [Film]
-published: true
+lang: English
 ---
 
 Crizzling is caused by an inherent fault in the chemical composition of the original film material.

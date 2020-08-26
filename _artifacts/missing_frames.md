@@ -3,7 +3,7 @@ layout: post
 title: Missing Frames
 categories: film analog
 tags: [Analog, Film]
-published: true
+lang: English
 ---
 
 Missing frames occur when the triggering of the scanner’s camera is not correctly timed. Often this is a software error, but it can also result when the hardware is not carefully designed.

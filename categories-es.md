@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Categories
+permalink: /categories-es.html
+title: Categorías
+lang: Español
+ref: categories
+menu: true
+order: 4
 ---
+<h2>Navegar Por Categorías</h2>
+
 {% assign rawtags = "" %}
 {% for post in site.artifacts %}
   {% assign ttags = post.categories | join:'|' | append:'|' %}
@@ -21,9 +28,7 @@ title: Categories
   {% endif %}
 {% endfor %}
 
-{% for tag in tags %}
-  <a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>
-{% endfor %}
+{% for tag in tags %}<a class="category-tag" href="{{ site.baseurl }}/categories.html#{{ tag | slugify }}"> {{ tag }} </a>{% endfor %}
 
 <h2>List</h2>
 
@@ -32,12 +37,14 @@ title: Categories
   <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
   <ul>
    {% for artifact in site.artifacts %}
-     {% if artifact.categories contains tag %}
-     <li><h3>
-       <a href="{{ site.baseurl }}{{ artifact.url }}">
-       {{ artifact.title }}
-       </a></h3>
-     </li>
+     {% if artifact.lang == page.lang %}
+       {% if artifact.categories contains tag %}
+       <li><h3>
+         <a href="{{ site.baseurl }}{{ artifact.url }}">
+         {{ artifact.title }}
+         </a></h3>
+       </li>
+       {% endif %}
      {% endif %}
    {% endfor %}
   </ul>

@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Unknown Artifacts
+lang: English
+ref: unknown
+menu: true
+order: 7
 ---
 
 Have an artifact but can't identify it? List it here and maybe others can help!  

@@ -3,6 +3,7 @@ layout: post
 title: Time Base Error
 categories: video analog
 tags: [Analog, Video, Time Base Corrector, Common Artifacts]
+lang: English
 ---
 
 Video signals rely on a complex, synchronized timing of information across all broadcast, playback and recording environments. Tiny changes in this timing can therefore affect the stability in a video signal, causing what are known as 'time base errors.' These errors take on the form of "flagging" or flagwaving at the top of the screen, "skewing" error at the bottom of the screen, or an interspersed, horizontal "tearing" of the image throughout the picture area.

@@ -4,6 +4,7 @@ title: Electromagnetic Interference
 namevar: [RF Interference]
 categories: audio analog
 tags: [Analog, Audio, Interference, Electrical, Cable, Common Artifacts]
+lang: English
 ---
 
 EMI is any type of interference caused by errant and unwanted electromagnetic waves that are received and amplified by an audio system. They can be picked up and recorded into an audio signal and heard upon playback of the contaminated recording. Commonly cited sources of EMI include power lines, engine ignition systems, light dimmers, as well as cell phones. Cell phone specific EMI is commonly termed “GSM Buzz”. GSM (Global System for Mobile) is emitted from cell phones with a pulse rate of 217 Hz, well within audible range.<sup><a href="#fn1" id="ref1">1</a></sup> "GSM Buzz" however is primarily associated with 1G and 2G cellular phone systems. With the advent of 3G and 4G cellular phone systems this problem is significantly reduced or eliminated as the method of communication between the phone and tower is different.<sup><a href="#fn2" id="ref2">2</a></sup>

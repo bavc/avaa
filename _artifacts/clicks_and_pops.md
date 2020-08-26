@@ -3,6 +3,7 @@ layout: post
 title: Click and Pops
 categories: audio analog
 tags: [Analog, Audio, Disc Playback, Cleaning, Common Artifacts]
+lang: English
 ---
 
 Clicks and pops commonly manifest on disc-based media as a result of damage to the disc or contaminants contacting the stylus during playback. However, they can also show up in magnetic tape recordings that encountered static electricity buildup during tape duplication. They can originate from the source media (analog clicks) or be introduced by the digitization hardware chain (digital clicks). For digital clicks and pops, please see our page on [Interstitial Error]({{ site.baseurl }}/artifacts/interstitial_error.html).

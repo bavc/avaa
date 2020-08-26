@@ -3,6 +3,7 @@ layout: post
 title: Audio Dropout
 categories: audio analog digital
 tags: [Analog, Digital, Audio, Magnetic Tape, Cleaning]
+lang: English
 ---
 
 Audio dropout is a brief reduction or loss of signal that occurs during playback, and it can be found in both analog and digital audio tape sources. Read about digital dropout [here]({{ site.baseurl }}/artifacts/digital_audio_dropout.html). Dropout is the result of a defect in the carrier or playback mechanism. Analog audio dropout is caused by anything that diminishes the uniformity of the magnetic media, such as dust, tape damage, or a defect in the tape stock.
