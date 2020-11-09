@@ -29,3 +29,7 @@ Dropout may also be recorded into the original content. This can be confirmed by
 
 <img src="{{ site.baseurl }}/images/3M_DebrisPerspectiveon1InchTapeTruncated.jpg">
 <sub>3M's Debris Perspective on 1" Tape, early 1970s</sub>
+
+## Affected equipment
+
+* <a href="{{ site.baseurl }}/_equipment/Panasonic_AG1980.md">Panasonic AG-1980</a>
