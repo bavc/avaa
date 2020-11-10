@@ -32,4 +32,4 @@ Dropout may also be recorded into the original content. This can be confirmed by
 
 ## Affected equipment
 
-* <a href="{{ site.baseurl }}/_equipment/Panasonic_AG1980.md">Panasonic AG-1980</a>
+* [Panaosnic AG-1980]({{ site.baseurl }}/equipment/Panasonic_AG1980.html)
