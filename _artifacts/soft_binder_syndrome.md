@@ -8,13 +8,15 @@ tags: [Analog, Audio, Open Reel Tape, Media Failure, Frequency Loss, Baking, Com
 
 Soft Binder Syndrome (SBS) is a term suggested by Richard Hess to describe the type of media degradation that has previously been called Sticky Shed Syndrome (SSS) or Loss of Lubricant (LOL). The stick-slip action that causes squealing as the tape moves across the playback head, believed to be caused by a soft binder, is symptomatic of both SSS and LOL.<sup><a href="#fn1" id="ref1">1</a></sup>
 
+Is your tape squealing? Hess has been documenting stock with known issues on this blog.<sup><a href="#fn2" id="ref2">2</a></sup>  
+
 ### Sticky Shed Syndrome
 
-Open reel polyester tapes with back-coating manufactured since the 1970s commonly suffer from binder breakdown due to the absorption of moisture (hydrolysis).<sup><a href="#fn2" id="ref2">2</a></sup> SSS can be tested for prior to playback by slowly unravelling the reel, and seeing whether the tape comes cleanly off the pack or if it sticks. If a tape suffering from SSS is played back, the heads and guides will quickly accumulate deposit, reducing high frequency response and often producing an audible squeal. Playback in this condition _will_ damage the tape.
+Open reel polyester tapes with back-coating manufactured since the 1970s commonly suffer from binder breakdown due to the absorption of moisture (hydrolysis).<sup><a href="#fn3" id="ref3">3</a></sup> SSS can be tested for prior to playback by slowly unravelling the reel, and seeing whether the tape comes cleanly off the pack or if it sticks. If a tape suffering from SSS is played back, the heads and guides will quickly accumulate deposit, reducing high frequency response and often producing an audible squeal. Playback in this condition _will_ damage the tape.
 
 ### Squealing tapes that do not respond to baking
 
-Loss of lubricant (LOL) may not be entirely accurate when describing non-SSS tapes that squeal, since lubricant is likely not the issue. In broad terms, LOL has been used for tapes that do not respond to incubation. This is confusing as tapes which squeal and do not respond to incubation have been shown to be carrying a normal lubricant load.<sup><a href="#fn3" id="ref3">3</a></sup>
+Loss of lubricant (LOL) may not be entirely accurate when describing non-SSS tapes that squeal, since lubricant is likely not the issue. In broad terms, LOL has been used for tapes that do not respond to incubation. This is confusing as tapes which squeal and do not respond to incubation have been shown to be carrying a normal lubricant load.<sup><a href="#fn4" id="ref4">4</a></sup>
 
 ## Can these be fixed?
 
@@ -38,7 +40,7 @@ Unfortunately there is no straightforward fix for a tape exhibiting loss of lubr
 
 * Cold playback - lowering the ambient temperature to the tape's glass transition temperature, i.e. playing the tape back in a fridge
 * Holding a q-tip (cotton bud) continually moistened with D5 siloxane against the tape during playback
-* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback.<sup><a href="#fn4" id="ref4">4</a></sup>
+* Creating a steady isopropyl alcohol drip to cool and lubricate the tape during playback.<sup><a href="#fn5" id="ref5">4</a></sup>
 
 These techniques employ slightly different mechanisms:
 
@@ -58,7 +60,8 @@ All tape suffers to some degree of stick-slip, but it is usually called “scrap
 
 ## References
 
-<sup id="fn1">1. Richard Hess, [“Tape degradation factors and challenges in prediction tape life,”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf) _ARSC Journal_ 39.2 (2008), 270-274. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>   
-<sup id="fn2">2. Kevin Bradley (ed), _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009), 57-59, or [here](http://www.iasa-web.org/tc04/magnetic-tapes-cleaning-and-carrier-restoration) on the web edition of the TC-04. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>  
-<sup id="fn3">3. Richard Hess, [“Tape degradation factors and challenges in prediction tape life”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf), 270-274. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
-<sup id="fn4">4. Marie O'Connell, [Wet playing of reel tapes with Loss of Lubricant](http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell), RichardHess.com, 09 March 2006. <a href="#ref4" title="Jump back to footnote 4 in the text.">↩</a></sup> 
+<sup id="fn1">1. Richard Hess, [“Tape degradation factors and challenges in prediction tape life,”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf) _ARSC Journal_ 39.2 (2008), 270-274. <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
+<sup id="fn2">2. Richard Hess, [Degrading Tapes](https://richardhess.com/notes/formats/magnetic-media/magnetic-tapes/analog-audio/degrading-tapes/), RichardHess.com, 23 November 2020. <a href="#ref2" title="Jump back to footnote 2 in the text.">↩</a></sup>
+<sup id="fn3">3. Kevin Bradley (ed), _Guidelines on the production and preservation of digital audio objects_, [IASA TC-04](http://www.iasa-web.org/tc04/audio-preservation) (2nd ed., 2009), 57-59, or [here](http://www.iasa-web.org/tc04/magnetic-tapes-cleaning-and-carrier-restoration) on the web edition of the TC-04. <a href="#ref3" title="Jump back to footnote 3 in the text.">↩</a></sup>  
+<sup id="fn4">4. Richard Hess, [“Tape degradation factors and challenges in prediction tape life”](http://www.richardhess.com/tape/history/HESS_Tape_Degradation_ARSC_Journal_39-2.pdf), 270-274. <a href="#ref3" title="Jump back to footnote 4 in the text.">↩</a></sup>  
+<sup id="fn5">5. Marie O'Connell, [Wet playing of reel tapes with Loss of Lubricant](http://richardhess.com/notes/2006/03/09/wet-playing-of-reel-tapes-with-loss-of-lubricant-a-guest-article-by-marie-oconnell), RichardHess.com, 09 March 2006. <a href="#ref4" title="Jump back to footnote 5 in the text.">↩</a></sup> 
