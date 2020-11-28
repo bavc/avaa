@@ -15,7 +15,7 @@ There are several videos that can help you determine how to do this:
 
 - [Cleaning HI8 Video8 Digital8 video head the correct way](https://www.youtube.com/watch?v=1KCz59TCy8E)
 - [General tips on MiniDV tapes and cleaning!](https://www.youtube.com/watch?v=zW3yT7zVN10)
-- [Head cleaning a 3/4" Utmatic Sony JVC VCR Beta SP Panasonic](https://www.youtube.com/watch?v=hrc0NLjE2ZY)
+- [Head cleaning a 3/4" U-matic Sony JVC VCR Beta SP Panasonic](https://www.youtube.com/watch?v=hrc0NLjE2ZY)
 - [How to Clean a VHS Video Recorder (The Professional Way)](https://www.youtube.com/watch?v=6_juqTYutXI)
 - [How to clean your VCR](https://www.youtube.com/watch?v=0egTI__8D5E)
 - [VCR Heads How to Clean Video Heads](https://www.youtube.com/watch?v=2-6XZZq8Nxs)
