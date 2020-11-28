@@ -11,6 +11,15 @@ When loose oxide builds up in the tape path, it can travel with the tape to the 
 
 Yes: stop playback and clean the video heads on the the player using an appropriate solvent and cotton swab. While you are at it, clean the tape path to prevent possible recontamination.
 
+There are several videos that can help you determine how to do this:
+
+- [Cleaning HI8 Video8 Digital8 video head the correct way](https://www.youtube.com/watch?v=1KCz59TCy8E)
+- [General tips on MiniDV tapes and cleaning!](https://www.youtube.com/watch?v=zW3yT7zVN10)
+- [Head cleaning a 3/4" Utmatic Sony JVC VCR Beta SP Panasonic](https://www.youtube.com/watch?v=hrc0NLjE2ZY)
+- [How to Clean a VHS Video Recorder (The Professional Way)](https://www.youtube.com/watch?v=6_juqTYutXI)
+- [How to clean your VCR](https://www.youtube.com/watch?v=0egTI__8D5E)
+- [VCR Heads How to Clean Video Heads](https://www.youtube.com/watch?v=2-6XZZq8Nxs)
+
 ## Example(s)
 
 <iframe src="https://archive.org/embed/AVAAHeadClog" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
