@@ -13,6 +13,7 @@ Yes: stop playback and clean the video heads on the the player using an appropri
 
 There are several videos that can help you determine how to do this:
 
+- [Cleaning HI8 Video8 Digital8 video head the correct way](https://www.youtube.com/watch?v=1KCz59TCy8E)
 - [General tips on MiniDV tapes and cleaning!](https://www.youtube.com/watch?v=zW3yT7zVN10)
 - [Head cleaning a 3/4" Utmatic Sony JVC VCR Beta SP Panasonic](https://www.youtube.com/watch?v=hrc0NLjE2ZY)
 - [How to Clean a VHS Video Recorder (The Professional Way)](https://www.youtube.com/watch?v=6_juqTYutXI)
