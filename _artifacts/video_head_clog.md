@@ -9,7 +9,7 @@ When loose oxide builds up in the tape path, it can travel with the tape to the 
 
 ## Can it be fixed?
 
-Yes: stop playback and clean the video heads on the the player using an appropriate solvent and cotton swab. While you are at it, clean the tape path to prevent possible recontamination.
+Yes: stop playback and clean the video heads on the the player using an appropriate solvent and a piece of paper. While you are at it, clean the tape path with a cotton swab to prevent possible recontamination.
 
 There are several videos that can help you determine how to do this:
 
