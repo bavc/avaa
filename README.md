@@ -2,7 +2,7 @@
 
 ## Contributing
 
-Please see our [contributor's guide](//www.avartifactatlas.com/contributors_guide.html) for how to add to this resource.
+Please see our [contributor's guide](//www.avartifactatlas.com/contributors_guide.html) for how to add to this mind-blowing resource.
 
 ## How to run this locally:
 
