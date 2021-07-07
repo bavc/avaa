@@ -3,12 +3,14 @@ description:
 logo: # 120x120 px default
 teaser: # 400x250 px default
 locale:
-baseurl: 
+baseurl:
 url: http://www.avartifactatlas.com/
-collections: 
+collections:
   artifacts:
     output: true
   formats:
+    output: true
+  equipment:
     output: true
 prose:
   rooturl: '_artifacts'
@@ -37,4 +39,3 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          
