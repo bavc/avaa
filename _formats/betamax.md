@@ -4,7 +4,7 @@ title: Betamax
 namevar: [Beta]
 categories: video analog
 tags: [Analog, Video]
-published: true
+lang: English
 ---
 
 Dates in use: 1975-mid-1980s

@@ -4,7 +4,7 @@ title: D-Series
 namevar: [D-1, D-2, D-3]
 categories: video digital
 tags: [Digital, Video, D-Series]
-published: true
+lang: English
 ---
 
 D-series family of magnetic tapes

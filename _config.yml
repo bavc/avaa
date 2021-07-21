@@ -16,7 +16,15 @@ t:
   Español:
     title: 'A/V Artifact Atlas'
     description: ''
-    home: es
+    code: es
+  Français:
+    title: 'A/V Artifact Atlas'
+    description: ''
+    code: fr
+  日本語:
+    title: 'A/V Artifact Atlas'
+    description: ''
+    code: jp
 
 
 prose:

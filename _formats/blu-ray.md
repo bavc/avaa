@@ -4,7 +4,7 @@ title: Blu-Ray
 namevar: [BD, Blu-Ray]
 categories: digital video
 tags: [Digital, Video, Optical]
-published: true
+lang: English
 ---
 
 Dates in use: 2006-present

@@ -4,6 +4,7 @@ title: VHS
 namevar: [Video Home System, S-VHS, Super Video Home System, Super VHS]
 categories: video analog
 tags: [Analog, Video]
+lang: English
 ---
 
 # VHS

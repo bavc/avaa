@@ -4,7 +4,7 @@ title: LaserDisc
 namevar: []
 categories: video analog
 tags: [Analog, Optical Disc, Video]
-published: true
+lang: English
 ---
 
 Dates in use: 1978-c.2002

@@ -22,13 +22,18 @@
         <div class="sidebar" id="sidebar">
             <div class="header">
                 <h1 class="title">
-                    <a href="{{ site.baseurl }}{{ site.t[page.lang].home }}/index.html"><img id="logo" src="{{ site.baseurl }}/images/logo.png"></a>
+                    <a href="{{ site.baseurl }}/{{ site.t[page.lang].code }}"><img id="logo" src="{{ site.baseurl }}/images/logo.png"></a>
                 </h1>
                 <span class="tagline"></span>
             </div>
+            <nav class="sidebar-nav-lang">
+                {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %} {% for page in pages %}
+                <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}" style="font-weight:bold;">{{ page.lang }}</a><br/> {% endfor %}
+                </ul>
+            </nav>
             <div class="posts">
                 <div class="search">
-                    <form action="{{ site.baseurl }}/search.html" method="get">
+                    <form action="{{ site.baseurl }}/{{ site.t[page.lang].code }}/search.html" method="get">
                         <input type="text" id="search_box" class="search-box" name="query">
                         <input type="submit" class="search-button" value="search">
                     </form>
@@ -36,16 +41,16 @@
             </div>
             <div class="posts">
                 <ul class="posts-list">
-                    {% assign pages_list = site.pages | where: "menu", true | sort: "order" %} {% for node in pages_list %} {% if node.lang == page.lang %}
+                    {% assign pages_list = site.pages | where: "menu", true | sort: "order" %} 
+                    {% for node in pages_list %} 
+                    {% if node.lang == page.lang %}
                     <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-                    {% endif %} {% endfor %}
+                    {% endif %} 
+                    {% endfor %}
                 </ul>
             </div>
 
-            <nav class="sidebar-nav-lang">Lang: {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %} {% for page in pages %}
-                <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-                </ul>
-            </nav>
+
 
             <div class="posts">
                 <h4>Browse by category</h4>
