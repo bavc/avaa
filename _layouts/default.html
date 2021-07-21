@@ -26,11 +26,13 @@
                 </h1>
                 <span class="tagline"></span>
             </div>
-            <nav class="sidebar-nav-lang">
+            <!-- Uncomment this block when translations are complete (or link manually if some become complete before others!) -->
+            <!-- <nav class="sidebar-nav-lang">
                 {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %} {% for page in pages %}
-                <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}" style="font-weight:bold;">{{ page.lang }}</a><br/> {% endfor %}
+                <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}" style="font-weight:bold;">{{ page.lang }}</a><br/> 
+                {% endfor %}
                 </ul>
-            </nav>
+            </nav> -->
             <div class="posts">
                 <div class="search">
                     <form action="{{ site.baseurl }}/{{ site.t[page.lang].code }}/search.html" method="get">
@@ -41,17 +43,11 @@
             </div>
             <div class="posts">
                 <ul class="posts-list">
-                    {% assign pages_list = site.pages | where: "menu", true | sort: "order" %} 
-                    {% for node in pages_list %} 
-                    {% if node.lang == page.lang %}
+                    {% assign pages_list = site.pages | where: "menu", true | sort: "order" %} {% for node in pages_list %} {% if node.lang == page.lang %}
                     <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-                    {% endif %} 
-                    {% endfor %}
+                    {% endif %} {% endfor %}
                 </ul>
             </div>
-
-
-
             <div class="posts">
                 <h4>Browse by category</h4>
                 {% for tag in tags %}
