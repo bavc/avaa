@@ -6,7 +6,7 @@ categories: video analog
 tags:
   - Analog
   - Video
-published: true
+lang: English
 ---
 
 Dates in use: 1965-late 1970s

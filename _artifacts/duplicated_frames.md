@@ -4,7 +4,7 @@ title: Duplicated Frames
 categories: film analog
 tags: [Analog, Film]
 formats: [Film]
-published: true
+lang: English
 ---
 
 Duplicated frames may occur when the triggering of the camera is not correctly timed.

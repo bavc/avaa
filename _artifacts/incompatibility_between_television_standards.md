@@ -3,6 +3,7 @@ layout: post
 title: Incompatibility Between Television Standards
 categories: video analog
 tags: [Analog, Video, Operator Error, Long Play, Extended Play]
+lang: English
 ---
 
 

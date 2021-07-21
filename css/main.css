@@ -65,7 +65,8 @@ a:hover {
 }
 
 .posts-list {
-  list-style-type: none;
+  list-style-type: square;
+  padding-left: 1em;
 }
 
 .posts-list li {
@@ -73,7 +74,7 @@ a:hover {
   font-weight: 600;
 }
 
-.artefact-tag,
+.artifact-tag,
 .category-tag {
   border: 1px solid black;
   border-radius: 5px;
@@ -82,7 +83,7 @@ a:hover {
   padding: 6px;
 }
 
-.artefact-tag:hover,
+.artifact-tag:hover,
 .category-tag:hover {
   background-color: rgb(221, 221, 221);
   border: 1px solid black;
@@ -147,8 +148,8 @@ a:hover {
 .posts {
   border-top: 1px solid #e7e7e7;
   margin-top: 1em;
-  padding-top: 1.5em;
-  padding-bottom: 1.25em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .footer {
@@ -261,9 +262,9 @@ a:hover {
 
 .sidebar {
   float: left;
-  width: 10%;
-  padding-left: 10em;
-  padding-right: 2em;
+  width: 15%;
+  padding-left: 1em;
+  padding-right: 1em;
   border-right: 1px solid #e7e7e7;
 }
 
@@ -273,7 +274,7 @@ a:hover {
 
 .header {
   text-align: center;
-  padding-top: 2.5em;
+  padding-top: 2em;
   font-size: 1.1em;
 }
 

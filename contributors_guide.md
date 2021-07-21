@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Contributors Guide
+lang: English
+ref: contributors_guide
+menu: true
+order: 8
 ---
 
 <img src="{{ site.baseurl }}/images/jeromecaja_crashrecord.png" align="center">

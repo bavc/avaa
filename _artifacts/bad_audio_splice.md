@@ -3,6 +3,7 @@ layout: post
 title: Bad Audio Splice
 categories: audio analog
 tags: [Analog, Audio, Magnetic Tape, Cleaning]
+lang: English
 ---
 
 Magnetic tape can be cut and pasted back together with "splicing tape," a thin piece of adhesive tape, specifically designed for splicing. When a splice is done carefully, it can be inaudible. However, even a good splice done using proper tape can break down over time. When the glue in the adhesive tape breaks down, the splice can fall off during playback or cause adjacent layers of tape to stick, often causing a brief [Wow and Flutter]({{ site.baseurl }}/artifacts/wow_and_flutter.html) artifact.

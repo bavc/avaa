@@ -4,7 +4,7 @@ title: CD
 namevar: [Compact Disc, VCD, Compact Disc Read-Only Memory, Compact Disc Digital Video]
 categories: audio video digital
 tags: [Audio, Video, Optical Disc, Digital, Data]
-published: true
+lang: English
 ---
 
 # CD (Audio)

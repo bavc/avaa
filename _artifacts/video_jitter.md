@@ -3,6 +3,7 @@ layout: post
 title: Video Jitter
 categories: video analog
 tags: [Video]
+lang: English
 ---
 
 Small and rapid variations in a waveform due to mechanical disturbances, changes in the characteristics of components, supply voltages, imperfect synchronizing signals, circuits, etc.

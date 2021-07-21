@@ -3,6 +3,7 @@ layout: post
 title: Audio Phase Error
 categories: audio analog
 tags: [Analog, Audio, Phase, Mono, Stereo]
+lang: English
 ---
 
 Problems with phase in audio result in many different symptoms.  Its control is a high-level topic at the heart of audio engineering.

@@ -4,7 +4,7 @@ title: DV
 namevar: [DVC, Digital Video Cassette, Digital 8, Video8, Hi8, Hi-8, MiniDV, DVCAM, DVCPRO]
 categories: video
 tags: [Video]
-published: true
+lang: English
 ---
 
 # DV 

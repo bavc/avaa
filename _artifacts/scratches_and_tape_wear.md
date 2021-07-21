@@ -4,6 +4,7 @@ title: Damage, Scratches and Tape Wear
 categories: video analog
 tags: [Analog, Video, Audio, Abrasion, Gouging, Media Damage, Tape Error, Common Artifacts]
 formats: [Betamax, U-matic, VHS]
+lang: English
 ---
 
 When tape is scratched or worn from use, the magnetic material containing recorded information is easily affected, resulting in partial or complete information loss perceptible on playback. “Single, well-defined scratches should be distinguished from general mechanical wear and tear, which takes the form of many tiny scratches. Tape wear is the result of frequent playback, and is characteristic of exhibition and viewing copies”<sup><a href="#fn1" id="ref1">1</a></sup> in the case of video, and well-used listening copies of audio.  When tape is damaged by mishandling, scratches may be introduced in any direction or location on the media. “In this case, the resulting noise bands will drift down the screen from top to bottom, or vice versa.... Only if the scratches actually damage the control track or the areas at the start of each helical track where the vertical sync pulse is recorded will a vertically rolling picture occur.”<sup><a href="#fn2" id="ref2">2</a></sup>

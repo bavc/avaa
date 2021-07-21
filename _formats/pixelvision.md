@@ -4,7 +4,7 @@ title: PixelVision
 namevar: [PXL-2000, Fisher-Price PXL2000]
 categories: video analog audio
 tags: [Analog, Video, Audio]
-published: true
+lang: English
 ---
 
 Dates in use: 1987-1990s

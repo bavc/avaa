@@ -5,7 +5,7 @@ categories: film analog
 namevar: [Dye fade, Magenta]
 tags: [Analog, Film, Color]
 formats: [Film]
-published: true
+lang: English
 ---
 
 [Definition to go here!]

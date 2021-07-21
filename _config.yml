@@ -1,15 +1,32 @@
 title: AVAA
 description:
-logo: # 120x120 px default
-teaser: # 400x250 px default
-locale:
-baseurl: 
+baseurl:
 url: http://www.avartifactatlas.com/
-collections: 
+collections:
   artifacts:
     output: true
   formats:
     output: true
+
+defaultlang: eng
+t:
+  English:
+    title: 'A/V Artifact Atlas'
+    description: ''
+  Español:
+    title: 'A/V Artifact Atlas'
+    description: ''
+    code: es
+  Français:
+    title: 'A/V Artifact Atlas'
+    description: ''
+    code: fr
+  日本語:
+    title: 'A/V Artifact Atlas'
+    description: ''
+    code: jp
+
+
 prose:
   rooturl: '_artifacts'
   siteurl: 'http://www.avartifactatlas.com/'
@@ -37,4 +54,3 @@ prose:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
-          

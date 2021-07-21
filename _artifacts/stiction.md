@@ -3,6 +3,7 @@ layout: post
 title: Stiction
 categories: video analog
 tags: [Analog, Video, Media Failure, Cleaning, Tape Error]
+lang: English
 ---
 
 This artifact is visible (and audible) when media suffering from hydrolysis or contamination is restricted from moving through the tape path correctly during playback, indicating that the media needs treatment. This may also indicate that the media is suffering from sticky shed syndrome, and playback should be stopped immediately and the tape removed carefully from the VTR.

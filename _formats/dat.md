@@ -4,7 +4,7 @@ title: DAT
 namevar: [Digital Audio Tape, R-DAT]
 categories: digital audio
 tags: [Digital, Audio]
-published: true
+lang: English
 ---
 
 Dates in use: 1987-2005

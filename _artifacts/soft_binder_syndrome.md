@@ -4,6 +4,7 @@ title: Soft Binder Syndrome
 categories: audio analog
 namevar: [Hydrolysis, Sticky Shed Syndrome, Loss of Lubricant]
 tags: [Analog, Audio, Open Reel Tape, Media Failure, Frequency Loss, Baking, Common Artifacts]
+lang: English
 ---
 
 Soft Binder Syndrome (SBS) is a term suggested by Richard Hess to describe the type of media degradation that has previously been called Sticky Shed Syndrome (SSS) or Loss of Lubricant (LOL). The stick-slip action that causes squealing as the tape moves across the playback head, believed to be caused by a soft binder, is symptomatic of both SSS and LOL.<sup><a href="#fn1" id="ref1">1</a></sup>

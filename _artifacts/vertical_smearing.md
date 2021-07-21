@@ -3,6 +3,7 @@ layout: post
 title: Vertical Smearing
 categories: digital video
 tags: [Digital, Video]
+lang: English
 ---
 
 Likely due to truncated data when the duration doesn't line up exactly with an MPEG-2 frame.

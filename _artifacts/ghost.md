@@ -4,6 +4,7 @@ title: Ghost
 categories: video analog
 namevar: [Echo, Print Through]
 tags: [Video, Ghosting, Common Artifacts]
+lang: English
 ---
 
 _Ghost_ is a shadowy or weak image in the received picture, offset either to the right or to the left of the primary image. It is the result of transmission conditions where secondary signals are created and received earlier or later than the primary signal caused by a reflected RF signal.

@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Gallery
+lang: English
+ref: gallery
+menu: true
+order: 6
 ---
 
 Below are all the images used and hosted on the AVAA. To browse videos, please see our videos hosted at the [AV Artifact Atlas Collection on Internet Archive](https://archive.org/details/avartifactatlas?sort=-date). To browse audio samples, please see our audio hosted on Soundcloud [here](https://soundcloud.com/av_artifact_atlas).

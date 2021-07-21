@@ -4,7 +4,7 @@ title: Audiocassette
 namevar: [Compact Cassette, Cassette tape, Musicassette, MC]
 categories: audio analog
 tags: [Analog, Audio]
-published: true
+lang: English
 ---
 
 The audiocassette is an analog magnetic tape recording format for audio recording and playback.

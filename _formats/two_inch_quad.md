@@ -4,6 +4,7 @@ title: 2" Quad
 namevar: [Quadruplex, Quad, 2-inch]
 categories: video analog
 tags: [Analog, Video]
+lang: English
 ---
 
 Dates in use: 1956-1980s

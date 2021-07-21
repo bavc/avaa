@@ -4,6 +4,7 @@ title: Crushed Setup
 namevar: [Low black level]
 categories: video analog
 tags: [Analog, Video, Black Levels, Operator Error, Common Artifacts]
+lang: English
 ---
 
 The bottom end of the video signal is important because shadow detail is lost when pedestal and mid-range [black levels](http://en.wikipedia.org/wiki/Black_level black ) are pushed down. Just as overly bright video can cause a loss of video information, analog video that falls below 7.5 [IRE](http://en.wikipedia.org/wiki/IRE_(unit)) and clips at 0 IRE during reformatting will result in dark video and loss of image. This issue is particularly frustrating when it is found in digitized video because it is not likely that post-digitization adjustment can bring back the lost detail. The video must be reformatted again to capture the entire range of values.

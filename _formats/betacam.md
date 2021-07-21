@@ -4,7 +4,7 @@ title: Betacam
 namevar: [Betacam oxide, Betacam SP, Betacam Super Performance, Betacam SX, Digital Betacam, DigiBeta]
 categories: video analog
 tags: [Analog, Video]
-published: true
+lang: English
 ---
 
 # Betacam

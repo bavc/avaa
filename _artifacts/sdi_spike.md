@@ -3,6 +3,7 @@ layout: post
 title: SDI Spike
 categories: video digital
 tags: [Video, Digital]
+lang: English
 ---
 
 <img src="{{ site.baseurl }}/images/SDISpike_Flat.jpg">
