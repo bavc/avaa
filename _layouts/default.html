@@ -35,7 +35,7 @@
             </nav> -->
             <div class="posts">
                 <div class="search">
-                    <form action="{{ site.baseurl }}/{{ site.t[page.lang].code }}/search.html" method="get">
+                    <form action="{{ site.baseurl }}{% if site.t[page.lang].code %}/{{ site.t[page.lang].code }}{% endif %}/search.html" method="get">
                         <input type="text" id="search_box" class="search-box" name="query">
                         <input type="submit" class="search-button" value="search">
                     </form>
