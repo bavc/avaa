@@ -9,8 +9,10 @@ order: 4
 
 {% assign rawtags = "" %}
 {% for post in site.artifacts %}
-  {% assign ttags = post.categories | join:'|' | append:'|' %}
-  {% assign rawtags = rawtags | append:ttags %}
+  {% if post.lang == page.lang %}
+    {% assign ttags = post.categories | join:'|' | append:'|' %}
+    {% assign rawtags = rawtags | append:ttags %}
+  {% endif %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
 
@@ -35,15 +37,13 @@ order: 4
   <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
   <ul>
    {% for artifact in site.artifacts %}
-     {% if artifact.lang == page.lang %}
-       {% if artifact.categories contains tag %}
+      {% if artifact.lang == page.lang and artifact.categories contains tag %}
        <li><h3>
          <a href="{{ site.baseurl }}{{ artifact.url }}">
          {{ artifact.title }}
          </a></h3>
        </li>
-       {% endif %}
-     {% endif %}
+      {% endif %}
    {% endfor %}
   </ul>
 {% endfor %}
