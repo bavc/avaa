@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hum and Buzz
-categories: video audio analog digital
+categories:  ビデオ オーディオ アナログ デジタル
 tags: [Analog, Digital, Audio, Video, Balanced Cables, Power Supply, Cable, Common Artifacts]
 lang: 日本語
 ---

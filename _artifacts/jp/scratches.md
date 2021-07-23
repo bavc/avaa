@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scratches
-categories: film analog
+categories:  フィルム アナログ  
 tags: [Analog, Film]
 formats: [Film]
 lang: 日本語

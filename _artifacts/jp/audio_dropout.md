@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Dropout
-categories: audio analog digital
+categories:  オーディオ  アナログ  デジタル
 tags: [Analog, Digital, Audio, Magnetic Tape, Cleaning]
 lang: 日本語
 ---

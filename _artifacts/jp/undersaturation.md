@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Undersaturation
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Undersaturation, Chrominance, Common Artifacts]
 formats: [VHS, U-matic]
 lang: 日本語

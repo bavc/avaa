@@ -2,7 +2,7 @@
 layout: post
 title: Electromagnetic Interference
 namevar: [RF Interference]
-categories: audio analog
+categories:  オーディオ  アナログ  
 tags: [Analog, Audio, Interference, Electrical, Cable, Common Artifacts]
 lang: 日本語
 ---

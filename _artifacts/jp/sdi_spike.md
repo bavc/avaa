@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SDI Spike
-categories: video digital
+categories:  ビデオ デジタル
 tags: [Video, Digital]
 lang: 日本語
 ---

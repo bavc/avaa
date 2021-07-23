@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Print-through
-categories: audio analog
+categories:  オーディオ  アナログ  
 namevar: [Interlayer Transfer]
 tags: [Analog, Audio, Pre-echo, Post-echo, Rewinding, Magnetostrictive Action]
 lang: 日本語

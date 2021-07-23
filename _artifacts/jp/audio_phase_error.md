@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Phase Error
-categories: audio analog
+categories:  オーディオ  アナログ  
 tags: [Analog, Audio, Phase, Mono, Stereo]
 lang: 日本語
 ---

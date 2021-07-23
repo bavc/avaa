@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DV Quilting
-categories: video digital
+categories:  ビデオ デジタル
 tags: [Digital, Video, Quilting, Discrete Cosine Transform, Error, DV]
 formats: [DV]
 lang: 日本語

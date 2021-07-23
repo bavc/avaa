@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Overwrite
-categories: video analog digital
+categories:  ビデオ アナログ デジタル
 tags: [Video]
 lang: 日本語
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analog Noise
-categories: audio analog
+categories:  オーディオ  アナログ  
 tags: [Analog, Audio, Noise, Magnetic Tape, Cassette, Common Artifacts]
 lang: 日本語
 ---

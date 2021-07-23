@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Low RF
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, RF, Cleaning]
 lang: 日本語
 ---

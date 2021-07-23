@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ringing
-categories: video analog
+categories:  ビデオ アナログ  
 namevar: [Overshoot]
 tags: [Analog, Video, Cable, Time Base Corrector]
 formats: [U-matic]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tracking Error
-categories: video analog
+categories:  ビデオ アナログ  
 namevar: [Mistracking]
 tags: [Analog, Video, Tracking Error, Common Artifacts]
 formats: [Betamax, VHS]

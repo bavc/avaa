@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oversaturation
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Cable, Chrominance, Color, Hue, Operator Error, Tape Error, Time Base Corrector, Common Artifacts]
 lang: 日本語
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muffled Sound
-categories: audio analog
+categories:  オーディオ  アナログ  
 namevar: [Azimuth Error]
 tags: [Audio, Analog, Azimuth, Error, Frequency Loss, Playback Adjustment, Media Failure, Media Damage, Oxide Out, Common Artifacts]
 lang: 日本語

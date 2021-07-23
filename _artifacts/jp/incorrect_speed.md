@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Incorrect Speed
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Audio, Analog, Deck Failure, Operator Error, Pitch, Speed Fluctuation]
 lang: 日本語
 ---

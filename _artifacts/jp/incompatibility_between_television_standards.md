@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Incompatibility Between Television Standards
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Operator Error, Long Play, Extended Play]
 lang: 日本語
 ---

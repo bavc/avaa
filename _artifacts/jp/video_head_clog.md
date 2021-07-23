@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Head Clog
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Video, Analog, Media Failure, Cleaning, Head Clog, Common Artifacts]
 formats: [VHS, U-matic]
 lang: 日本語
