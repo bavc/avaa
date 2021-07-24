@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Scrape Flutter
-categories: audio analog
+categories:  audio análogo
 tags: [Analog, Audio, flutter, sticky, deterioration, lubrication]
 lang: Español
 ---

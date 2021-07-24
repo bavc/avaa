@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Luminance Noise
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Luminance, Noise, Cable, Cleaning]
 lang: Español
 ---

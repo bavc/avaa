@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Jitter
-categories: video analog
+categories:  video análogo
 tags: [Video]
 lang: Español
 ---

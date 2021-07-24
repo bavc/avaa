@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analogue Slipping
-categories: film analog
+categories:  film análogo
 tags: [Analog, Film]
 published: true
 lang: Español

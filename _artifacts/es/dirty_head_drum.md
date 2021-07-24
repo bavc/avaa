@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dirty Head Drum
-categories: video analog
+categories:  video análogo
 namevar: [Occlusion]
 tags: [Analog, Video, Head Clog, Dirt, U-matic]
 formats: [U-matic]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stiction
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Media Failure, Cleaning, Tape Error]
 lang: Español
 ---

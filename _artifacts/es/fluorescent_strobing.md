@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fluorescent Strobing
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Flicker, Strobing, Production Error]
 lang: Español
 ---

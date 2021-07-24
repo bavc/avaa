@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sync Loss
-categories: video analog
+categories:  video análogo
 namevar: [Roll]
 tags: [Analog, Video, Synchronization]
 lang: Español

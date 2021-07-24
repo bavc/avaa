@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Colour Shift
-categories: film analog
+categories:  film análogo
 namevar: [Dye fade, Magenta]
 tags: [Analog, Film, Color]
 formats: [Film]
