@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Head Clog Banding
-categories: video digital
+categories: vidéo digital
 tags: [Digital, Video, Head Clog, Banding, DV]
 formats: [DV]
 lang: Français

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visible Frame Line
-categories: film analog
+categories: film analogique
 tags: [Film]
 formats: [Film]
 lang: Français

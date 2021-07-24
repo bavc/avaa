@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White Balance Error
-categories: video analog digital
+categories: vidéo analogique digital
 tags: [Video, Analog, Digital]
 lang: Français
 ---

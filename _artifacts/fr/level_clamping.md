@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Level Clamping
-categories: video analog
+categories: vidéo analogique
 namevar: [clipping, legalizing]
 tags: [Video, Transfer Artifact, Station Qualification, Digitization, Levels, Waveform]
 lang: Français

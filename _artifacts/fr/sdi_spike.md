@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SDI Spike
-categories: video digital
+categories: vidéo digital
 tags: [Video, Digital]
 lang: Français
 ---

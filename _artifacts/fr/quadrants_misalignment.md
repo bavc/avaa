@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadrants Misalignment
-categories: film analog
+categories: film analogique
 tags: [Analog, Film]
 formats: [Film]
 lang: Français

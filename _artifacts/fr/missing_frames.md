@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Missing Frames
-categories: film analog
+categories: film analogique
 tags: [Analog, Film]
 lang: Français
 ---

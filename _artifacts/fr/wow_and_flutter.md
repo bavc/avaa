@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wow and Flutter
-categories: audio analog
+categories: audio analogique
 namevar: [Speed Fluctuation]
 tags: [Audio, Analog, Deck Failure, Speed Fluctuation, Pitch, Dying Batteries, Warble, Common Artifacts]
 lang: Français

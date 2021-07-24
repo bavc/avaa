@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DV Record Head Clog
-categories: video digital
+categories: vidéo digital
 tags: [DV, Dropout, Head Clog]
 formats: [DV]
 lang: Français

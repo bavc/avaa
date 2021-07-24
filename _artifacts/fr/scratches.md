@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scratches
-categories: film analog
+categories: film analogique
 tags: [Analog, Film]
 formats: [Film]
 lang: Français

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analog Distortion
-categories: audio analog
+categories: audio analogique
 namevar: [Overload distortion, Harmonic distortion, Transient distortion, Nonlinear distortion, Intermodulation distortion]
 tags: [Analog, Audio, Operator Error, Levels Too Hot, Noise, Clipping]
 lang: Français

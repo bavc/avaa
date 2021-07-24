@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Dropout
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Dropout, Common Artifacts]
 lang: Français
 ---

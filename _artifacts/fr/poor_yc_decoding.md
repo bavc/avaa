@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poor Y/C Decoding (S-Video crosstalk)
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Cable, Production Error]
 lang: Français
 ---

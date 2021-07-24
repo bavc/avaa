@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Damage, Scratches and Tape Wear
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Audio, Abrasion, Gouging, Media Damage, Tape Error, Common Artifacts]
 formats: [Betamax, U-matic, VHS]
 lang: Français

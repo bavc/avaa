@@ -2,7 +2,7 @@
 layout: post
 title: Crash Record
 namevar: [Crash edit, Color smearing after an editing cut]
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Production Error, Color smearing, Editing cut]
 formats: [DV]
 lang: Français

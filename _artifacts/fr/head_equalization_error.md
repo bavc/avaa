@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Head Equalization Error
-categories: video analog
+categories: vidéo analogique
 tags: [Video, Analog, Chrominance, Hue, Banding, 2-inch Quad, Open Reel Tape, Device Error]
 formats: [2" Quad]
 lang: Français

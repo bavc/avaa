@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Y/C Delay Error
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Y/C Delay Error]
 lang: Français
 ---

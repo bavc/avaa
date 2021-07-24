@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mosquito Noise
-categories: video digital
+categories: vidéo digital
 tags: [Digital, Video, Noise, MPEG, DV25, Discrete Cosine Transform]
 lang: Français
 ---

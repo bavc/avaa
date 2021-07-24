@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DV Dropout
-categories: video digital
+categories: vidéo digital
 tags: [Digital, Video, DV, Dropout, Cleaning]
 formats: [DV]
 lang: Français

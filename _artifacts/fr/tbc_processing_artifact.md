@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBC Processing Artifact
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Time Base Corrector, Processing Artifact]
 lang: Français
 ---

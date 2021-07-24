@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Skew Error
-categories: video analog
+categories: vidéo analogique
 namevar: [Flagging]
 tags: [Analog, Video, Skew, Error, Time Base Corrector, Expansion, Shrinkage, Media Damage, Device Error, Tape Error, Common Artifacts]
 formats: [U-matic]
