@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moiré Effect
-categories: video analog
+categories:  video análogo
 tags: [Interference, Video, Analog]
 lang: Español
 ---

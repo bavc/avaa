@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interstitial Error
-categories: video digital
+categories: vidéo digital
 tags: [Audio, Digital, System Failure, Dropout, Digital Clicks]
 lang: Français
 ---

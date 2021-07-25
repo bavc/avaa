@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video Dropout
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Dropout, Common Artifacts]
 lang: 日本語
 ---

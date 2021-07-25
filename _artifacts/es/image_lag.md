@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image Lag
-categories: video analog
+categories:  video análogo
 namevar: [Ghosting, Smearing, Burn-in, Comet Tails, Luma Trails, Luminance Blooming]
 tags: [Ghosting, Smearing, Comet Tails, Tape Error, Analog, Video, Luminance Blooming]
 lang: Español

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Visible Frame Line
-categories: film analog
+categories:  フィルム アナログ  
 tags: [Film]
 formats: [Film]
 lang: 日本語

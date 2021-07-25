@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dirt
-categories: film analog
+categories:  film análogo
 tags: [Analog, Film]
 formats: [Film]
 lang: Español

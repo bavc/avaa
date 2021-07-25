@@ -2,7 +2,7 @@
 layout: post
 title: Electrical Ground Loop Interference Herringbone
 namevar: [Video Hum]
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Electrical, RF, Cable, Device Error]
 lang: 日本語
 ---

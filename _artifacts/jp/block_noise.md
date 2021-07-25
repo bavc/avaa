@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Block Noise
-categories: digital video
+categories:  デジタル ビデオ 
 tags: [Digital, Video, Noise]
 lang: 日本語
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vacuum Guide Adjustment Error
-categories: video analog
+categories:  video análogo
 tags: [Video, Analog, 2-inch Quad, Time Base Corrector, Playback Adjustment, Open Reel Tape]
 formats: [2" Quad]
 lang: Español

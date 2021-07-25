@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Overwrite
-categories: audio analog digital
+categories:  オーディオ  アナログ  デジタル
 tags: [Audio, Analog, Digital]
 lang: 日本語
 ---

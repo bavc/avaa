@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tape Deformation
-categories: video audio analog
+categories:  オーディオ ビデオ アナログ
 tags: [Analog, Video, Audio, Deformation, Edge curl, Curvature error, Step pack, Popped strand, Flange pack, Windowing, Spoking, Media Damage]
 lang: 日本語
 ---

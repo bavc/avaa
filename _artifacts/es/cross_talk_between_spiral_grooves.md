@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cross-talk Between Spiral Grooves
-categories: audio analog
+categories:  audio análogo
 tags: [Audio, Disc Playback, Pre-echo, Analog]
 lang: Español
 ---

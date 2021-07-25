@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrominance Noise
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Chrominance, Noise, Common Artifacts]
 lang: Español
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quadrants Misalignment
-categories: film analog
+categories:  フィルム アナログ  
 tags: [Analog, Film]
 formats: [Film]
 lang: 日本語

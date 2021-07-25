@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bad Audio Splice
-categories: audio analog
+categories:  audio análogo
 tags: [Analog, Audio, Magnetic Tape, Cleaning]
 lang: Español
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sub-sampling artifact
-categories: video digital
+categories: vidéo digital
 tags: [Digital, Video, DV25, Sub-sampling]
 lang: Français
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Horizontal Pixel Misalignment
-categories: film analog
+categories:  film análogo
 tags: [Analog, Film]
 lang: Español
 ---

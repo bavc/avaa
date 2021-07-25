@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vertical Smearing
-categories: digital video
+categories:  デジタル ビデオ 
 tags: [Digital, Video]
 lang: 日本語
 ---

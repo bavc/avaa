@@ -2,7 +2,7 @@
 layout: post
 title: Carrier Leak
 namevar: [Faulty carrier balance, Asymmetric carrier, Residual carrier]
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Device Error]
 lang: Español
 ---

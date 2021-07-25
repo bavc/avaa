@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Loss of Color Lock
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Color, PAL, Color lock, Operator Error, Device Error]
 formats: [U-matic]
 lang: Français

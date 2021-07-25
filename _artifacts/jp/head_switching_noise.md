@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Head Switching Noise
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Noise, Device Error, Tape Error, Servo]
 formats: [VHS]
 lang: 日本語

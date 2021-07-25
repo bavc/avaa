@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Click and Pops
-categories: audio analog
+categories:  audio análogo
 tags: [Analog, Audio, Disc Playback, Cleaning, Common Artifacts]
 lang: Español
 ---

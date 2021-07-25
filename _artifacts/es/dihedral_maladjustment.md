@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dihedral Maladjustment
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Device Error, Tape Error]
 lang: Español
 ---

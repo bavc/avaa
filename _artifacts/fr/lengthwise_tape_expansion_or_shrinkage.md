@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lengthwise Tape Expansion or Shrinkage
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Tape Error]
 lang: Français
 ---

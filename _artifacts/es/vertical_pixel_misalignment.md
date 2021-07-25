@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vertical Pixel Misalignment
-categories: film analog
+categories:  film análogo
 tags: [Analog, Film]
 lang: Español
 ---

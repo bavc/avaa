@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crizzling
-categories: film analog
+categories:  フィルム アナログ  
 namevar: [Crazing]
 tags: [Analog, Film]
 formats: [Film]

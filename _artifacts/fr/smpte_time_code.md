@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SMPTE Time Code
-categories: audio video film
+categories: audio vidéo film
 tags: [Analog, Audio, Video, Film, Pulse, Synchronization, Open Reel Tape]
 lang: Français
 ---

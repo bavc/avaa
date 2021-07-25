@@ -2,7 +2,7 @@
 layout: post
 title: Crushed Setup
 namevar: [Low black level]
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Black Levels, Operator Error, Common Artifacts]
 lang: Français
 ---

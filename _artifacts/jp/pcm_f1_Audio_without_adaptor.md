@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PCM F1 Audio without Adaptor
-categories: audio digital
+categories:  オーディオ デジタル
 namevar: [PCM, F1, digital audio]
 tags: [Audio, Digital, U-matic, Betamax]
 formats: [U-matic, Betamax]

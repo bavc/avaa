@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soft Binder Syndrome
-categories: audio analog
+categories: audio analogique
 namevar: [Hydrolysis, Sticky Shed Syndrome, Loss of Lubricant]
 tags: [Analog, Audio, Open Reel Tape, Media Failure, Frequency Loss, Baking, Common Artifacts]
 lang: Français

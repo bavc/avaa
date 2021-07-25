@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time Base Error
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Video, Time Base Corrector, Common Artifacts]
 lang: Français
 ---

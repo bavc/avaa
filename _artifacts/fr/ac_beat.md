@@ -2,7 +2,7 @@
 layout: post
 title: Electrical Ground Loop Interference AC Beat
 namevar: [Video hum]
-categories: video analog
+categories: vidéo analogique
 tags: [Analog, Audio, Video, Electrical, Cable, Device Error, Common Artifacts]
 lang: Français
 ---

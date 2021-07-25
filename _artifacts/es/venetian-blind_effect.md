@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Venetian-blind Effect
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, PAL, Time Base Corrector, Color]
 lang: Español
 ---

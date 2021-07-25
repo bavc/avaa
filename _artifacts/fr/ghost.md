@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ghost
-categories: video analog
+categories: vidéo analogique
 namevar: [Echo, Print Through]
 tags: [Video, Ghosting, Common Artifacts]
 lang: Français

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Long Play
-categories: video analog
+categories: vidéo analogique
 tags: [Video, Analog, LP, Long Play, Operator Error]
 formats: [VHS, Betamax, DV]
 lang: Français

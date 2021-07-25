@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Subcarrier Phase Error
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Phase, Hue, Operator Error, Device Error, Common Artifacts]
 lang: 日本語
 ---

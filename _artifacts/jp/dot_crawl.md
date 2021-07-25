@@ -2,7 +2,7 @@
 layout: post
 title: Dot Crawl
 namevar: [Chroma crawl]
-categories: video analog
+categories:  ビデオ アナログ  
 tags: [Analog, Video, Dot Crawl]
 lang: 日本語
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Audio Dropout
-categories: analog audio digital
+categories: análogo audio digital
 tags: [Audio, Digital, Dropout, Magnetic Tape, Playback Adjustment]
 formats: [DAT]
 lang: Español

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: High Video Level
-categories: video analog
+categories:  video análogo
 tags: [Analog, Video, Operator Error, Tape Error, Time Base Corrector, Levels Too Hot, Clipping]
 lang: Español
 ---

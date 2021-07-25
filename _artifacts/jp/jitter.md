@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Audio Jitter
-categories: audio
+categories: オーディオ
 tags: [Analog, Error, Noise, Clicks, Digital, Audio, Common Artifacts]
 lang: 日本語
 ---
