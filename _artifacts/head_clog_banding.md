@@ -23,4 +23,4 @@ Using the Analysis tab in DVRescue, you can check to see if there are an errors 
 
 <iframe src="https://archive.org/embed/AVAADVHeadclog2" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe><br>
 
-[insert additional images from this issue: https://github.com/bavc/avaa/issues/257]
+<iframe src="https://archive.org/embed/camcorder_headclog-banding_baddvoverwrite_202502" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
