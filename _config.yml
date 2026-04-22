@@ -13,18 +13,22 @@ t:
   English:
     title: 'A/V Artifact Atlas'
     description: ''
-  Español:
-    title: 'A/V Artifact Atlas'
+  # Español:
+  #   title: 'A/V Artifact Atlas'
+  #   description: ''
+  #   code: es
+  # Français:
+  #   title: 'A/V Artifact Atlas'
+  #   description: ''
+  #   code: fr
+  # 日本語:
+  #   title: 'A/V Artifact Atlas'
+  #   description: ''
+  #   code: jp
+  中文:
+    title: 'A/V 瑕疵图集'
     description: ''
-    code: es
-  Français:
-    title: 'A/V Artifact Atlas'
-    description: ''
-    code: fr
-  日本語:
-    title: 'A/V Artifact Atlas'
-    description: ''
-    code: jp
+    code: zh
 
 
 prose:

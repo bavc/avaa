@@ -26,13 +26,14 @@
                 </h1>
                 <span class="tagline"></span>
             </div>
-            <!-- Uncomment this block when translations are complete (or link manually if some become complete before others!) -->
-            <!-- <nav class="sidebar-nav-lang">
-                {% assign pages=site.pages | where:"ref", "home" | sort: 'lang' %} {% for page in pages %}
-                <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}" style="font-weight:bold;">{{ page.lang }}</a><br/> 
-                {% endfor %}
-                </ul>
-            </nav> -->
+            <!-- Language navigation - only show languages defined in _config.yml -->
+                <nav class="sidebar-nav-lang">
+                    {% for lang_name in site.t %} {% assign lang_code = lang_name[1].code %}
+                    {% assign pages=site.pages | where:"ref", "home" | where:"lang", lang_name[0] | sort: 'lang' %} {% for page in pages %}
+                    <a class="sidebar-nav-lang-item" href="{{ site.baseurl }}{{ page.url }}" class="{{ page.lang }}" style="font-weight:bold;">{{ page.lang }}</a><br/>
+                    {% endfor %}
+                    {% endfor %}
+                </nav>
             <div class="posts">
                 <div class="search">
                     <form action="{{ site.baseurl }}{% if site.t[page.lang].code %}/{{ site.t[page.lang].code }}{% endif %}/search.html" method="get">
