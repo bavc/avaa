@@ -7,6 +7,7 @@ tags: [Analog, Video, Production Error, Color smearing, Editing cut]
 formats: [DV]
 lang: English
 ---
+<!-- This minght be an error since DV is a digital format-->
 
 The _Compendium of Image Errors in Analogue Video_ describes this as “Color Smearing After an Editing Cut.”<sup><a href="#fn1" id="ref1">1</a></sup>
 

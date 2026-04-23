@@ -20,6 +20,7 @@ Severe tracking issues with a particular piece of media may require a custom tap
 <iframe src="https://archive.org/embed/tracking_201702" width="560" height="315" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Quality Control Tools
+
 Large tracking errors in a video file will be clearly evident as significant spikes in the Temporal Outliers (TOUT) graph. Example below.
 
 

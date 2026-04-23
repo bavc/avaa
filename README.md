@@ -1,4 +1,6 @@
-# [AVAA](//www.avartifactatlas.com)
+# [AVAA-zh-cn](//www.avartifactatlas.com)
+
+AVAA-zh-cn是AVAA项目的一个中文翻译版本。
 
 ## Contributing
 
